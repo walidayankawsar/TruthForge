@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Features - TruthForge</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+  <style>
+    body { 
+      background: linear-gradient(135deg, #0f172a 0%, #1e2937 100%); 
+      font-family: system-ui, -apple-system, sans-serif;
+    }
+    .neon-text { text-shadow: 0 0 20px #22d3ee; }
+    .glass { 
+      background: rgba(255,255,255,0.06); 
+      backdrop-filter: blur(16px); 
+      border: 1px solid rgba(255,255,255,0.1); 
+    }
+  </style>
+</head>
+<body class="text-white min-h-screen">
+
+  <!-- Navbar -->
+  <nav class="fixed top-0 w-full glass z-50">
+    <div class="max-w-7xl mx-auto px-6 py-5 flex justify-between items-center">
+      <div class="flex items-center gap-3">
+        <i class="fa-solid fa-shield-halved text-4xl text-cyan-400"></i>
+        <h1 class="text-3xl font-bold neon-text">TruthForge</h1>
+      </div>
+      <div class="flex gap-8 text-sm font-medium">
+        <a href="TruthForge.html" class="hover:text-cyan-400">Home</a>
+        <a href="analyze.html" class="hover:text-cyan-400">Analyze</a>
+        <a href="features.html" class="text-cyan-400">Features</a>
+        <a href="about.html" class="hover:text-cyan-400">About</a>
+      </div>
+    </div>
+  </nav>
+
+  <div class="pt-28"></div>
+
+  <section class="max-w-6xl mx-auto px-6 py-16">
+    <h1 class="text-6xl font-bold text-center neon-text mb-4">Powerful Features</h1>
+    <p class="text-center text-xl text-gray-300 mb-16">Built for accuracy, transparency, and real-world impact</p>
+
+    <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+      <!-- Feature Cards -->
+      <div class="glass rounded-3xl p-8 hover:scale-105 transition">
+        <div class="text-5xl mb-6">🌐</div>
+        <h3 class="text-2xl font-bold mb-3">Multilingual Support</h3>
+        <p class="text-gray-300">Analyze news in English, বাংলা, हिन्दी, العربية, Español, Français and more with high accuracy.</p>
+      </div>
+
+      <div class="glass rounded-3xl p-8 hover:scale-105 transition">
+        <div class="text-5xl mb-6">🔍</div>
+        <h3 class="text-2xl font-bold mb-3">Explainable AI (XAI)</h3>
+        <p class="text-gray-300">See exactly why the AI made its decision with word highlighting and confidence breakdown.</p>
+      </div>
+
+      <div class="glass rounded-3xl p-8 hover:scale-105 transition">
+        <div class="text-5xl mb-6">📸</div>
+        <h3 class="text-2xl font-bold mb-3">Image & Screenshot Analysis</h3>
+        <p class="text-gray-300">Upload news images, memes, or screenshots for visual fake news detection.</p>
+      </div>
+
+      <div class="glass rounded-3xl p-8 hover:scale-105 transition">
+        <div class="text-5xl mb-6">⚖️</div>
+        <h3 class="text-2xl font-bold mb-3">Political Context Awareness</h3>
+        <p class="text-gray-300">Detects political bias, leaning, and sensitivity level of the content.</p>
+      </div>
+
+      <div class="glass rounded-3xl p-8 hover:scale-105 transition">
+        <div class="text-5xl mb-6">📊</div>
+        <h3 class="text-2xl font-bold mb-3">Confidence Scoring</h3>
+        <p class="text-gray-300">Clear confidence percentage with detailed justification for every prediction.</p>
+      </div>
+
+      <div class="glass rounded-3xl p-8 hover:scale-105 transition">
+        <div class="text-5xl mb-6">📖</div>
+        <h3 class="text-2xl font-bold mb-3">Analysis History</h3>
+        <p class="text-gray-300">Save and review your previous verifications (coming soon in full version).</p>
+      </div>
+    </div>
+
+    <!-- Extra Highlight -->
+    <div class="mt-20 glass rounded-3xl p-12 text-center">
+      <h2 class="text-4xl font-bold mb-6">Why TruthForge Stands Out</h2>
+      <div class="grid md:grid-cols-3 gap-10 max-w-4xl mx-auto">
+        <div>
+          <h4 class="font-semibold text-cyan-400 mb-2">Not Just Detection</h4>
+          <p class="text-gray-300">Full explanation + political insight</p>
+        </div>
+        <div>
+          <h4 class="font-semibold text-cyan-400 mb-2">Real-time Ready</h4>
+          <p class="text-gray-300">Fast analysis with modern UI</p>
+        </div>
+        <div>
+          <h4 class="font-semibold text-cyan-400 mb-2">Thesis Level Research</h4>
+          <p class="text-gray-300">Built on latest NLP and XAI techniques</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+</body>
+</html>

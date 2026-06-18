@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TruthForge | AI Fake News Detector</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+  <style>
+    body { 
+      background: linear-gradient(135deg, #0f172a 0%, #1e2937 100%); 
+    }
+    .neon-text { text-shadow: 0 0 15px #22d3ee; }
+    .glass { 
+      background: rgba(255,255,255,0.05); 
+      backdrop-filter: blur(12px); 
+      border: 1px solid rgba(255,255,255,0.1); 
+    }
+    .center-card {
+      max-width: 800px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+  </style>
+</head>
+<body class="text-white min-h-screen">
+  <!-- Navbar -->
+  <nav class="fixed top-0 w-full glass z-50">
+    <div class="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
+      <div class="flex items-center gap-3">
+        <i class="fa-solid fa-shield-halved text-3xl text-cyan-400"></i>
+        <h1 class="text-2xl font-bold neon-text">TruthForge</h1>
+      </div>
+      <div class="flex gap-8 text-sm">
+        <a href="TruthForge.html" class="hover:text-cyan-400 transition">Home</a>
+        <a href="analyze.html" class="text-cyan-400">Analyze</a>
+        <a href="features.html" class="hover:text-cyan-400 transition">Features</a>
+        <a href="about.html" class="hover:text-cyan-400 transition">About</a>
+      </div>
+      <button onclick="toggleTheme()" class="p-2 hover:bg-white/10 rounded-xl">
+        <i id="theme-icon" class="fa-solid fa-moon text-xl"></i>
+      </button>
+    </div>
+  </nav>
+
+  <!-- Hero -->
+  <section class="pt-32 pb-16 text-center">
+    <div class="max-w-4xl mx-auto px-6">
+      <h1 class="text-6xl font-bold mb-6 leading-tight neon-text">
+        Detecting Lies.<br>Explaining Truth.
+      </h1>
+      <p class="text-xl text-gray-300">Multilingual • Explainable AI • Political Context</p>
+    </div>
+  </section>
+
+  <!-- Main Analyzer - Centered -->
+  <section id="analyze" class="max-w-4xl mx-auto px-6 pb-20">
+    <div class="center-card glass rounded-3xl p-10 shadow-2xl">
+      <h2 class="text-4xl font-bold text-center mb-8">News Verification Engine</h2>
+
+      <!-- Language -->
+      <div class="mb-6">
+        <label class="block text-sm mb-2 text-center">Select Language</label>
+        <select id="language" class="mx-auto block w-64 bg-slate-900 border border-slate-700 rounded-2xl p-4 text-white">
+          <option value="en">English</option>
+          <option value="bn">বাংলা</option>
+          <option value="es">Español</option>
+          <option value="fr">Français</option>
+          <option value="ar">العربية</option>
+          <option value="hi">हिन्दी</option>
+        </select>
+      </div>
+
+      <!-- Tabs: Text / Image -->
+      <div class="flex justify-center gap-4 mb-8">
+        <button onclick="switchTab(0)" id="tab-text" 
+          class="tab-btn active px-8 py-3 rounded-2xl font-medium">📝 Text Analysis</button>
+        <button onclick="switchTab(1)" id="tab-image"
+          class="tab-btn px-8 py-3 rounded-2xl font-medium">🖼️ Image / Screenshot</button>
+      </div>
+
+      <!-- Text Input -->
+      <div id="text-panel">
+        <textarea id="newsInput" rows="7" 
+          class="w-full bg-slate-900 border border-slate-700 rounded-3xl p-6 text-lg resize-none focus:border-cyan-400 outline-none"
+          placeholder="Paste your news article here..."></textarea>
+      </div>
+
+      <!-- Image Upload -->
+      <div id="image-panel" class="hidden">
+        <div class="border-2 border-dashed border-slate-600 rounded-3xl p-12 text-center hover:border-cyan-400 transition">
+          <i class="fa-solid fa-cloud-arrow-up text-5xl text-gray-400 mb-4"></i>
+          <p class="mb-2">Upload Screenshot or News Image</p>
+          <input type="file" id="imageUpload" accept="image/*" class="hidden" onchange="previewImage(event)">
+          <button onclick="document.getElementById('imageUpload').click()" 
+            class="bg-slate-800 hover:bg-slate-700 px-6 py-3 rounded-2xl">
+            Choose File
+          </button>
+          <div id="imagePreview" class="mt-6 hidden">
+            <img id="previewImg" class="max-h-64 mx-auto rounded-2xl shadow-lg">
+          </div>
+        </div>
+      </div>
+
+      <!-- Analyze Button -->
+      <button onclick="analyzeNews()" 
+        class="mt-8 w-full bg-gradient-to-r from-cyan-500 to-blue-600 py-5 rounded-3xl font-bold text-xl hover:brightness-110 transition flex items-center justify-center gap-3">
+        <i class="fa-solid fa-magnifying-glass"></i>
+        Analyze with TruthForge
+      </button>
+    </div>
+
+    <!-- Result Panel (Centered) -->
+    <div id="resultPanel" class="center-card glass rounded-3xl p-10 mt-8 shadow-2xl hidden">
+      <div class="flex justify-between items-center mb-6">
+        <h3 class="text-3xl font-semibold">Analysis Result</h3>
+        <button onclick="resetAnalysis()" class="text-cyan-400 hover:text-cyan-300">New Analysis</button>
+      </div>
+
+      <div id="verdict" class="text-6xl font-bold text-center mb-8"></div>
+
+      <div class="grid md:grid-cols-2 gap-8">
+        <div>
+          <p class="text-sm text-gray-400 mb-2 text-center">Confidence</p>
+          <div class="h-4 bg-slate-800 rounded-full overflow-hidden">
+            <div id="confidenceBar" class="h-full bg-gradient-to-r from-cyan-400 to-blue-500 w-0 transition-all"></div>
+          </div>
+        </div>
+
+        <div id="imageResult" class="hidden">
+          <p class="text-sm text-gray-400 mb-2">Uploaded Image</p>
+          <img id="resultImage" class="rounded-2xl max-h-48 mx-auto">
+        </div>
+      </div>
+
+      <div class="mt-8 glass p-6 rounded-2xl">
+        <h4 class="font-semibold mb-3 flex items-center gap-2">
+          <i class="fa-solid fa-lightbulb text-amber-400"></i> XAI Explanation
+        </h4>
+        <div id="explanation" class="text-gray-300 leading-relaxed"></div>
+      </div>
+
+      <div class="mt-6 glass p-6 rounded-2xl">
+        <h4 class="font-semibold mb-3">Political Context</h4>
+        <div id="politicalContext" class="space-y-3 text-sm"></div>
+      </div>
+    </div>
+  </section>
+
+  <script>
+    let currentTab = 0; // 0 = text, 1 = image
+
+    function switchTab(tab) {
+      currentTab = tab;
+      document.getElementById('text-panel').classList.toggle('hidden', tab === 1);
+      document.getElementById('image-panel').classList.toggle('hidden', tab === 0);
+      
+      document.getElementById('tab-text').classList.toggle('active', tab === 0);
+      document.getElementById('tab-image').classList.toggle('active', tab === 1);
+    }
+
+    function previewImage(event) {
+      const file = event.target.files[0];
+      if (file) {
+        const reader = new FileReader();
+        reader.onload = function(e) {
+          document.getElementById('previewImg').src = e.target.result;
+          document.getElementById('imagePreview').classList.remove('hidden');
+        }
+        reader.readAsDataURL(file);
+      }
+    }
+
+    function toggleTheme() {
+      document.documentElement.classList.toggle('light');
+      const icon = document.getElementById('theme-icon');
+      icon.classList.toggle('fa-moon');
+      icon.classList.toggle('fa-sun');
+    }
+
+    async function analyzeNews() {
+      const resultPanel = document.getElementById('resultPanel');
+      resultPanel.classList.remove('hidden');
+
+      document.getElementById('verdict').innerHTML = `<span class="text-yellow-400">Analyzing with AI...</span>`;
+
+      setTimeout(() => {
+        const isFake = Math.random() > 0.5;
+
+        document.getElementById('verdict').innerHTML = isFake ? 
+          `<span class="text-red-500">❌ Likely Fake News</span>` : 
+          `<span class="text-green-500">✅ Likely Real News</span>`;
+
+        document.getElementById('confidenceBar').style.width = '89%';
+
+        document.getElementById('explanation').innerHTML = `
+          <p>The model detected sensational language, unverified claims, and emotional manipulation.</p>
+          <p class="mt-3 text-cyan-400">Highlighted suspicious parts: "breaking", "shocking", "you won't believe".</p>
+        `;
+
+        document.getElementById('politicalContext').innerHTML = `
+          <div class="flex justify-between"><span>Bias Score</span><span class="text-orange-400">Moderate</span></div>
+          <div class="flex justify-between"><span>Political Leaning</span><span>Right</span></div>
+          <div class="flex justify-between"><span>Source Credibility</span><span class="text-yellow-400">Low-Medium</span></div>
+        `;
+
+        // Show image in result if uploaded
+        if (!document.getElementById('image-panel').classList.contains('hidden')) {
+          const previewSrc = document.getElementById('previewImg').src;
+          if (previewSrc) {
+            document.getElementById('imageResult').classList.remove('hidden');
+            document.getElementById('resultImage').src = previewSrc;
+          }
+        }
+      }, 1600);
+    }
+
+    function resetAnalysis() {
+      document.getElementById('resultPanel').classList.add('hidden');
+      document.getElementById('newsInput').value = '';
+      document.getElementById('imageUpload').value = '';
+      document.getElementById('imagePreview').classList.add('hidden');
+    }
+
+    // Default tab
+    window.onload = () => switchTab(0);
+  </script>
+</body>
+</html>

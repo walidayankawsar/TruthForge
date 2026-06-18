@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About - TruthForge</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+  <style>
+    body { 
+      background: linear-gradient(135deg, #0f172a 0%, #1e2937 100%); 
+      font-family: system-ui, -apple-system, sans-serif;
+    }
+    .neon-text { text-shadow: 0 0 20px #22d3ee; }
+    .glass { 
+      background: rgba(255,255,255,0.06); 
+      backdrop-filter: blur(16px); 
+      border: 1px solid rgba(255,255,255,0.1); 
+    }
+  </style>
+</head>
+<body class="text-white min-h-screen">
+
+  <!-- Navbar -->
+  <nav class="fixed top-0 w-full glass z-50">
+    <div class="max-w-7xl mx-auto px-6 py-5 flex justify-between items-center">
+      <div class="flex items-center gap-3">
+        <i class="fa-solid fa-shield-halved text-4xl text-cyan-400"></i>
+        <h1 class="text-3xl font-bold neon-text">TruthForge</h1>
+      </div>
+      <div class="flex gap-8 text-sm font-medium">
+        <a href="TruthForge.html" class="hover:text-cyan-400 transition">Home</a>
+        <a href="analyze.html" class="hover:text-cyan-400 transition">Analyze</a>
+        <a href="features.html" class="hover:text-cyan-400 transition">Features</a>
+        <a href="about.html" class="text-cyan-400">About</a>
+      </div>
+    </div>
+  </nav>
+
+  <div class="pt-28"></div>
+
+  <!-- Hero Section -->
+  <section class="max-w-5xl mx-auto px-6 text-center py-16">
+    <h1 class="text-6xl font-bold neon-text mb-6">About TruthForge</h1>
+    <p class="text-2xl text-gray-300 max-w-3xl mx-auto">
+      An intelligent, multilingual, and explainable AI system designed to combat fake news with political context awareness.
+    </p>
+  </section>
+
+  <!-- Main Content -->
+  <section class="max-w-5xl mx-auto px-6 pb-20">
+    <div class="glass rounded-3xl p-12">
+      <div class="grid md:grid-cols-2 gap-16">
+        <!-- Left Side -->
+        <div>
+          <h2 class="text-4xl font-bold mb-8">Our Mission</h2>
+          <div class="space-y-8 text-lg text-gray-200">
+            <p>
+              In today's digital age, misinformation spreads faster than truth. 
+              <strong class="text-cyan-400">TruthForge</strong> was built to empower users with transparent, 
+              explainable AI that doesn't just say "fake" or "real" — it explains <strong>why</strong>.
+            </p>
+            <p>
+              Our system supports multiple languages including Bengali, English, Hindi, Arabic, Spanish, and French, 
+              making it truly accessible across borders.
+            </p>
+          </div>
+        </div>
+
+        <!-- Right Side -->
+        <div class="space-y-8">
+          <div class="glass p-8 rounded-2xl">
+            <h3 class="text-2xl font-semibold mb-6 flex items-center gap-3">
+              <i class="fa-solid fa-graduation-cap text-cyan-400"></i> Thesis Project
+            </h3>
+            <p class="text-gray-300">
+              This is a final year undergraduate thesis project focused on developing a robust fake news detection system 
+              using Explainable AI (XAI) and incorporating political context for better accuracy.
+            </p>
+          </div>
+
+          <div class="glass p-8 rounded-2xl">
+            <h3 class="text-2xl font-semibold mb-6">Key Innovations</h3>
+            <ul class="space-y-4 text-gray-300">
+              <li class="flex gap-3"><span class="text-cyan-400">→</span> Multilingual Support (6+ languages)</li>
+              <li class="flex gap-3"><span class="text-cyan-400">→</span> Explainable AI with word-level highlights</li>
+              <li class="flex gap-3"><span class="text-cyan-400">→</span> Political Bias &amp; Leaning Detection</li>
+              <li class="flex gap-3"><span class="text-cyan-400">→</span> Image + Text Analysis</li>
+              <li class="flex gap-3"><span class="text-cyan-400">→</span> Source Credibility Scoring</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Tech Stack -->
+    <div class="mt-16">
+      <h2 class="text-4xl font-bold text-center mb-10">Built With</h2>
+      <div class="grid grid-cols-2 md:grid-cols-4 gap-6">
+        <div class="glass p-8 rounded-2xl text-center hover:scale-105 transition">
+          <i class="fa-solid fa-brain text-5xl text-purple-400 mb-4"></i>
+          <h4 class="font-semibold">Machine Learning</h4>
+          <p class="text-sm text-gray-400">BERT • Transformer Models • XAI</p>
+        </div>
+        <div class="glass p-8 rounded-2xl text-center hover:scale-105 transition">
+          <i class="fa-solid fa-globe text-5xl text-cyan-400 mb-4"></i>
+          <h4 class="font-semibold">Multilingual NLP</h4>
+          <p class="text-sm text-gray-400">mBERT • Language Detection</p>
+        </div>
+        <div class="glass p-8 rounded-2xl text-center hover:scale-105 transition">
+          <i class="fa-solid fa-chart-bar text-5xl text-amber-400 mb-4"></i>
+          <h4 class="font-semibold">Political Analysis</h4>
+          <p class="text-sm text-gray-400">Bias Detection • Context Engine</p>
+        </div>
+        <div class="glass p-8 rounded-2xl text-center hover:scale-105 transition">
+          <i class="fa-solid fa-laptop-code text-5xl text-emerald-400 mb-4"></i>
+          <h4 class="font-semibold">Frontend</h4>
+          <p class="text-sm text-gray-400">Tailwind CSS • Modern UI/UX</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Vision -->
+    <div class="mt-20 glass rounded-3xl p-12 text-center">
+      <h2 class="text-4xl font-bold mb-6">Our Vision</h2>
+      <p class="max-w-2xl mx-auto text-xl text-gray-300">
+        To create a world where people can consume news with confidence — knowing exactly why a piece of information 
+        is trustworthy or misleading.
+      </p>
+      <div class="mt-10 inline-flex items-center gap-3 bg-slate-900 px-8 py-4 rounded-2xl">
+        <i class="fa-solid fa-heart text-red-500"></i>
+        <span class="font-medium">Built with passion for truth and transparency</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="glass py-10 text-center text-gray-400 text-sm">
+    <p>&copy; 2026 TruthForge Thesis Project | All Rights Reserved</p>
+  </footer>
+
+</body>
+</html>
