@@ -1,0 +1,6602 @@
+[
+  {
+    "text": "जरूरी: डॉक्टर नहीं चाहते कि आप जानें: अनाज का बाज़ार का यह उपाय एक हफ्ते में सब ठीक कर देगा।",
+    "label": 1,
+    "metadata": {
+      "political_party": "BJP",
+      "speaker_role": "unknown",
+      "country": "IN",
+      "source_credibility": 0.12,
+      "domain_age": 6
+    }
+  },
+  {
+    "text": "An official notice on fuel prices states that the new rules take effect next month.",
+    "label": 0,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "unknown",
+      "country": "UNK",
+      "source_credibility": 0.55,
+      "domain_age": 2
+    }
+  },
+  {
+    "text": "प्रेस कॉन्फ्रेंस में मंत्री ने ईंधन की कीमतें से जुड़े आंकड़े जारी किए, जिन्हें स्वतंत्र संस्था ने भी सत्यापित किया।",
+    "label": 0,
+    "metadata": {
+      "political_party": "Congress",
+      "speaker_role": "official",
+      "country": "IN",
+      "source_credibility": 0.68,
+      "domain_age": 20
+    }
+  },
+  {
+    "text": "डिजिटल सेवाएँ के बारे में सरकारी अधिसूचना में कहा गया है कि नए नियम अगले महीने से लागू होंगे।",
+    "label": 0,
+    "metadata": {
+      "political_party": "Congress",
+      "speaker_role": "journalist",
+      "country": "IN",
+      "source_credibility": 0.61,
+      "domain_age": 19
+    }
+  },
+  {
+    "text": "Everything you were told about digital services is a lie, and the media will not show you the real story.",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "politician",
+      "country": "IN",
+      "source_credibility": 0.55,
+      "domain_age": 9
+    }
+  },
+  {
+    "text": "জরুরি: ডিজিটাল সেবা নিয়ে যা বলা হচ্ছে সবই মিথ্যা, আসল ঘটনা মিডিয়া দেখাচ্ছে না।",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "journalist",
+      "country": "BD",
+      "source_credibility": 0.5,
+      "domain_age": 20
+    }
+  },
+  {
+    "text": "चुनाव के बारे में सरकारी अधिसूचना में कहा गया है कि नए नियम अगले महीने से लागू होंगे।",
+    "label": 0,
+    "metadata": {
+      "political_party": "Congress",
+      "speaker_role": "unknown",
+      "country": "IN",
+      "source_credibility": 0.43,
+      "domain_age": 9
+    }
+  },
+  {
+    "text": "URGENT: Shocking leak: opposition secretly received foreign money over the election, documents exposed.",
+    "label": 1,
+    "metadata": {
+      "political_party": "Republican",
+      "speaker_role": "official",
+      "country": "US",
+      "source_credibility": 0.54,
+      "domain_age": 10
+    }
+  },
+  {
+    "text": "জ্বালানির দাম নিয়ে সংসদীয় কমিটি বৈঠক করেছে এবং সুপারিশসহ প্রতিবেদন জমা দিয়েছে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "Awami League",
+      "speaker_role": "official",
+      "country": "BD",
+      "source_credibility": 0.33,
+      "domain_age": 11
+    }
+  },
+  {
+    "text": "अनाज का बाज़ार पर शोध के नतीजे एक समीक्षित जर्नल में प्रकाशित हुए हैं।",
+    "label": 0,
+    "metadata": {
+      "political_party": "BJP",
+      "speaker_role": "citizen",
+      "country": "IN",
+      "source_credibility": 0.0,
+      "domain_age": 3
+    }
+  },
+  {
+    "text": "An official notice on the vaccination drive states that the new rules take effect next month.",
+    "label": 0,
+    "metadata": {
+      "political_party": "BNP",
+      "speaker_role": "politician",
+      "country": "BD",
+      "source_credibility": 0.41,
+      "domain_age": 19
+    }
+  },
+  {
+    "text": "ডিজিটাল সেবা বিষয়ে সরকারি বিজ্ঞপ্তিতে বলা হয়েছে, নতুন নিয়ম আগামী মাস থেকে কার্যকর হবে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "Jatiya Party",
+      "speaker_role": "unknown",
+      "country": "BD",
+      "source_credibility": 0.73,
+      "domain_age": 9
+    }
+  },
+  {
+    "text": "विस्फोटक: बाढ़ की स्थिति के बारे में जो बताया जा रहा है वह सब झूठ है, मीडिया असली सच नहीं दिखा रहा।",
+    "label": 1,
+    "metadata": {
+      "political_party": "AAP",
+      "speaker_role": "politician",
+      "country": "IN",
+      "source_credibility": 0.29,
+      "domain_age": 7
+    }
+  },
+  {
+    "text": "Research findings on the power shortage have been published in a peer-reviewed journal.",
+    "label": 0,
+    "metadata": {
+      "political_party": "Democrat",
+      "speaker_role": "official",
+      "country": "US",
+      "source_credibility": 0.65,
+      "domain_age": 12
+    }
+  },
+  {
+    "text": "EXPLOSIVE: Shocking leak: opposition secretly received foreign money over public healthcare, documents exposed.",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "citizen",
+      "country": "IN",
+      "source_credibility": 0.57,
+      "domain_age": 4
+    }
+  },
+  {
+    "text": "BREAKING: Shocking leak: opposition secretly received foreign money over traffic reforms, documents exposed.",
+    "label": 1,
+    "metadata": {
+      "political_party": "Republican",
+      "speaker_role": "official",
+      "country": "US",
+      "source_credibility": 0.52,
+      "domain_age": 3
+    }
+  },
+  {
+    "text": "ब्रेकिंग: सूत्रों के अनुसार ईंधन की कीमतें पर सरकार सच छिपा रही है। तुरंत सबको शेयर करें!",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "official",
+      "country": "IN",
+      "source_credibility": 0.5,
+      "domain_age": 4
+    }
+  },
+  {
+    "text": "An official notice on the food market states that the new rules take effect next month.",
+    "label": 0,
+    "metadata": {
+      "political_party": "AAP",
+      "speaker_role": "unknown",
+      "country": "IN",
+      "source_credibility": 0.75,
+      "domain_age": 17
+    }
+  },
+  {
+    "text": "Shocking leak: opposition secretly received foreign money over the power shortage, documents exposed.",
+    "label": 1,
+    "metadata": {
+      "political_party": "AAP",
+      "speaker_role": "official",
+      "country": "IN",
+      "source_credibility": 0.72,
+      "domain_age": 8
+    }
+  },
+  {
+    "text": "সূত্র জানিয়েছে, স্বাস্থ্যসেবা নিয়ে সরকার সত্য গোপন করছে। সবাইকে শেয়ার করুন!",
+    "label": 1,
+    "metadata": {
+      "political_party": "Awami League",
+      "speaker_role": "citizen",
+      "country": "BD",
+      "source_credibility": 0.49,
+      "domain_age": 10
+    }
+  },
+  {
+    "text": "ईंधन की कीमतें के बारे में सरकारी अधिसूचना में कहा गया है कि नए नियम अगले महीने से लागू होंगे।",
+    "label": 0,
+    "metadata": {
+      "political_party": "Congress",
+      "speaker_role": "politician",
+      "country": "IN",
+      "source_credibility": 0.56,
+      "domain_age": 15
+    }
+  },
+  {
+    "text": "যানজট নিরসন বিষয়ে সরকারি বিজ্ঞপ্তিতে বলা হয়েছে, নতুন নিয়ম আগামী মাস থেকে কার্যকর হবে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "BNP",
+      "speaker_role": "official",
+      "country": "BD",
+      "source_credibility": 0.76,
+      "domain_age": 12
+    }
+  },
+  {
+    "text": "BREAKING: Sources say the government is hiding the truth about public healthcare. Share before it gets deleted!",
+    "label": 1,
+    "metadata": {
+      "political_party": "BJP",
+      "speaker_role": "politician",
+      "country": "IN",
+      "source_credibility": 0.27,
+      "domain_age": 10
+    }
+  },
+  {
+    "text": "Everything you were told about the vaccination drive is a lie, and the media will not show you the real story.",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "citizen",
+      "country": "IN",
+      "source_credibility": 0.48,
+      "domain_age": 20
+    }
+  },
+  {
+    "text": "সূত্র জানিয়েছে, টিকা কর্মসূচি নিয়ে সরকার সত্য গোপন করছে। সবাইকে শেয়ার করুন!",
+    "label": 1,
+    "metadata": {
+      "political_party": "BNP",
+      "speaker_role": "journalist",
+      "country": "BD",
+      "source_credibility": 0.23,
+      "domain_age": 18
+    }
+  },
+  {
+    "text": "A parliamentary committee met on the vaccination drive and submitted a report with recommendations.",
+    "label": 0,
+    "metadata": {
+      "political_party": "Awami League",
+      "speaker_role": "citizen",
+      "country": "BD",
+      "source_credibility": 0.47,
+      "domain_age": 17
+    }
+  },
+  {
+    "text": "চালের বাজার নিয়ে সংসদীয় কমিটি বৈঠক করেছে এবং সুপারিশসহ প্রতিবেদন জমা দিয়েছে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "BNP",
+      "speaker_role": "unknown",
+      "country": "BD",
+      "source_credibility": 0.79,
+      "domain_age": 14
+    }
+  },
+  {
+    "text": "সংবাদ সম্মেলনে মন্ত্রী যানজট নিরসন সংক্রান্ত পরিসংখ্যান প্রকাশ করেছেন, যা স্বাধীন সংস্থাও যাচাই করেছে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "BNP",
+      "speaker_role": "journalist",
+      "country": "BD",
+      "source_credibility": 0.73,
+      "domain_age": 3
+    }
+  },
+  {
+    "text": "अनाज का बाज़ार के बारे में सरकारी अधिसूचना में कहा गया है कि नए नियम अगले महीने से लागू होंगे।",
+    "label": 0,
+    "metadata": {
+      "political_party": "AAP",
+      "speaker_role": "unknown",
+      "country": "IN",
+      "source_credibility": 0.62,
+      "domain_age": 14
+    }
+  },
+  {
+    "text": "वायरल दावा: अनाज का बाज़ार को लेकर विपक्ष को विदेश से गुप्त फंडिंग मिली, सबूत लीक।",
+    "label": 1,
+    "metadata": {
+      "political_party": "Awami League",
+      "speaker_role": "official",
+      "country": "BD",
+      "source_credibility": 0.31,
+      "domain_age": 15
+    }
+  },
+  {
+    "text": "विस्फोटक: डॉक्टर नहीं चाहते कि आप जानें: अनाज का बाज़ार का यह उपाय एक हफ्ते में सब ठीक कर देगा।",
+    "label": 1,
+    "metadata": {
+      "political_party": "Congress",
+      "speaker_role": "journalist",
+      "country": "IN",
+      "source_credibility": 0.24,
+      "domain_age": 7
+    }
+  },
+  {
+    "text": "डिजिटल सेवाएँ के बारे में जो बताया जा रहा है वह सब झूठ है, मीडिया असली सच नहीं दिखा रहा।",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "journalist",
+      "country": "IN",
+      "source_credibility": 0.53,
+      "domain_age": 4
+    }
+  },
+  {
+    "text": "বিস্ফোরক: ভয়ংকর খবর! স্বাস্থ্যসেবা নিয়ে বিরোধী দল গোপনে বিদেশ থেকে টাকা নিয়েছে, প্রমাণ ফাঁস।",
+    "label": 1,
+    "metadata": {
+      "political_party": "Awami League",
+      "speaker_role": "journalist",
+      "country": "BD",
+      "source_credibility": 0.35,
+      "domain_age": 15
+    }
+  },
+  {
+    "text": "EXPLOSIVE: Everything you were told about digital services is a lie, and the media will not show you the real story.",
+    "label": 1,
+    "metadata": {
+      "political_party": "Awami League",
+      "speaker_role": "journalist",
+      "country": "BD",
+      "source_credibility": 0.34,
+      "domain_age": 6
+    }
+  },
+  {
+    "text": "স্বাস্থ্যসেবা নিয়ে গবেষণার ফল একটি পিয়ার-রিভিউড জার্নালে প্রকাশিত হয়েছে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "Awami League",
+      "speaker_role": "journalist",
+      "country": "BD",
+      "source_credibility": 0.94,
+      "domain_age": 9
+    }
+  },
+  {
+    "text": "বন্যা পরিস্থিতি বিষয়ে সরকারি বিজ্ঞপ্তিতে বলা হয়েছে, নতুন নিয়ম আগামী মাস থেকে কার্যকর হবে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "Awami League",
+      "speaker_role": "unknown",
+      "country": "BD",
+      "source_credibility": 0.74,
+      "domain_age": 2
+    }
+  },
+  {
+    "text": "টিকা কর্মসূচি নিয়ে সংসদীয় কমিটি বৈঠক করেছে এবং সুপারিশসহ প্রতিবেদন জমা দিয়েছে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "Jatiya Party",
+      "speaker_role": "citizen",
+      "country": "BD",
+      "source_credibility": 0.71,
+      "domain_age": 19
+    }
+  },
+  {
+    "text": "प्रेस कॉन्फ्रेंस में मंत्री ने बाढ़ की स्थिति से जुड़े आंकड़े जारी किए, जिन्हें स्वतंत्र संस्था ने भी सत्यापित किया।",
+    "label": 0,
+    "metadata": {
+      "political_party": "BJP",
+      "speaker_role": "journalist",
+      "country": "IN",
+      "source_credibility": 0.45,
+      "domain_age": 18
+    }
+  },
+  {
+    "text": "ट्रैफिक सुधार के बारे में सरकारी अधिसूचना में कहा गया है कि नए नियम अगले महीने से लागू होंगे।",
+    "label": 0,
+    "metadata": {
+      "political_party": "AAP",
+      "speaker_role": "politician",
+      "country": "IN",
+      "source_credibility": 0.59,
+      "domain_age": 12
+    }
+  },
+  {
+    "text": "टीकाकरण अभियान पर शोध के नतीजे एक समीक्षित जर्नल में प्रकाशित हुए हैं।",
+    "label": 0,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "politician",
+      "country": "IN",
+      "source_credibility": 0.48,
+      "domain_age": 16
+    }
+  },
+  {
+    "text": "ভয়ংকর খবর! টিকা কর্মসূচি নিয়ে বিরোধী দল গোপনে বিদেশ থেকে টাকা নিয়েছে, প্রমাণ ফাঁস।",
+    "label": 1,
+    "metadata": {
+      "political_party": "BNP",
+      "speaker_role": "journalist",
+      "country": "BD",
+      "source_credibility": 0.3,
+      "domain_age": 13
+    }
+  },
+  {
+    "text": "प्रेस कॉन्फ्रेंस में मंत्री ने चुनाव से जुड़े आंकड़े जारी किए, जिन्हें स्वतंत्र संस्था ने भी सत्यापित किया।",
+    "label": 0,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "journalist",
+      "country": "IN",
+      "source_credibility": 0.48,
+      "domain_age": 1
+    }
+  },
+  {
+    "text": "Research findings on the power shortage have been published in a peer-reviewed journal.",
+    "label": 0,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "politician",
+      "country": "UNK",
+      "source_credibility": 0.28,
+      "domain_age": 4
+    }
+  },
+  {
+    "text": "BREAKING: Doctors don't want you to know: this one trick fixes everything about the education budget in a week.",
+    "label": 1,
+    "metadata": {
+      "political_party": "Jatiya Party",
+      "speaker_role": "official",
+      "country": "BD",
+      "source_credibility": 0.32,
+      "domain_age": 2
+    }
+  },
+  {
+    "text": "स्वास्थ्य सेवा के बारे में जो बताया जा रहा है वह सब झूठ है, मीडिया असली सच नहीं दिखा रहा।",
+    "label": 1,
+    "metadata": {
+      "political_party": "BJP",
+      "speaker_role": "journalist",
+      "country": "IN",
+      "source_credibility": 0.16,
+      "domain_age": 5
+    }
+  },
+  {
+    "text": "বিদ্যুৎ সংকট বিষয়ে সরকারি বিজ্ঞপ্তিতে বলা হয়েছে, নতুন নিয়ম আগামী মাস থেকে কার্যকর হবে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "Awami League",
+      "speaker_role": "journalist",
+      "country": "BD",
+      "source_credibility": 0.43,
+      "domain_age": 9
+    }
+  },
+  {
+    "text": "বন্যা পরিস্থিতি নিয়ে গবেষণার ফল একটি পিয়ার-রিভিউড জার্নালে প্রকাশিত হয়েছে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "Awami League",
+      "speaker_role": "citizen",
+      "country": "BD",
+      "source_credibility": 0.52,
+      "domain_age": 20
+    }
+  },
+  {
+    "text": "टीकाकरण अभियान के बारे में सरकारी अधिसूचना में कहा गया है कि नए नियम अगले महीने से लागू होंगे।",
+    "label": 0,
+    "metadata": {
+      "political_party": "BJP",
+      "speaker_role": "politician",
+      "country": "IN",
+      "source_credibility": 0.6,
+      "domain_age": 2
+    }
+  },
+  {
+    "text": "ब्रेकिंग: डॉक्टर नहीं चाहते कि आप जानें: शिक्षा बजट का यह उपाय एक हफ्ते में सब ठीक कर देगा।",
+    "label": 1,
+    "metadata": {
+      "political_party": "Congress",
+      "speaker_role": "politician",
+      "country": "IN",
+      "source_credibility": 0.35,
+      "domain_age": 3
+    }
+  },
+  {
+    "text": "EXPLOSIVE: Doctors don't want you to know: this one trick fixes everything about the vaccination drive in a week.",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "politician",
+      "country": "UNK",
+      "source_credibility": 0.63,
+      "domain_age": 5
+    }
+  },
+  {
+    "text": "शिक्षा बजट के बारे में सरकारी अधिसूचना में कहा गया है कि नए नियम अगले महीने से लागू होंगे।",
+    "label": 0,
+    "metadata": {
+      "political_party": "Jatiya Party",
+      "speaker_role": "official",
+      "country": "BD",
+      "source_credibility": 0.69,
+      "domain_age": 16
+    }
+  },
+  {
+    "text": "प्रेस कॉन्फ्रेंस में मंत्री ने टीकाकरण अभियान से जुड़े आंकड़े जारी किए, जिन्हें स्वतंत्र संस्था ने भी सत्यापित किया।",
+    "label": 0,
+    "metadata": {
+      "political_party": "BJP",
+      "speaker_role": "politician",
+      "country": "IN",
+      "source_credibility": 0.76,
+      "domain_age": 7
+    }
+  },
+  {
+    "text": "वायरल दावा: बाढ़ की स्थिति को लेकर विपक्ष को विदेश से गुप्त फंडिंग मिली, सबूत लीक।",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "politician",
+      "country": "BD",
+      "source_credibility": 0.6,
+      "domain_age": 7
+    }
+  },
+  {
+    "text": "BREAKING: Shocking leak: opposition secretly received foreign money over the vaccination drive, documents exposed.",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "politician",
+      "country": "BD",
+      "source_credibility": 0.57,
+      "domain_age": 4
+    }
+  },
+  {
+    "text": "EXPLOSIVE: Doctors don't want you to know: this one trick fixes everything about flood relief in a week.",
+    "label": 1,
+    "metadata": {
+      "political_party": "Democrat",
+      "speaker_role": "journalist",
+      "country": "US",
+      "source_credibility": 0.16,
+      "domain_age": 1
+    }
+  },
+  {
+    "text": "बाढ़ की स्थिति के बारे में जो बताया जा रहा है वह सब झूठ है, मीडिया असली सच नहीं दिखा रहा।",
+    "label": 1,
+    "metadata": {
+      "political_party": "AAP",
+      "speaker_role": "official",
+      "country": "IN",
+      "source_credibility": 0.62,
+      "domain_age": 7
+    }
+  },
+  {
+    "text": "चुनाव पर संसदीय समिति ने बैठक की और सिफारिशों के साथ रिपोर्ट सौंपी।",
+    "label": 0,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "journalist",
+      "country": "IN",
+      "source_credibility": 0.85,
+      "domain_age": 12
+    }
+  },
+  {
+    "text": "URGENT: Sources say the government is hiding the truth about the power shortage. Share before it gets deleted!",
+    "label": 1,
+    "metadata": {
+      "political_party": "BNP",
+      "speaker_role": "citizen",
+      "country": "BD",
+      "source_credibility": 0.24,
+      "domain_age": 7
+    }
+  },
+  {
+    "text": "URGENT: Doctors don't want you to know: this one trick fixes everything about the vaccination drive in a week.",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "politician",
+      "country": "IN",
+      "source_credibility": 0.6,
+      "domain_age": 4
+    }
+  },
+  {
+    "text": "সংবাদ সম্মেলনে মন্ত্রী ডিজিটাল সেবা সংক্রান্ত পরিসংখ্যান প্রকাশ করেছেন, যা স্বাধীন সংস্থাও যাচাই করেছে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "BNP",
+      "speaker_role": "citizen",
+      "country": "BD",
+      "source_credibility": 0.88,
+      "domain_age": 17
+    }
+  },
+  {
+    "text": "ব্রেকিং: অবিশ্বাস্য! বিদ্যুৎ সংকট নিয়ে এই উপায়ে এক সপ্তাহেই সব সমস্যা শেষ, ডাক্তাররা চান না আপনি জানুন।",
+    "label": 1,
+    "metadata": {
+      "political_party": "BNP",
+      "speaker_role": "citizen",
+      "country": "BD",
+      "source_credibility": 0.64,
+      "domain_age": 3
+    }
+  },
+  {
+    "text": "Shocking leak: opposition secretly received foreign money over the election, documents exposed.",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "journalist",
+      "country": "UNK",
+      "source_credibility": 0.04,
+      "domain_age": 5
+    }
+  },
+  {
+    "text": "EXPLOSIVE: Shocking leak: opposition secretly received foreign money over the food market, documents exposed.",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "politician",
+      "country": "UNK",
+      "source_credibility": 0.74,
+      "domain_age": 17
+    }
+  },
+  {
+    "text": "URGENT: An official notice on the vaccination drive states that the new rules take effect next month.",
+    "label": 0,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "journalist",
+      "country": "IN",
+      "source_credibility": 0.82,
+      "domain_age": 3
+    }
+  },
+  {
+    "text": "डॉक्टर नहीं चाहते कि आप जानें: बिजली संकट का यह उपाय एक हफ्ते में सब ठीक कर देगा।",
+    "label": 1,
+    "metadata": {
+      "political_party": "BJP",
+      "speaker_role": "official",
+      "country": "IN",
+      "source_credibility": 0.22,
+      "domain_age": 1
+    }
+  },
+  {
+    "text": "সংবাদ সম্মেলনে মন্ত্রী ডিজিটাল সেবা সংক্রান্ত পরিসংখ্যান প্রকাশ করেছেন, যা স্বাধীন সংস্থাও যাচাই করেছে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "BJP",
+      "speaker_role": "official",
+      "country": "IN",
+      "source_credibility": 0.61,
+      "domain_age": 12
+    }
+  },
+  {
+    "text": "সংবাদ সম্মেলনে মন্ত্রী টিকা কর্মসূচি সংক্রান্ত পরিসংখ্যান প্রকাশ করেছেন, যা স্বাধীন সংস্থাও যাচাই করেছে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "Awami League",
+      "speaker_role": "citizen",
+      "country": "BD",
+      "source_credibility": 0.45,
+      "domain_age": 18
+    }
+  },
+  {
+    "text": "স্বাস্থ্যসেবা নিয়ে গবেষণার ফল একটি পিয়ার-রিভিউড জার্নালে প্রকাশিত হয়েছে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "Awami League",
+      "speaker_role": "unknown",
+      "country": "BD",
+      "source_credibility": 0.36,
+      "domain_age": 15
+    }
+  },
+  {
+    "text": "A parliamentary committee met on fuel prices and submitted a report with recommendations.",
+    "label": 0,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "official",
+      "country": "BD",
+      "source_credibility": 0.51,
+      "domain_age": 14
+    }
+  },
+  {
+    "text": "विस्फोटक: बाढ़ की स्थिति पर संसदीय समिति ने बैठक की और सिफारिशों के साथ रिपोर्ट सौंपी।",
+    "label": 0,
+    "metadata": {
+      "political_party": "AAP",
+      "speaker_role": "journalist",
+      "country": "IN",
+      "source_credibility": 0.99,
+      "domain_age": 3
+    }
+  },
+  {
+    "text": "জরুরি: নির্বাচন নিয়ে গবেষণার ফল একটি পিয়ার-রিভিউড জার্নালে প্রকাশিত হয়েছে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "journalist",
+      "country": "BD",
+      "source_credibility": 0.69,
+      "domain_age": 4
+    }
+  },
+  {
+    "text": "बाढ़ की स्थिति पर शोध के नतीजे एक समीक्षित जर्नल में प्रकाशित हुए हैं।",
+    "label": 0,
+    "metadata": {
+      "political_party": "BJP",
+      "speaker_role": "politician",
+      "country": "IN",
+      "source_credibility": 0.72,
+      "domain_age": 4
+    }
+  },
+  {
+    "text": "Everything you were told about the power shortage is a lie, and the media will not show you the real story.",
+    "label": 1,
+    "metadata": {
+      "political_party": "Republican",
+      "speaker_role": "politician",
+      "country": "US",
+      "source_credibility": 0.45,
+      "domain_age": 4
+    }
+  },
+  {
+    "text": "A parliamentary committee met on the education budget and submitted a report with recommendations.",
+    "label": 0,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "politician",
+      "country": "UNK",
+      "source_credibility": 0.57,
+      "domain_age": 3
+    }
+  },
+  {
+    "text": "प्रेस कॉन्फ्रेंस में मंत्री ने शिक्षा बजट से जुड़े आंकड़े जारी किए, जिन्हें स्वतंत्र संस्था ने भी सत्यापित किया।",
+    "label": 0,
+    "metadata": {
+      "political_party": "BJP",
+      "speaker_role": "journalist",
+      "country": "IN",
+      "source_credibility": 0.27,
+      "domain_age": 2
+    }
+  },
+  {
+    "text": "সূত্র জানিয়েছে, বিদ্যুৎ সংকট নিয়ে সরকার সত্য গোপন করছে। সবাইকে শেয়ার করুন!",
+    "label": 1,
+    "metadata": {
+      "political_party": "BNP",
+      "speaker_role": "politician",
+      "country": "BD",
+      "source_credibility": 0.55,
+      "domain_age": 2
+    }
+  },
+  {
+    "text": "बिजली संकट पर शोध के नतीजे एक समीक्षित जर्नल में प्रकाशित हुए हैं।",
+    "label": 0,
+    "metadata": {
+      "political_party": "Awami League",
+      "speaker_role": "politician",
+      "country": "BD",
+      "source_credibility": 0.26,
+      "domain_age": 5
+    }
+  },
+  {
+    "text": "বিস্ফোরক: সূত্র জানিয়েছে, ডিজিটাল সেবা নিয়ে সরকার সত্য গোপন করছে। সবাইকে শেয়ার করুন!",
+    "label": 1,
+    "metadata": {
+      "political_party": "Congress",
+      "speaker_role": "official",
+      "country": "IN",
+      "source_credibility": 0.19,
+      "domain_age": 4
+    }
+  },
+  {
+    "text": "বন্যা পরিস্থিতি বিষয়ে সরকারি বিজ্ঞপ্তিতে বলা হয়েছে, নতুন নিয়ম আগামী মাস থেকে কার্যকর হবে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "Jatiya Party",
+      "speaker_role": "official",
+      "country": "BD",
+      "source_credibility": 0.7,
+      "domain_age": 4
+    }
+  },
+  {
+    "text": "বন্যা পরিস্থিতি নিয়ে সংসদীয় কমিটি বৈঠক করেছে এবং সুপারিশসহ প্রতিবেদন জমা দিয়েছে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "BNP",
+      "speaker_role": "citizen",
+      "country": "BD",
+      "source_credibility": 0.64,
+      "domain_age": 12
+    }
+  },
+  {
+    "text": "ভয়ংকর খবর! চালের বাজার নিয়ে বিরোধী দল গোপনে বিদেশ থেকে টাকা নিয়েছে, প্রমাণ ফাঁস।",
+    "label": 1,
+    "metadata": {
+      "political_party": "Jatiya Party",
+      "speaker_role": "politician",
+      "country": "BD",
+      "source_credibility": 0.3,
+      "domain_age": 7
+    }
+  },
+  {
+    "text": "At a press conference the minister released figures on the food market, which an independent body also verified.",
+    "label": 0,
+    "metadata": {
+      "political_party": "AAP",
+      "speaker_role": "politician",
+      "country": "IN",
+      "source_credibility": 0.49,
+      "domain_age": 12
+    }
+  },
+  {
+    "text": "ভয়ংকর খবর! শিক্ষা বাজেট নিয়ে বিরোধী দল গোপনে বিদেশ থেকে টাকা নিয়েছে, প্রমাণ ফাঁস।",
+    "label": 1,
+    "metadata": {
+      "political_party": "Jatiya Party",
+      "speaker_role": "journalist",
+      "country": "BD",
+      "source_credibility": 0.38,
+      "domain_age": 5
+    }
+  },
+  {
+    "text": "बाढ़ की स्थिति के बारे में जो बताया जा रहा है वह सब झूठ है, मीडिया असली सच नहीं दिखा रहा।",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "citizen",
+      "country": "IN",
+      "source_credibility": 0.62,
+      "domain_age": 5
+    }
+  },
+  {
+    "text": "A parliamentary committee met on traffic reforms and submitted a report with recommendations.",
+    "label": 0,
+    "metadata": {
+      "political_party": "BJP",
+      "speaker_role": "official",
+      "country": "IN",
+      "source_credibility": 0.68,
+      "domain_age": 2
+    }
+  },
+  {
+    "text": "Research findings on the election have been published in a peer-reviewed journal.",
+    "label": 0,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "citizen",
+      "country": "IN",
+      "source_credibility": 0.69,
+      "domain_age": 2
+    }
+  },
+  {
+    "text": "विस्फोटक: सूत्रों के अनुसार बाढ़ की स्थिति पर सरकार सच छिपा रही है। तुरंत सबको शेयर करें!",
+    "label": 1,
+    "metadata": {
+      "political_party": "BJP",
+      "speaker_role": "journalist",
+      "country": "IN",
+      "source_credibility": 0.68,
+      "domain_age": 20
+    }
+  },
+  {
+    "text": "Everything you were told about traffic reforms is a lie, and the media will not show you the real story.",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "politician",
+      "country": "BD",
+      "source_credibility": 0.35,
+      "domain_age": 1
+    }
+  },
+  {
+    "text": "ভয়ংকর খবর! চালের বাজার নিয়ে বিরোধী দল গোপনে বিদেশ থেকে টাকা নিয়েছে, প্রমাণ ফাঁস।",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "unknown",
+      "country": "BD",
+      "source_credibility": 0.46,
+      "domain_age": 2
+    }
+  },
+  {
+    "text": "Everything you were told about the food market is a lie, and the media will not show you the real story.",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "politician",
+      "country": "IN",
+      "source_credibility": 0.32,
+      "domain_age": 1
+    }
+  },
+  {
+    "text": "EXPLOSIVE: Shocking leak: opposition secretly received foreign money over public healthcare, documents exposed.",
+    "label": 1,
+    "metadata": {
+      "political_party": "Democrat",
+      "speaker_role": "citizen",
+      "country": "US",
+      "source_credibility": 0.47,
+      "domain_age": 6
+    }
+  },
+  {
+    "text": "A parliamentary committee met on the food market and submitted a report with recommendations.",
+    "label": 0,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "journalist",
+      "country": "UNK",
+      "source_credibility": 0.48,
+      "domain_age": 16
+    }
+  },
+  {
+    "text": "Doctors don't want you to know: this one trick fixes everything about the vaccination drive in a week.",
+    "label": 1,
+    "metadata": {
+      "political_party": "Democrat",
+      "speaker_role": "official",
+      "country": "US",
+      "source_credibility": 0.53,
+      "domain_age": 3
+    }
+  },
+  {
+    "text": "अनाज का बाज़ार पर संसदीय समिति ने बैठक की और सिफारिशों के साथ रिपोर्ट सौंपी।",
+    "label": 0,
+    "metadata": {
+      "political_party": "AAP",
+      "speaker_role": "unknown",
+      "country": "IN",
+      "source_credibility": 0.8,
+      "domain_age": 10
+    }
+  },
+  {
+    "text": "At a press conference the minister released figures on the food market, which an independent body also verified.",
+    "label": 0,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "politician",
+      "country": "UNK",
+      "source_credibility": 0.75,
+      "domain_age": 3
+    }
+  },
+  {
+    "text": "सूत्रों के अनुसार शिक्षा बजट पर सरकार सच छिपा रही है। तुरंत सबको शेयर करें!",
+    "label": 1,
+    "metadata": {
+      "political_party": "AAP",
+      "speaker_role": "citizen",
+      "country": "IN",
+      "source_credibility": 0.0,
+      "domain_age": 5
+    }
+  },
+  {
+    "text": "ডিজিটাল সেবা নিয়ে সংসদীয় কমিটি বৈঠক করেছে এবং সুপারিশসহ প্রতিবেদন জমা দিয়েছে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "Jatiya Party",
+      "speaker_role": "unknown",
+      "country": "BD",
+      "source_credibility": 0.85,
+      "domain_age": 14
+    }
+  },
+  {
+    "text": "डिजिटल सेवाएँ के बारे में सरकारी अधिसूचना में कहा गया है कि नए नियम अगले महीने से लागू होंगे।",
+    "label": 0,
+    "metadata": {
+      "political_party": "Congress",
+      "speaker_role": "official",
+      "country": "IN",
+      "source_credibility": 0.33,
+      "domain_age": 3
+    }
+  },
+  {
+    "text": "URGENT: Everything you were told about flood relief is a lie, and the media will not show you the real story.",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "journalist",
+      "country": "BD",
+      "source_credibility": 0.49,
+      "domain_age": 7
+    }
+  },
+  {
+    "text": "বিস্ফোরক: ভয়ংকর খবর! চালের বাজার নিয়ে বিরোধী দল গোপনে বিদেশ থেকে টাকা নিয়েছে, প্রমাণ ফাঁস।",
+    "label": 1,
+    "metadata": {
+      "political_party": "Jatiya Party",
+      "speaker_role": "politician",
+      "country": "BD",
+      "source_credibility": 0.3,
+      "domain_age": 2
+    }
+  },
+  {
+    "text": "শিক্ষা বাজেট নিয়ে যা বলা হচ্ছে সবই মিথ্যা, আসল ঘটনা মিডিয়া দেখাচ্ছে না।",
+    "label": 1,
+    "metadata": {
+      "political_party": "BNP",
+      "speaker_role": "citizen",
+      "country": "BD",
+      "source_credibility": 0.44,
+      "domain_age": 6
+    }
+  },
+  {
+    "text": "विस्फोटक: सूत्रों के अनुसार ट्रैफिक सुधार पर सरकार सच छिपा रही है। तुरंत सबको शेयर करें!",
+    "label": 1,
+    "metadata": {
+      "political_party": "AAP",
+      "speaker_role": "politician",
+      "country": "IN",
+      "source_credibility": 0.28,
+      "domain_age": 6
+    }
+  },
+  {
+    "text": "সংবাদ সম্মেলনে মন্ত্রী বন্যা পরিস্থিতি সংক্রান্ত পরিসংখ্যান প্রকাশ করেছেন, যা স্বাধীন সংস্থাও যাচাই করেছে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "citizen",
+      "country": "BD",
+      "source_credibility": 0.55,
+      "domain_age": 15
+    }
+  },
+  {
+    "text": "যানজট নিরসন বিষয়ে সরকারি বিজ্ঞপ্তিতে বলা হয়েছে, নতুন নিয়ম আগামী মাস থেকে কার্যকর হবে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "BJP",
+      "speaker_role": "journalist",
+      "country": "IN",
+      "source_credibility": 0.89,
+      "domain_age": 20
+    }
+  },
+  {
+    "text": "डॉक्टर नहीं चाहते कि आप जानें: अनाज का बाज़ार का यह उपाय एक हफ्ते में सब ठीक कर देगा।",
+    "label": 1,
+    "metadata": {
+      "political_party": "AAP",
+      "speaker_role": "citizen",
+      "country": "IN",
+      "source_credibility": 0.53,
+      "domain_age": 4
+    }
+  },
+  {
+    "text": "Research findings on the election have been published in a peer-reviewed journal.",
+    "label": 0,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "official",
+      "country": "BD",
+      "source_credibility": 0.69,
+      "domain_age": 2
+    }
+  },
+  {
+    "text": "জ্বালানির দাম নিয়ে সংসদীয় কমিটি বৈঠক করেছে এবং সুপারিশসহ প্রতিবেদন জমা দিয়েছে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "BNP",
+      "speaker_role": "unknown",
+      "country": "BD",
+      "source_credibility": 0.58,
+      "domain_age": 9
+    }
+  },
+  {
+    "text": "EXPLOSIVE: An official notice on the vaccination drive states that the new rules take effect next month.",
+    "label": 0,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "citizen",
+      "country": "US",
+      "source_credibility": 0.63,
+      "domain_age": 19
+    }
+  },
+  {
+    "text": "Doctors don't want you to know: this one trick fixes everything about the food market in a week.",
+    "label": 1,
+    "metadata": {
+      "political_party": "BNP",
+      "speaker_role": "politician",
+      "country": "BD",
+      "source_credibility": 0.16,
+      "domain_age": 18
+    }
+  },
+  {
+    "text": "বিস্ফোরক: বিদ্যুৎ সংকট নিয়ে গবেষণার ফল একটি পিয়ার-রিভিউড জার্নালে প্রকাশিত হয়েছে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "citizen",
+      "country": "BD",
+      "source_credibility": 0.47,
+      "domain_age": 8
+    }
+  },
+  {
+    "text": "स्वास्थ्य सेवा पर संसदीय समिति ने बैठक की और सिफारिशों के साथ रिपोर्ट सौंपी।",
+    "label": 0,
+    "metadata": {
+      "political_party": "Congress",
+      "speaker_role": "citizen",
+      "country": "IN",
+      "source_credibility": 0.9,
+      "domain_age": 3
+    }
+  },
+  {
+    "text": "Shocking leak: opposition secretly received foreign money over public healthcare, documents exposed.",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "citizen",
+      "country": "UNK",
+      "source_credibility": 0.32,
+      "domain_age": 8
+    }
+  },
+  {
+    "text": "ईंधन की कीमतें पर शोध के नतीजे एक समीक्षित जर्नल में प्रकाशित हुए हैं।",
+    "label": 0,
+    "metadata": {
+      "political_party": "BJP",
+      "speaker_role": "citizen",
+      "country": "IN",
+      "source_credibility": 0.39,
+      "domain_age": 20
+    }
+  },
+  {
+    "text": "BREAKING: Everything you were told about the power shortage is a lie, and the media will not show you the real story.",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "politician",
+      "country": "UNK",
+      "source_credibility": 0.05,
+      "domain_age": 11
+    }
+  },
+  {
+    "text": "সূত্র জানিয়েছে, বিদ্যুৎ সংকট নিয়ে সরকার সত্য গোপন করছে। সবাইকে শেয়ার করুন!",
+    "label": 1,
+    "metadata": {
+      "political_party": "BNP",
+      "speaker_role": "journalist",
+      "country": "BD",
+      "source_credibility": 0.49,
+      "domain_age": 3
+    }
+  },
+  {
+    "text": "प्रेस कॉन्फ्रेंस में मंत्री ने चुनाव से जुड़े आंकड़े जारी किए, जिन्हें स्वतंत्र संस्था ने भी सत्यापित किया।",
+    "label": 0,
+    "metadata": {
+      "political_party": "Jatiya Party",
+      "speaker_role": "journalist",
+      "country": "BD",
+      "source_credibility": 0.73,
+      "domain_age": 2
+    }
+  },
+  {
+    "text": "BREAKING: Shocking leak: opposition secretly received foreign money over digital services, documents exposed.",
+    "label": 1,
+    "metadata": {
+      "political_party": "BNP",
+      "speaker_role": "journalist",
+      "country": "BD",
+      "source_credibility": 0.36,
+      "domain_age": 5
+    }
+  },
+  {
+    "text": "शिक्षा बजट पर संसदीय समिति ने बैठक की और सिफारिशों के साथ रिपोर्ट सौंपी।",
+    "label": 0,
+    "metadata": {
+      "political_party": "BJP",
+      "speaker_role": "journalist",
+      "country": "IN",
+      "source_credibility": 0.42,
+      "domain_age": 15
+    }
+  },
+  {
+    "text": "वायरल दावा: बाढ़ की स्थिति को लेकर विपक्ष को विदेश से गुप्त फंडिंग मिली, सबूत लीक।",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "politician",
+      "country": "IN",
+      "source_credibility": 0.26,
+      "domain_age": 1
+    }
+  },
+  {
+    "text": "যানজট নিরসন নিয়ে গবেষণার ফল একটি পিয়ার-রিভিউড জার্নালে প্রকাশিত হয়েছে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "Awami League",
+      "speaker_role": "journalist",
+      "country": "BD",
+      "source_credibility": 0.69,
+      "domain_age": 10
+    }
+  },
+  {
+    "text": "डॉक्टर नहीं चाहते कि आप जानें: टीकाकरण अभियान का यह उपाय एक हफ्ते में सब ठीक कर देगा।",
+    "label": 1,
+    "metadata": {
+      "political_party": "Congress",
+      "speaker_role": "unknown",
+      "country": "IN",
+      "source_credibility": 0.63,
+      "domain_age": 2
+    }
+  },
+  {
+    "text": "যানজট নিরসন নিয়ে গবেষণার ফল একটি পিয়ার-রিভিউড জার্নালে প্রকাশিত হয়েছে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "journalist",
+      "country": "BD",
+      "source_credibility": 0.56,
+      "domain_age": 8
+    }
+  },
+  {
+    "text": "डॉक्टर नहीं चाहते कि आप जानें: शिक्षा बजट का यह उपाय एक हफ्ते में सब ठीक कर देगा।",
+    "label": 1,
+    "metadata": {
+      "political_party": "Congress",
+      "speaker_role": "unknown",
+      "country": "IN",
+      "source_credibility": 0.1,
+      "domain_age": 4
+    }
+  },
+  {
+    "text": "সংবাদ সম্মেলনে মন্ত্রী জ্বালানির দাম সংক্রান্ত পরিসংখ্যান প্রকাশ করেছেন, যা স্বাধীন সংস্থাও যাচাই করেছে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "Jatiya Party",
+      "speaker_role": "politician",
+      "country": "BD",
+      "source_credibility": 0.5,
+      "domain_age": 12
+    }
+  },
+  {
+    "text": "At a press conference the minister released figures on the election, which an independent body also verified.",
+    "label": 0,
+    "metadata": {
+      "political_party": "Jatiya Party",
+      "speaker_role": "official",
+      "country": "BD",
+      "source_credibility": 0.76,
+      "domain_age": 3
+    }
+  },
+  {
+    "text": "विस्फोटक: ट्रैफिक सुधार के बारे में जो बताया जा रहा है वह सब झूठ है, मीडिया असली सच नहीं दिखा रहा।",
+    "label": 1,
+    "metadata": {
+      "political_party": "AAP",
+      "speaker_role": "citizen",
+      "country": "IN",
+      "source_credibility": 0.36,
+      "domain_age": 5
+    }
+  },
+  {
+    "text": "टीकाकरण अभियान पर शोध के नतीजे एक समीक्षित जर्नल में प्रकाशित हुए हैं।",
+    "label": 0,
+    "metadata": {
+      "political_party": "Awami League",
+      "speaker_role": "journalist",
+      "country": "BD",
+      "source_credibility": 0.48,
+      "domain_age": 14
+    }
+  },
+  {
+    "text": "ब्रेकिंग: वायरल दावा: शिक्षा बजट को लेकर विपक्ष को विदेश से गुप्त फंडिंग मिली, सबूत लीक।",
+    "label": 1,
+    "metadata": {
+      "political_party": "Congress",
+      "speaker_role": "citizen",
+      "country": "IN",
+      "source_credibility": 0.65,
+      "domain_age": 2
+    }
+  },
+  {
+    "text": "BREAKING: Sources say the government is hiding the truth about flood relief. Share before it gets deleted!",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "politician",
+      "country": "UNK",
+      "source_credibility": 0.18,
+      "domain_age": 7
+    }
+  },
+  {
+    "text": "चुनाव के बारे में सरकारी अधिसूचना में कहा गया है कि नए नियम अगले महीने से लागू होंगे।",
+    "label": 0,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "unknown",
+      "country": "IN",
+      "source_credibility": 0.78,
+      "domain_age": 12
+    }
+  },
+  {
+    "text": "A parliamentary committee met on the vaccination drive and submitted a report with recommendations.",
+    "label": 0,
+    "metadata": {
+      "political_party": "AAP",
+      "speaker_role": "official",
+      "country": "IN",
+      "source_credibility": 0.78,
+      "domain_age": 7
+    }
+  },
+  {
+    "text": "সূত্র জানিয়েছে, শিক্ষা বাজেট নিয়ে সরকার সত্য গোপন করছে। সবাইকে শেয়ার করুন!",
+    "label": 1,
+    "metadata": {
+      "political_party": "BNP",
+      "speaker_role": "unknown",
+      "country": "BD",
+      "source_credibility": 0.33,
+      "domain_age": 20
+    }
+  },
+  {
+    "text": "Shocking leak: opposition secretly received foreign money over the food market, documents exposed.",
+    "label": 1,
+    "metadata": {
+      "political_party": "BNP",
+      "speaker_role": "unknown",
+      "country": "BD",
+      "source_credibility": 0.48,
+      "domain_age": 10
+    }
+  },
+  {
+    "text": "ডিজিটাল সেবা নিয়ে যা বলা হচ্ছে সবই মিথ্যা, আসল ঘটনা মিডিয়া দেখাচ্ছে না।",
+    "label": 1,
+    "metadata": {
+      "political_party": "BNP",
+      "speaker_role": "official",
+      "country": "BD",
+      "source_credibility": 0.64,
+      "domain_age": 18
+    }
+  },
+  {
+    "text": "Research findings on the election have been published in a peer-reviewed journal.",
+    "label": 0,
+    "metadata": {
+      "political_party": "Democrat",
+      "speaker_role": "official",
+      "country": "US",
+      "source_credibility": 0.34,
+      "domain_age": 13
+    }
+  },
+  {
+    "text": "জরুরি: ভয়ংকর খবর! চালের বাজার নিয়ে বিরোধী দল গোপনে বিদেশ থেকে টাকা নিয়েছে, প্রমাণ ফাঁস।",
+    "label": 1,
+    "metadata": {
+      "political_party": "Jatiya Party",
+      "speaker_role": "politician",
+      "country": "BD",
+      "source_credibility": 0.52,
+      "domain_age": 2
+    }
+  },
+  {
+    "text": "ट्रैफिक सुधार के बारे में सरकारी अधिसूचना में कहा गया है कि नए नियम अगले महीने से लागू होंगे।",
+    "label": 0,
+    "metadata": {
+      "political_party": "AAP",
+      "speaker_role": "journalist",
+      "country": "IN",
+      "source_credibility": 0.25,
+      "domain_age": 3
+    }
+  },
+  {
+    "text": "নির্বাচন নিয়ে গবেষণার ফল একটি পিয়ার-রিভিউড জার্নালে প্রকাশিত হয়েছে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "BNP",
+      "speaker_role": "official",
+      "country": "BD",
+      "source_credibility": 0.33,
+      "domain_age": 17
+    }
+  },
+  {
+    "text": "ভয়ংকর খবর! টিকা কর্মসূচি নিয়ে বিরোধী দল গোপনে বিদেশ থেকে টাকা নিয়েছে, প্রমাণ ফাঁস।",
+    "label": 1,
+    "metadata": {
+      "political_party": "Awami League",
+      "speaker_role": "journalist",
+      "country": "BD",
+      "source_credibility": 0.18,
+      "domain_age": 6
+    }
+  },
+  {
+    "text": "विस्फोटक: डॉक्टर नहीं चाहते कि आप जानें: ट्रैफिक सुधार का यह उपाय एक हफ्ते में सब ठीक कर देगा।",
+    "label": 1,
+    "metadata": {
+      "political_party": "Congress",
+      "speaker_role": "official",
+      "country": "IN",
+      "source_credibility": 0.0,
+      "domain_age": 17
+    }
+  },
+  {
+    "text": "বিস্ফোরক: যানজট নিরসন নিয়ে যা বলা হচ্ছে সবই মিথ্যা, আসল ঘটনা মিডিয়া দেখাচ্ছে না।",
+    "label": 1,
+    "metadata": {
+      "political_party": "BNP",
+      "speaker_role": "citizen",
+      "country": "BD",
+      "source_credibility": 0.47,
+      "domain_age": 3
+    }
+  },
+  {
+    "text": "An official notice on the vaccination drive states that the new rules take effect next month.",
+    "label": 0,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "official",
+      "country": "BD",
+      "source_credibility": 0.87,
+      "domain_age": 2
+    }
+  },
+  {
+    "text": "जरूरी: सूत्रों के अनुसार ट्रैफिक सुधार पर सरकार सच छिपा रही है। तुरंत सबको शेयर करें!",
+    "label": 1,
+    "metadata": {
+      "political_party": "Congress",
+      "speaker_role": "official",
+      "country": "IN",
+      "source_credibility": 0.55,
+      "domain_age": 11
+    }
+  },
+  {
+    "text": "চালের বাজার বিষয়ে সরকারি বিজ্ঞপ্তিতে বলা হয়েছে, নতুন নিয়ম আগামী মাস থেকে কার্যকর হবে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "Awami League",
+      "speaker_role": "citizen",
+      "country": "BD",
+      "source_credibility": 0.91,
+      "domain_age": 7
+    }
+  },
+  {
+    "text": "अनाज का बाज़ार पर संसदीय समिति ने बैठक की और सिफारिशों के साथ रिपोर्ट सौंपी।",
+    "label": 0,
+    "metadata": {
+      "political_party": "Congress",
+      "speaker_role": "journalist",
+      "country": "IN",
+      "source_credibility": 0.02,
+      "domain_age": 15
+    }
+  },
+  {
+    "text": "URGENT: Everything you were told about the education budget is a lie, and the media will not show you the real story.",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "official",
+      "country": "UNK",
+      "source_credibility": 0.11,
+      "domain_age": 6
+    }
+  },
+  {
+    "text": "সংবাদ সম্মেলনে মন্ত্রী শিক্ষা বাজেট সংক্রান্ত পরিসংখ্যান প্রকাশ করেছেন, যা স্বাধীন সংস্থাও যাচাই করেছে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "BNP",
+      "speaker_role": "journalist",
+      "country": "BD",
+      "source_credibility": 0.39,
+      "domain_age": 15
+    }
+  },
+  {
+    "text": "शिक्षा बजट पर शोध के नतीजे एक समीक्षित जर्नल में प्रकाशित हुए हैं।",
+    "label": 0,
+    "metadata": {
+      "political_party": "BJP",
+      "speaker_role": "unknown",
+      "country": "IN",
+      "source_credibility": 0.47,
+      "domain_age": 8
+    }
+  },
+  {
+    "text": "विस्फोटक: सूत्रों के अनुसार बाढ़ की स्थिति पर सरकार सच छिपा रही है। तुरंत सबको शेयर करें!",
+    "label": 1,
+    "metadata": {
+      "political_party": "BJP",
+      "speaker_role": "politician",
+      "country": "IN",
+      "source_credibility": 0.37,
+      "domain_age": 7
+    }
+  },
+  {
+    "text": "জরুরি: অবিশ্বাস্য! চালের বাজার নিয়ে এই উপায়ে এক সপ্তাহেই সব সমস্যা শেষ, ডাক্তাররা চান না আপনি জানুন।",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "official",
+      "country": "IN",
+      "source_credibility": 0.44,
+      "domain_age": 8
+    }
+  },
+  {
+    "text": "URGENT: Shocking leak: opposition secretly received foreign money over fuel prices, documents exposed.",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "citizen",
+      "country": "IN",
+      "source_credibility": 0.76,
+      "domain_age": 5
+    }
+  },
+  {
+    "text": "डॉक्टर नहीं चाहते कि आप जानें: डिजिटल सेवाएँ का यह उपाय एक हफ्ते में सब ठीक कर देगा।",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "official",
+      "country": "IN",
+      "source_credibility": 0.39,
+      "domain_age": 3
+    }
+  },
+  {
+    "text": "An official notice on public healthcare states that the new rules take effect next month.",
+    "label": 0,
+    "metadata": {
+      "political_party": "Awami League",
+      "speaker_role": "official",
+      "country": "BD",
+      "source_credibility": 0.8,
+      "domain_age": 19
+    }
+  },
+  {
+    "text": "सूत्रों के अनुसार अनाज का बाज़ार पर सरकार सच छिपा रही है। तुरंत सबको शेयर करें!",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "official",
+      "country": "IN",
+      "source_credibility": 0.57,
+      "domain_age": 5
+    }
+  },
+  {
+    "text": "शिक्षा बजट पर शोध के नतीजे एक समीक्षित जर्नल में प्रकाशित हुए हैं।",
+    "label": 0,
+    "metadata": {
+      "political_party": "Congress",
+      "speaker_role": "journalist",
+      "country": "IN",
+      "source_credibility": 0.32,
+      "domain_age": 4
+    }
+  },
+  {
+    "text": "चुनाव पर शोध के नतीजे एक समीक्षित जर्नल में प्रकाशित हुए हैं।",
+    "label": 0,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "journalist",
+      "country": "IN",
+      "source_credibility": 0.76,
+      "domain_age": 12
+    }
+  },
+  {
+    "text": "स्वास्थ्य सेवा के बारे में सरकारी अधिसूचना में कहा गया है कि नए नियम अगले महीने से लागू होंगे।",
+    "label": 0,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "journalist",
+      "country": "IN",
+      "source_credibility": 0.6,
+      "domain_age": 5
+    }
+  },
+  {
+    "text": "An official notice on the education budget states that the new rules take effect next month.",
+    "label": 0,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "unknown",
+      "country": "BD",
+      "source_credibility": 1.0,
+      "domain_age": 14
+    }
+  },
+  {
+    "text": "वायरल दावा: शिक्षा बजट को लेकर विपक्ष को विदेश से गुप्त फंडिंग मिली, सबूत लीक।",
+    "label": 1,
+    "metadata": {
+      "political_party": "Congress",
+      "speaker_role": "unknown",
+      "country": "IN",
+      "source_credibility": 0.4,
+      "domain_age": 6
+    }
+  },
+  {
+    "text": "URGENT: Sources say the government is hiding the truth about the vaccination drive. Share before it gets deleted!",
+    "label": 1,
+    "metadata": {
+      "political_party": "BJP",
+      "speaker_role": "politician",
+      "country": "IN",
+      "source_credibility": 0.1,
+      "domain_age": 1
+    }
+  },
+  {
+    "text": "अनाज का बाज़ार पर संसदीय समिति ने बैठक की और सिफारिशों के साथ रिपोर्ट सौंपी।",
+    "label": 0,
+    "metadata": {
+      "political_party": "Congress",
+      "speaker_role": "citizen",
+      "country": "IN",
+      "source_credibility": 0.6,
+      "domain_age": 14
+    }
+  },
+  {
+    "text": "Research findings on public healthcare have been published in a peer-reviewed journal.",
+    "label": 0,
+    "metadata": {
+      "political_party": "Republican",
+      "speaker_role": "politician",
+      "country": "US",
+      "source_credibility": 0.58,
+      "domain_age": 11
+    }
+  },
+  {
+    "text": "জরুরি: টিকা কর্মসূচি বিষয়ে সরকারি বিজ্ঞপ্তিতে বলা হয়েছে, নতুন নিয়ম আগামী মাস থেকে কার্যকর হবে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "citizen",
+      "country": "IN",
+      "source_credibility": 1.0,
+      "domain_age": 15
+    }
+  },
+  {
+    "text": "সংবাদ সম্মেলনে মন্ত্রী চালের বাজার সংক্রান্ত পরিসংখ্যান প্রকাশ করেছেন, যা স্বাধীন সংস্থাও যাচাই করেছে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "Awami League",
+      "speaker_role": "unknown",
+      "country": "BD",
+      "source_credibility": 0.33,
+      "domain_age": 7
+    }
+  },
+  {
+    "text": "विस्फोटक: डिजिटल सेवाएँ पर शोध के नतीजे एक समीक्षित जर्नल में प्रकाशित हुए हैं।",
+    "label": 0,
+    "metadata": {
+      "political_party": "BJP",
+      "speaker_role": "unknown",
+      "country": "IN",
+      "source_credibility": 0.33,
+      "domain_age": 17
+    }
+  },
+  {
+    "text": "ব্রেকিং: ভয়ংকর খবর! বন্যা পরিস্থিতি নিয়ে বিরোধী দল গোপনে বিদেশ থেকে টাকা নিয়েছে, প্রমাণ ফাঁস।",
+    "label": 1,
+    "metadata": {
+      "political_party": "Awami League",
+      "speaker_role": "journalist",
+      "country": "BD",
+      "source_credibility": 0.03,
+      "domain_age": 4
+    }
+  },
+  {
+    "text": "बिजली संकट पर शोध के नतीजे एक समीक्षित जर्नल में प्रकाशित हुए हैं।",
+    "label": 0,
+    "metadata": {
+      "political_party": "BJP",
+      "speaker_role": "unknown",
+      "country": "IN",
+      "source_credibility": 0.69,
+      "domain_age": 17
+    }
+  },
+  {
+    "text": "टीकाकरण अभियान पर शोध के नतीजे एक समीक्षित जर्नल में प्रकाशित हुए हैं।",
+    "label": 0,
+    "metadata": {
+      "political_party": "Congress",
+      "speaker_role": "politician",
+      "country": "IN",
+      "source_credibility": 0.51,
+      "domain_age": 8
+    }
+  },
+  {
+    "text": "URGENT: Shocking leak: opposition secretly received foreign money over flood relief, documents exposed.",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "citizen",
+      "country": "UNK",
+      "source_credibility": 0.28,
+      "domain_age": 11
+    }
+  },
+  {
+    "text": "अनाज का बाज़ार पर संसदीय समिति ने बैठक की और सिफारिशों के साथ रिपोर्ट सौंपी।",
+    "label": 0,
+    "metadata": {
+      "political_party": "BJP",
+      "speaker_role": "unknown",
+      "country": "IN",
+      "source_credibility": 0.61,
+      "domain_age": 14
+    }
+  },
+  {
+    "text": "विस्फोटक: सूत्रों के अनुसार अनाज का बाज़ार पर सरकार सच छिपा रही है। तुरंत सबको शेयर करें!",
+    "label": 1,
+    "metadata": {
+      "political_party": "BNP",
+      "speaker_role": "citizen",
+      "country": "BD",
+      "source_credibility": 0.32,
+      "domain_age": 5
+    }
+  },
+  {
+    "text": "प्रेस कॉन्फ्रेंस में मंत्री ने बिजली संकट से जुड़े आंकड़े जारी किए, जिन्हें स्वतंत्र संस्था ने भी सत्यापित किया।",
+    "label": 0,
+    "metadata": {
+      "political_party": "Congress",
+      "speaker_role": "official",
+      "country": "IN",
+      "source_credibility": 0.73,
+      "domain_age": 18
+    }
+  },
+  {
+    "text": "জ্বালানির দাম নিয়ে গবেষণার ফল একটি পিয়ার-রিভিউড জার্নালে প্রকাশিত হয়েছে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "Awami League",
+      "speaker_role": "journalist",
+      "country": "BD",
+      "source_credibility": 0.2,
+      "domain_age": 16
+    }
+  },
+  {
+    "text": "Research findings on the election have been published in a peer-reviewed journal.",
+    "label": 0,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "citizen",
+      "country": "UNK",
+      "source_credibility": 0.35,
+      "domain_age": 15
+    }
+  },
+  {
+    "text": "বিস্ফোরক: শিক্ষা বাজেট নিয়ে যা বলা হচ্ছে সবই মিথ্যা, আসল ঘটনা মিডিয়া দেখাচ্ছে না।",
+    "label": 1,
+    "metadata": {
+      "political_party": "Awami League",
+      "speaker_role": "unknown",
+      "country": "BD",
+      "source_credibility": 0.68,
+      "domain_age": 6
+    }
+  },
+  {
+    "text": "डिजिटल सेवाएँ के बारे में जो बताया जा रहा है वह सब झूठ है, मीडिया असली सच नहीं दिखा रहा।",
+    "label": 1,
+    "metadata": {
+      "political_party": "AAP",
+      "speaker_role": "politician",
+      "country": "IN",
+      "source_credibility": 0.64,
+      "domain_age": 16
+    }
+  },
+  {
+    "text": "জ্বালানির দাম নিয়ে যা বলা হচ্ছে সবই মিথ্যা, আসল ঘটনা মিডিয়া দেখাচ্ছে না।",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "official",
+      "country": "BD",
+      "source_credibility": 0.45,
+      "domain_age": 4
+    }
+  },
+  {
+    "text": "সংবাদ সম্মেলনে মন্ত্রী নির্বাচন সংক্রান্ত পরিসংখ্যান প্রকাশ করেছেন, যা স্বাধীন সংস্থাও যাচাই করেছে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "journalist",
+      "country": "BD",
+      "source_credibility": 1.0,
+      "domain_age": 3
+    }
+  },
+  {
+    "text": "A parliamentary committee met on the election and submitted a report with recommendations.",
+    "label": 0,
+    "metadata": {
+      "political_party": "AAP",
+      "speaker_role": "unknown",
+      "country": "IN",
+      "source_credibility": 0.69,
+      "domain_age": 16
+    }
+  },
+  {
+    "text": "URGENT: Doctors don't want you to know: this one trick fixes everything about public healthcare in a week.",
+    "label": 1,
+    "metadata": {
+      "political_party": "Republican",
+      "speaker_role": "official",
+      "country": "US",
+      "source_credibility": 0.41,
+      "domain_age": 13
+    }
+  },
+  {
+    "text": "प्रेस कॉन्फ्रेंस में मंत्री ने ईंधन की कीमतें से जुड़े आंकड़े जारी किए, जिन्हें स्वतंत्र संस्था ने भी सत्यापित किया।",
+    "label": 0,
+    "metadata": {
+      "political_party": "BJP",
+      "speaker_role": "politician",
+      "country": "IN",
+      "source_credibility": 0.43,
+      "domain_age": 1
+    }
+  },
+  {
+    "text": "स्वास्थ्य सेवा के बारे में सरकारी अधिसूचना में कहा गया है कि नए नियम अगले महीने से लागू होंगे।",
+    "label": 0,
+    "metadata": {
+      "political_party": "Congress",
+      "speaker_role": "politician",
+      "country": "IN",
+      "source_credibility": 0.45,
+      "domain_age": 1
+    }
+  },
+  {
+    "text": "ব্রেকিং: টিকা কর্মসূচি নিয়ে যা বলা হচ্ছে সবই মিথ্যা, আসল ঘটনা মিডিয়া দেখাচ্ছে না।",
+    "label": 1,
+    "metadata": {
+      "political_party": "BNP",
+      "speaker_role": "politician",
+      "country": "BD",
+      "source_credibility": 0.49,
+      "domain_age": 7
+    }
+  },
+  {
+    "text": "যানজট নিরসন বিষয়ে সরকারি বিজ্ঞপ্তিতে বলা হয়েছে, নতুন নিয়ম আগামী মাস থেকে কার্যকর হবে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "Awami League",
+      "speaker_role": "journalist",
+      "country": "BD",
+      "source_credibility": 0.6,
+      "domain_age": 14
+    }
+  },
+  {
+    "text": "ब्रेकिंग: सूत्रों के अनुसार ईंधन की कीमतें पर सरकार सच छिपा रही है। तुरंत सबको शेयर करें!",
+    "label": 1,
+    "metadata": {
+      "political_party": "BJP",
+      "speaker_role": "journalist",
+      "country": "IN",
+      "source_credibility": 0.16,
+      "domain_age": 5
+    }
+  },
+  {
+    "text": "ব্রেকিং: সংবাদ সম্মেলনে মন্ত্রী জ্বালানির দাম সংক্রান্ত পরিসংখ্যান প্রকাশ করেছেন, যা স্বাধীন সংস্থাও যাচাই করেছে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "BNP",
+      "speaker_role": "politician",
+      "country": "BD",
+      "source_credibility": 0.9,
+      "domain_age": 19
+    }
+  },
+  {
+    "text": "Research findings on traffic reforms have been published in a peer-reviewed journal.",
+    "label": 0,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "politician",
+      "country": "US",
+      "source_credibility": 0.38,
+      "domain_age": 18
+    }
+  },
+  {
+    "text": "সংবাদ সম্মেলনে মন্ত্রী টিকা কর্মসূচি সংক্রান্ত পরিসংখ্যান প্রকাশ করেছেন, যা স্বাধীন সংস্থাও যাচাই করেছে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "BNP",
+      "speaker_role": "official",
+      "country": "BD",
+      "source_credibility": 0.64,
+      "domain_age": 7
+    }
+  },
+  {
+    "text": "ব্রেকিং: বন্যা পরিস্থিতি নিয়ে যা বলা হচ্ছে সবই মিথ্যা, আসল ঘটনা মিডিয়া দেখাচ্ছে না।",
+    "label": 1,
+    "metadata": {
+      "political_party": "Awami League",
+      "speaker_role": "official",
+      "country": "BD",
+      "source_credibility": 0.52,
+      "domain_age": 7
+    }
+  },
+  {
+    "text": "प्रेस कॉन्फ्रेंस में मंत्री ने बाढ़ की स्थिति से जुड़े आंकड़े जारी किए, जिन्हें स्वतंत्र संस्था ने भी सत्यापित किया।",
+    "label": 0,
+    "metadata": {
+      "political_party": "Congress",
+      "speaker_role": "journalist",
+      "country": "IN",
+      "source_credibility": 0.45,
+      "domain_age": 1
+    }
+  },
+  {
+    "text": "सूत्रों के अनुसार बाढ़ की स्थिति पर सरकार सच छिपा रही है। तुरंत सबको शेयर करें!",
+    "label": 1,
+    "metadata": {
+      "political_party": "Congress",
+      "speaker_role": "unknown",
+      "country": "IN",
+      "source_credibility": 0.08,
+      "domain_age": 7
+    }
+  },
+  {
+    "text": "सूत्रों के अनुसार टीकाकरण अभियान पर सरकार सच छिपा रही है। तुरंत सबको शेयर करें!",
+    "label": 1,
+    "metadata": {
+      "political_party": "BJP",
+      "speaker_role": "journalist",
+      "country": "IN",
+      "source_credibility": 0.57,
+      "domain_age": 19
+    }
+  },
+  {
+    "text": "A parliamentary committee met on traffic reforms and submitted a report with recommendations.",
+    "label": 0,
+    "metadata": {
+      "political_party": "Democrat",
+      "speaker_role": "citizen",
+      "country": "US",
+      "source_credibility": 0.93,
+      "domain_age": 3
+    }
+  },
+  {
+    "text": "डॉक्टर नहीं चाहते कि आप जानें: बिजली संकट का यह उपाय एक हफ्ते में सब ठीक कर देगा।",
+    "label": 1,
+    "metadata": {
+      "political_party": "AAP",
+      "speaker_role": "journalist",
+      "country": "IN",
+      "source_credibility": 0.35,
+      "domain_age": 11
+    }
+  },
+  {
+    "text": "टीकाकरण अभियान पर संसदीय समिति ने बैठक की और सिफारिशों के साथ रिपोर्ट सौंपी।",
+    "label": 0,
+    "metadata": {
+      "political_party": "BJP",
+      "speaker_role": "journalist",
+      "country": "IN",
+      "source_credibility": 0.56,
+      "domain_age": 9
+    }
+  },
+  {
+    "text": "শিক্ষা বাজেট নিয়ে সংসদীয় কমিটি বৈঠক করেছে এবং সুপারিশসহ প্রতিবেদন জমা দিয়েছে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "official",
+      "country": "IN",
+      "source_credibility": 0.3,
+      "domain_age": 16
+    }
+  },
+  {
+    "text": "At a press conference the minister released figures on the vaccination drive, which an independent body also verified.",
+    "label": 0,
+    "metadata": {
+      "political_party": "BJP",
+      "speaker_role": "unknown",
+      "country": "IN",
+      "source_credibility": 0.53,
+      "domain_age": 11
+    }
+  },
+  {
+    "text": "যানজট নিরসন বিষয়ে সরকারি বিজ্ঞপ্তিতে বলা হয়েছে, নতুন নিয়ম আগামী মাস থেকে কার্যকর হবে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "BNP",
+      "speaker_role": "citizen",
+      "country": "BD",
+      "source_credibility": 0.16,
+      "domain_age": 12
+    }
+  },
+  {
+    "text": "বিস্ফোরক: সূত্র জানিয়েছে, যানজট নিরসন নিয়ে সরকার সত্য গোপন করছে। সবাইকে শেয়ার করুন!",
+    "label": 1,
+    "metadata": {
+      "political_party": "Jatiya Party",
+      "speaker_role": "politician",
+      "country": "BD",
+      "source_credibility": 0.48,
+      "domain_age": 2
+    }
+  },
+  {
+    "text": "ब्रेकिंग: स्वास्थ्य सेवा पर संसदीय समिति ने बैठक की और सिफारिशों के साथ रिपोर्ट सौंपी।",
+    "label": 0,
+    "metadata": {
+      "political_party": "AAP",
+      "speaker_role": "politician",
+      "country": "IN",
+      "source_credibility": 0.8,
+      "domain_age": 20
+    }
+  },
+  {
+    "text": "At a press conference the minister released figures on the election, which an independent body also verified.",
+    "label": 0,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "politician",
+      "country": "US",
+      "source_credibility": 0.46,
+      "domain_age": 15
+    }
+  },
+  {
+    "text": "At a press conference the minister released figures on the education budget, which an independent body also verified.",
+    "label": 0,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "unknown",
+      "country": "US",
+      "source_credibility": 0.85,
+      "domain_age": 3
+    }
+  },
+  {
+    "text": "डॉक्टर नहीं चाहते कि आप जानें: ट्रैफिक सुधार का यह उपाय एक हफ्ते में सब ठीक कर देगा।",
+    "label": 1,
+    "metadata": {
+      "political_party": "Congress",
+      "speaker_role": "journalist",
+      "country": "IN",
+      "source_credibility": 0.77,
+      "domain_age": 8
+    }
+  },
+  {
+    "text": "A parliamentary committee met on the education budget and submitted a report with recommendations.",
+    "label": 0,
+    "metadata": {
+      "political_party": "Jatiya Party",
+      "speaker_role": "unknown",
+      "country": "BD",
+      "source_credibility": 0.37,
+      "domain_age": 9
+    }
+  },
+  {
+    "text": "विस्फोटक: डॉक्टर नहीं चाहते कि आप जानें: अनाज का बाज़ार का यह उपाय एक हफ्ते में सब ठीक कर देगा।",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "journalist",
+      "country": "IN",
+      "source_credibility": 0.89,
+      "domain_age": 4
+    }
+  },
+  {
+    "text": "स्वास्थ्य सेवा के बारे में जो बताया जा रहा है वह सब झूठ है, मीडिया असली सच नहीं दिखा रहा।",
+    "label": 1,
+    "metadata": {
+      "political_party": "AAP",
+      "speaker_role": "journalist",
+      "country": "IN",
+      "source_credibility": 0.17,
+      "domain_age": 9
+    }
+  },
+  {
+    "text": "विस्फोटक: ईंधन की कीमतें के बारे में जो बताया जा रहा है वह सब झूठ है, मीडिया असली सच नहीं दिखा रहा।",
+    "label": 1,
+    "metadata": {
+      "political_party": "BJP",
+      "speaker_role": "unknown",
+      "country": "IN",
+      "source_credibility": 0.5,
+      "domain_age": 6
+    }
+  },
+  {
+    "text": "চালের বাজার নিয়ে যা বলা হচ্ছে সবই মিথ্যা, আসল ঘটনা মিডিয়া দেখাচ্ছে না।",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "journalist",
+      "country": "BD",
+      "source_credibility": 0.34,
+      "domain_age": 6
+    }
+  },
+  {
+    "text": "ब्रेकिंग: डॉक्टर नहीं चाहते कि आप जानें: चुनाव का यह उपाय एक हफ्ते में सब ठीक कर देगा।",
+    "label": 1,
+    "metadata": {
+      "political_party": "BJP",
+      "speaker_role": "unknown",
+      "country": "IN",
+      "source_credibility": 0.48,
+      "domain_age": 1
+    }
+  },
+  {
+    "text": "BREAKING: Everything you were told about digital services is a lie, and the media will not show you the real story.",
+    "label": 1,
+    "metadata": {
+      "political_party": "BJP",
+      "speaker_role": "unknown",
+      "country": "IN",
+      "source_credibility": 0.39,
+      "domain_age": 1
+    }
+  },
+  {
+    "text": "An official notice on the election states that the new rules take effect next month.",
+    "label": 0,
+    "metadata": {
+      "political_party": "Democrat",
+      "speaker_role": "citizen",
+      "country": "US",
+      "source_credibility": 0.69,
+      "domain_age": 20
+    }
+  },
+  {
+    "text": "An official notice on public healthcare states that the new rules take effect next month.",
+    "label": 0,
+    "metadata": {
+      "political_party": "Awami League",
+      "speaker_role": "journalist",
+      "country": "BD",
+      "source_credibility": 1.0,
+      "domain_age": 15
+    }
+  },
+  {
+    "text": "जरूरी: ईंधन की कीमतें के बारे में सरकारी अधिसूचना में कहा गया है कि नए नियम अगले महीने से लागू होंगे।",
+    "label": 0,
+    "metadata": {
+      "political_party": "Congress",
+      "speaker_role": "official",
+      "country": "IN",
+      "source_credibility": 0.72,
+      "domain_age": 12
+    }
+  },
+  {
+    "text": "ভয়ংকর খবর! নির্বাচন নিয়ে বিরোধী দল গোপনে বিদেশ থেকে টাকা নিয়েছে, প্রমাণ ফাঁস।",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "unknown",
+      "country": "BD",
+      "source_credibility": 0.31,
+      "domain_age": 7
+    }
+  },
+  {
+    "text": "সূত্র জানিয়েছে, চালের বাজার নিয়ে সরকার সত্য গোপন করছে। সবাইকে শেয়ার করুন!",
+    "label": 1,
+    "metadata": {
+      "political_party": "Awami League",
+      "speaker_role": "journalist",
+      "country": "BD",
+      "source_credibility": 0.22,
+      "domain_age": 3
+    }
+  },
+  {
+    "text": "जरूरी: सूत्रों के अनुसार शिक्षा बजट पर सरकार सच छिपा रही है। तुरंत सबको शेयर करें!",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "journalist",
+      "country": "IN",
+      "source_credibility": 0.76,
+      "domain_age": 2
+    }
+  },
+  {
+    "text": "Research findings on the power shortage have been published in a peer-reviewed journal.",
+    "label": 0,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "politician",
+      "country": "IN",
+      "source_credibility": 0.75,
+      "domain_age": 20
+    }
+  },
+  {
+    "text": "प्रेस कॉन्फ्रेंस में मंत्री ने शिक्षा बजट से जुड़े आंकड़े जारी किए, जिन्हें स्वतंत्र संस्था ने भी सत्यापित किया।",
+    "label": 0,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "citizen",
+      "country": "IN",
+      "source_credibility": 0.07,
+      "domain_age": 17
+    }
+  },
+  {
+    "text": "Sources say the government is hiding the truth about the food market. Share before it gets deleted!",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "unknown",
+      "country": "US",
+      "source_credibility": 0.73,
+      "domain_age": 3
+    }
+  },
+  {
+    "text": "URGENT: Sources say the government is hiding the truth about digital services. Share before it gets deleted!",
+    "label": 1,
+    "metadata": {
+      "political_party": "Awami League",
+      "speaker_role": "journalist",
+      "country": "BD",
+      "source_credibility": 0.36,
+      "domain_age": 3
+    }
+  },
+  {
+    "text": "Research findings on flood relief have been published in a peer-reviewed journal.",
+    "label": 0,
+    "metadata": {
+      "political_party": "Congress",
+      "speaker_role": "journalist",
+      "country": "IN",
+      "source_credibility": 0.63,
+      "domain_age": 16
+    }
+  },
+  {
+    "text": "ভয়ংকর খবর! চালের বাজার নিয়ে বিরোধী দল গোপনে বিদেশ থেকে টাকা নিয়েছে, প্রমাণ ফাঁস।",
+    "label": 1,
+    "metadata": {
+      "political_party": "Jatiya Party",
+      "speaker_role": "journalist",
+      "country": "BD",
+      "source_credibility": 0.67,
+      "domain_age": 6
+    }
+  },
+  {
+    "text": "Research findings on the power shortage have been published in a peer-reviewed journal.",
+    "label": 0,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "citizen",
+      "country": "UNK",
+      "source_credibility": 0.72,
+      "domain_age": 11
+    }
+  },
+  {
+    "text": "জরুরি: বিদ্যুৎ সংকট নিয়ে যা বলা হচ্ছে সবই মিথ্যা, আসল ঘটনা মিডিয়া দেখাচ্ছে না।",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "journalist",
+      "country": "BD",
+      "source_credibility": 0.38,
+      "domain_age": 5
+    }
+  },
+  {
+    "text": "बिजली संकट पर संसदीय समिति ने बैठक की और सिफारिशों के साथ रिपोर्ट सौंपी।",
+    "label": 0,
+    "metadata": {
+      "political_party": "AAP",
+      "speaker_role": "citizen",
+      "country": "IN",
+      "source_credibility": 0.84,
+      "domain_age": 19
+    }
+  },
+  {
+    "text": "URGENT: Everything you were told about digital services is a lie, and the media will not show you the real story.",
+    "label": 1,
+    "metadata": {
+      "political_party": "BJP",
+      "speaker_role": "politician",
+      "country": "IN",
+      "source_credibility": 0.31,
+      "domain_age": 6
+    }
+  },
+  {
+    "text": "टीकाकरण अभियान पर शोध के नतीजे एक समीक्षित जर्नल में प्रकाशित हुए हैं।",
+    "label": 0,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "politician",
+      "country": "IN",
+      "source_credibility": 0.89,
+      "domain_age": 19
+    }
+  },
+  {
+    "text": "টিকা কর্মসূচি নিয়ে যা বলা হচ্ছে সবই মিথ্যা, আসল ঘটনা মিডিয়া দেখাচ্ছে না।",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "politician",
+      "country": "BD",
+      "source_credibility": 0.55,
+      "domain_age": 6
+    }
+  },
+  {
+    "text": "A parliamentary committee met on flood relief and submitted a report with recommendations.",
+    "label": 0,
+    "metadata": {
+      "political_party": "Democrat",
+      "speaker_role": "unknown",
+      "country": "US",
+      "source_credibility": 0.37,
+      "domain_age": 18
+    }
+  },
+  {
+    "text": "At a press conference the minister released figures on digital services, which an independent body also verified.",
+    "label": 0,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "journalist",
+      "country": "UNK",
+      "source_credibility": 0.81,
+      "domain_age": 18
+    }
+  },
+  {
+    "text": "ব্রেকিং: ডিজিটাল সেবা নিয়ে যা বলা হচ্ছে সবই মিথ্যা, আসল ঘটনা মিডিয়া দেখাচ্ছে না।",
+    "label": 1,
+    "metadata": {
+      "political_party": "Jatiya Party",
+      "speaker_role": "politician",
+      "country": "BD",
+      "source_credibility": 0.62,
+      "domain_age": 15
+    }
+  },
+  {
+    "text": "জরুরি: বন্যা পরিস্থিতি নিয়ে যা বলা হচ্ছে সবই মিথ্যা, আসল ঘটনা মিডিয়া দেখাচ্ছে না।",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "journalist",
+      "country": "BD",
+      "source_credibility": 0.69,
+      "domain_age": 6
+    }
+  },
+  {
+    "text": "A parliamentary committee met on traffic reforms and submitted a report with recommendations.",
+    "label": 0,
+    "metadata": {
+      "political_party": "Congress",
+      "speaker_role": "unknown",
+      "country": "IN",
+      "source_credibility": 0.37,
+      "domain_age": 13
+    }
+  },
+  {
+    "text": "An official notice on the food market states that the new rules take effect next month.",
+    "label": 0,
+    "metadata": {
+      "political_party": "Democrat",
+      "speaker_role": "journalist",
+      "country": "US",
+      "source_credibility": 1.0,
+      "domain_age": 13
+    }
+  },
+  {
+    "text": "शिक्षा बजट पर संसदीय समिति ने बैठक की और सिफारिशों के साथ रिपोर्ट सौंपी।",
+    "label": 0,
+    "metadata": {
+      "political_party": "AAP",
+      "speaker_role": "official",
+      "country": "IN",
+      "source_credibility": 0.48,
+      "domain_age": 2
+    }
+  },
+  {
+    "text": "চালের বাজার নিয়ে সংসদীয় কমিটি বৈঠক করেছে এবং সুপারিশসহ প্রতিবেদন জমা দিয়েছে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "Jatiya Party",
+      "speaker_role": "politician",
+      "country": "BD",
+      "source_credibility": 0.82,
+      "domain_age": 13
+    }
+  },
+  {
+    "text": "Research findings on the power shortage have been published in a peer-reviewed journal.",
+    "label": 0,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "unknown",
+      "country": "IN",
+      "source_credibility": 0.37,
+      "domain_age": 9
+    }
+  },
+  {
+    "text": "শিক্ষা বাজেট নিয়ে গবেষণার ফল একটি পিয়ার-রিভিউড জার্নালে প্রকাশিত হয়েছে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "Jatiya Party",
+      "speaker_role": "citizen",
+      "country": "BD",
+      "source_credibility": 0.54,
+      "domain_age": 4
+    }
+  },
+  {
+    "text": "सूत्रों के अनुसार शिक्षा बजट पर सरकार सच छिपा रही है। तुरंत सबको शेयर करें!",
+    "label": 1,
+    "metadata": {
+      "political_party": "BJP",
+      "speaker_role": "journalist",
+      "country": "IN",
+      "source_credibility": 0.59,
+      "domain_age": 2
+    }
+  },
+  {
+    "text": "An official notice on the power shortage states that the new rules take effect next month.",
+    "label": 0,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "journalist",
+      "country": "UNK",
+      "source_credibility": 0.54,
+      "domain_age": 1
+    }
+  },
+  {
+    "text": "যানজট নিরসন বিষয়ে সরকারি বিজ্ঞপ্তিতে বলা হয়েছে, নতুন নিয়ম আগামী মাস থেকে কার্যকর হবে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "BNP",
+      "speaker_role": "unknown",
+      "country": "BD",
+      "source_credibility": 1.0,
+      "domain_age": 12
+    }
+  },
+  {
+    "text": "Research findings on flood relief have been published in a peer-reviewed journal.",
+    "label": 0,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "politician",
+      "country": "IN",
+      "source_credibility": 0.92,
+      "domain_age": 17
+    }
+  },
+  {
+    "text": "Research findings on the vaccination drive have been published in a peer-reviewed journal.",
+    "label": 0,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "politician",
+      "country": "UNK",
+      "source_credibility": 0.81,
+      "domain_age": 3
+    }
+  },
+  {
+    "text": "A parliamentary committee met on the vaccination drive and submitted a report with recommendations.",
+    "label": 0,
+    "metadata": {
+      "political_party": "AAP",
+      "speaker_role": "unknown",
+      "country": "IN",
+      "source_credibility": 0.53,
+      "domain_age": 10
+    }
+  },
+  {
+    "text": "অবিশ্বাস্য! বিদ্যুৎ সংকট নিয়ে এই উপায়ে এক সপ্তাহেই সব সমস্যা শেষ, ডাক্তাররা চান না আপনি জানুন।",
+    "label": 1,
+    "metadata": {
+      "political_party": "BNP",
+      "speaker_role": "politician",
+      "country": "BD",
+      "source_credibility": 0.99,
+      "domain_age": 8
+    }
+  },
+  {
+    "text": "সংবাদ সম্মেলনে মন্ত্রী নির্বাচন সংক্রান্ত পরিসংখ্যান প্রকাশ করেছেন, যা স্বাধীন সংস্থাও যাচাই করেছে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "journalist",
+      "country": "BD",
+      "source_credibility": 0.3,
+      "domain_age": 20
+    }
+  },
+  {
+    "text": "সংবাদ সম্মেলনে মন্ত্রী টিকা কর্মসূচি সংক্রান্ত পরিসংখ্যান প্রকাশ করেছেন, যা স্বাধীন সংস্থাও যাচাই করেছে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "Jatiya Party",
+      "speaker_role": "unknown",
+      "country": "BD",
+      "source_credibility": 0.59,
+      "domain_age": 10
+    }
+  },
+  {
+    "text": "Sources say the government is hiding the truth about the food market. Share before it gets deleted!",
+    "label": 1,
+    "metadata": {
+      "political_party": "Republican",
+      "speaker_role": "unknown",
+      "country": "US",
+      "source_credibility": 0.55,
+      "domain_age": 9
+    }
+  },
+  {
+    "text": "विस्फोटक: ट्रैफिक सुधार के बारे में जो बताया जा रहा है वह सब झूठ है, मीडिया असली सच नहीं दिखा रहा।",
+    "label": 1,
+    "metadata": {
+      "political_party": "Congress",
+      "speaker_role": "citizen",
+      "country": "IN",
+      "source_credibility": 0.55,
+      "domain_age": 8
+    }
+  },
+  {
+    "text": "शिक्षा बजट पर शोध के नतीजे एक समीक्षित जर्नल में प्रकाशित हुए हैं।",
+    "label": 0,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "citizen",
+      "country": "IN",
+      "source_credibility": 0.38,
+      "domain_age": 3
+    }
+  },
+  {
+    "text": "যানজট নিরসন নিয়ে গবেষণার ফল একটি পিয়ার-রিভিউড জার্নালে প্রকাশিত হয়েছে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "Awami League",
+      "speaker_role": "citizen",
+      "country": "BD",
+      "source_credibility": 0.24,
+      "domain_age": 3
+    }
+  },
+  {
+    "text": "A parliamentary committee met on public healthcare and submitted a report with recommendations.",
+    "label": 0,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "unknown",
+      "country": "UNK",
+      "source_credibility": 0.33,
+      "domain_age": 4
+    }
+  },
+  {
+    "text": "অবিশ্বাস্য! স্বাস্থ্যসেবা নিয়ে এই উপায়ে এক সপ্তাহেই সব সমস্যা শেষ, ডাক্তাররা চান না আপনি জানুন।",
+    "label": 1,
+    "metadata": {
+      "political_party": "Awami League",
+      "speaker_role": "official",
+      "country": "BD",
+      "source_credibility": 0.61,
+      "domain_age": 10
+    }
+  },
+  {
+    "text": "বিস্ফোরক: সূত্র জানিয়েছে, যানজট নিরসন নিয়ে সরকার সত্য গোপন করছে। সবাইকে শেয়ার করুন!",
+    "label": 1,
+    "metadata": {
+      "political_party": "Awami League",
+      "speaker_role": "journalist",
+      "country": "BD",
+      "source_credibility": 0.53,
+      "domain_age": 7
+    }
+  },
+  {
+    "text": "विस्फोटक: ट्रैफिक सुधार के बारे में सरकारी अधिसूचना में कहा गया है कि नए नियम अगले महीने से लागू होंगे।",
+    "label": 0,
+    "metadata": {
+      "political_party": "BJP",
+      "speaker_role": "politician",
+      "country": "IN",
+      "source_credibility": 0.62,
+      "domain_age": 17
+    }
+  },
+  {
+    "text": "Sources say the government is hiding the truth about the education budget. Share before it gets deleted!",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "citizen",
+      "country": "UNK",
+      "source_credibility": 0.04,
+      "domain_age": 5
+    }
+  },
+  {
+    "text": "EXPLOSIVE: A parliamentary committee met on the power shortage and submitted a report with recommendations.",
+    "label": 0,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "unknown",
+      "country": "UNK",
+      "source_credibility": 0.74,
+      "domain_age": 17
+    }
+  },
+  {
+    "text": "ব্রেকিং: বন্যা পরিস্থিতি নিয়ে সংসদীয় কমিটি বৈঠক করেছে এবং সুপারিশসহ প্রতিবেদন জমা দিয়েছে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "Awami League",
+      "speaker_role": "official",
+      "country": "BD",
+      "source_credibility": 0.41,
+      "domain_age": 18
+    }
+  },
+  {
+    "text": "At a press conference the minister released figures on the food market, which an independent body also verified.",
+    "label": 0,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "citizen",
+      "country": "UNK",
+      "source_credibility": 0.58,
+      "domain_age": 14
+    }
+  },
+  {
+    "text": "সূত্র জানিয়েছে, যানজট নিরসন নিয়ে সরকার সত্য গোপন করছে। সবাইকে শেয়ার করুন!",
+    "label": 1,
+    "metadata": {
+      "political_party": "Awami League",
+      "speaker_role": "unknown",
+      "country": "BD",
+      "source_credibility": 0.12,
+      "domain_age": 11
+    }
+  },
+  {
+    "text": "বিস্ফোরক: ডিজিটাল সেবা নিয়ে সংসদীয় কমিটি বৈঠক করেছে এবং সুপারিশসহ প্রতিবেদন জমা দিয়েছে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "BNP",
+      "speaker_role": "citizen",
+      "country": "BD",
+      "source_credibility": 0.61,
+      "domain_age": 6
+    }
+  },
+  {
+    "text": "टीकाकरण अभियान के बारे में जो बताया जा रहा है वह सब झूठ है, मीडिया असली सच नहीं दिखा रहा।",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "official",
+      "country": "BD",
+      "source_credibility": 0.45,
+      "domain_age": 6
+    }
+  },
+  {
+    "text": "Everything you were told about public healthcare is a lie, and the media will not show you the real story.",
+    "label": 1,
+    "metadata": {
+      "political_party": "Democrat",
+      "speaker_role": "journalist",
+      "country": "US",
+      "source_credibility": 0.29,
+      "domain_age": 9
+    }
+  },
+  {
+    "text": "अनाज का बाज़ार के बारे में सरकारी अधिसूचना में कहा गया है कि नए नियम अगले महीने से लागू होंगे।",
+    "label": 0,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "journalist",
+      "country": "IN",
+      "source_credibility": 0.69,
+      "domain_age": 7
+    }
+  },
+  {
+    "text": "शिक्षा बजट के बारे में जो बताया जा रहा है वह सब झूठ है, मीडिया असली सच नहीं दिखा रहा।",
+    "label": 1,
+    "metadata": {
+      "political_party": "AAP",
+      "speaker_role": "official",
+      "country": "IN",
+      "source_credibility": 0.21,
+      "domain_age": 18
+    }
+  },
+  {
+    "text": "Shocking leak: opposition secretly received foreign money over digital services, documents exposed.",
+    "label": 1,
+    "metadata": {
+      "political_party": "Republican",
+      "speaker_role": "journalist",
+      "country": "US",
+      "source_credibility": 0.06,
+      "domain_age": 5
+    }
+  },
+  {
+    "text": "বিদ্যুৎ সংকট নিয়ে গবেষণার ফল একটি পিয়ার-রিভিউড জার্নালে প্রকাশিত হয়েছে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "BNP",
+      "speaker_role": "citizen",
+      "country": "BD",
+      "source_credibility": 0.86,
+      "domain_age": 14
+    }
+  },
+  {
+    "text": "BREAKING: Everything you were told about the education budget is a lie, and the media will not show you the real story.",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "unknown",
+      "country": "US",
+      "source_credibility": 0.72,
+      "domain_age": 20
+    }
+  },
+  {
+    "text": "अनाज का बाज़ार के बारे में सरकारी अधिसूचना में कहा गया है कि नए नियम अगले महीने से लागू होंगे।",
+    "label": 0,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "journalist",
+      "country": "BD",
+      "source_credibility": 0.43,
+      "domain_age": 10
+    }
+  },
+  {
+    "text": "An official notice on public healthcare states that the new rules take effect next month.",
+    "label": 0,
+    "metadata": {
+      "political_party": "Republican",
+      "speaker_role": "citizen",
+      "country": "US",
+      "source_credibility": 0.57,
+      "domain_age": 11
+    }
+  },
+  {
+    "text": "ट्रैफिक सुधार पर संसदीय समिति ने बैठक की और सिफारिशों के साथ रिपोर्ट सौंपी।",
+    "label": 0,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "journalist",
+      "country": "IN",
+      "source_credibility": 0.56,
+      "domain_age": 15
+    }
+  },
+  {
+    "text": "বিস্ফোরক: অবিশ্বাস্য! যানজট নিরসন নিয়ে এই উপায়ে এক সপ্তাহেই সব সমস্যা শেষ, ডাক্তাররা চান না আপনি জানুন।",
+    "label": 1,
+    "metadata": {
+      "political_party": "BNP",
+      "speaker_role": "journalist",
+      "country": "BD",
+      "source_credibility": 0.27,
+      "domain_age": 17
+    }
+  },
+  {
+    "text": "चुनाव के बारे में जो बताया जा रहा है वह सब झूठ है, मीडिया असली सच नहीं दिखा रहा।",
+    "label": 1,
+    "metadata": {
+      "political_party": "Congress",
+      "speaker_role": "citizen",
+      "country": "IN",
+      "source_credibility": 0.0,
+      "domain_age": 10
+    }
+  },
+  {
+    "text": "জরুরি: অবিশ্বাস্য! চালের বাজার নিয়ে এই উপায়ে এক সপ্তাহেই সব সমস্যা শেষ, ডাক্তাররা চান না আপনি জানুন।",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "official",
+      "country": "IN",
+      "source_credibility": 0.0,
+      "domain_age": 2
+    }
+  },
+  {
+    "text": "विस्फोटक: चुनाव पर संसदीय समिति ने बैठक की और सिफारिशों के साथ रिपोर्ट सौंपी।",
+    "label": 0,
+    "metadata": {
+      "political_party": "Congress",
+      "speaker_role": "journalist",
+      "country": "IN",
+      "source_credibility": 1.0,
+      "domain_age": 7
+    }
+  },
+  {
+    "text": "Research findings on digital services have been published in a peer-reviewed journal.",
+    "label": 0,
+    "metadata": {
+      "political_party": "Jatiya Party",
+      "speaker_role": "unknown",
+      "country": "BD",
+      "source_credibility": 0.61,
+      "domain_age": 19
+    }
+  },
+  {
+    "text": "EXPLOSIVE: Doctors don't want you to know: this one trick fixes everything about traffic reforms in a week.",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "official",
+      "country": "UNK",
+      "source_credibility": 0.34,
+      "domain_age": 6
+    }
+  },
+  {
+    "text": "জরুরি: ভয়ংকর খবর! চালের বাজার নিয়ে বিরোধী দল গোপনে বিদেশ থেকে টাকা নিয়েছে, প্রমাণ ফাঁস।",
+    "label": 1,
+    "metadata": {
+      "political_party": "BNP",
+      "speaker_role": "unknown",
+      "country": "BD",
+      "source_credibility": 0.84,
+      "domain_age": 1
+    }
+  },
+  {
+    "text": "ব্রেকিং: টিকা কর্মসূচি নিয়ে সংসদীয় কমিটি বৈঠক করেছে এবং সুপারিশসহ প্রতিবেদন জমা দিয়েছে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "BNP",
+      "speaker_role": "citizen",
+      "country": "BD",
+      "source_credibility": 0.69,
+      "domain_age": 13
+    }
+  },
+  {
+    "text": "সংবাদ সম্মেলনে মন্ত্রী বন্যা পরিস্থিতি সংক্রান্ত পরিসংখ্যান প্রকাশ করেছেন, যা স্বাধীন সংস্থাও যাচাই করেছে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "official",
+      "country": "BD",
+      "source_credibility": 0.64,
+      "domain_age": 12
+    }
+  },
+  {
+    "text": "बिजली संकट के बारे में जो बताया जा रहा है वह सब झूठ है, मीडिया असली सच नहीं दिखा रहा।",
+    "label": 1,
+    "metadata": {
+      "political_party": "AAP",
+      "speaker_role": "journalist",
+      "country": "IN",
+      "source_credibility": 0.14,
+      "domain_age": 17
+    }
+  },
+  {
+    "text": "विस्फोटक: वायरल दावा: बाढ़ की स्थिति को लेकर विपक्ष को विदेश से गुप्त फंडिंग मिली, सबूत लीक।",
+    "label": 1,
+    "metadata": {
+      "political_party": "AAP",
+      "speaker_role": "unknown",
+      "country": "IN",
+      "source_credibility": 0.67,
+      "domain_age": 2
+    }
+  },
+  {
+    "text": "EXPLOSIVE: Shocking leak: opposition secretly received foreign money over digital services, documents exposed.",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "unknown",
+      "country": "BD",
+      "source_credibility": 0.38,
+      "domain_age": 1
+    }
+  },
+  {
+    "text": "ट्रैफिक सुधार पर संसदीय समिति ने बैठक की और सिफारिशों के साथ रिपोर्ट सौंपी।",
+    "label": 0,
+    "metadata": {
+      "political_party": "Jatiya Party",
+      "speaker_role": "unknown",
+      "country": "BD",
+      "source_credibility": 0.91,
+      "domain_age": 15
+    }
+  },
+  {
+    "text": "বিস্ফোরক: অবিশ্বাস্য! চালের বাজার নিয়ে এই উপায়ে এক সপ্তাহেই সব সমস্যা শেষ, ডাক্তাররা চান না আপনি জানুন।",
+    "label": 1,
+    "metadata": {
+      "political_party": "BNP",
+      "speaker_role": "official",
+      "country": "BD",
+      "source_credibility": 0.36,
+      "domain_age": 12
+    }
+  },
+  {
+    "text": "A parliamentary committee met on fuel prices and submitted a report with recommendations.",
+    "label": 0,
+    "metadata": {
+      "political_party": "Democrat",
+      "speaker_role": "unknown",
+      "country": "US",
+      "source_credibility": 0.61,
+      "domain_age": 14
+    }
+  },
+  {
+    "text": "चुनाव पर संसदीय समिति ने बैठक की और सिफारिशों के साथ रिपोर्ट सौंपी।",
+    "label": 0,
+    "metadata": {
+      "political_party": "Congress",
+      "speaker_role": "politician",
+      "country": "IN",
+      "source_credibility": 0.65,
+      "domain_age": 8
+    }
+  },
+  {
+    "text": "টিকা কর্মসূচি নিয়ে গবেষণার ফল একটি পিয়ার-রিভিউড জার্নালে প্রকাশিত হয়েছে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "Awami League",
+      "speaker_role": "journalist",
+      "country": "BD",
+      "source_credibility": 0.61,
+      "domain_age": 3
+    }
+  },
+  {
+    "text": "Research findings on the vaccination drive have been published in a peer-reviewed journal.",
+    "label": 0,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "official",
+      "country": "UNK",
+      "source_credibility": 0.36,
+      "domain_age": 9
+    }
+  },
+  {
+    "text": "ब्रेकिंग: डॉक्टर नहीं चाहते कि आप जानें: स्वास्थ्य सेवा का यह उपाय एक हफ्ते में सब ठीक कर देगा।",
+    "label": 1,
+    "metadata": {
+      "political_party": "AAP",
+      "speaker_role": "journalist",
+      "country": "IN",
+      "source_credibility": 0.21,
+      "domain_age": 16
+    }
+  },
+  {
+    "text": "URGENT: Shocking leak: opposition secretly received foreign money over the food market, documents exposed.",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "unknown",
+      "country": "UNK",
+      "source_credibility": 0.25,
+      "domain_age": 5
+    }
+  },
+  {
+    "text": "A parliamentary committee met on the election and submitted a report with recommendations.",
+    "label": 0,
+    "metadata": {
+      "political_party": "Awami League",
+      "speaker_role": "politician",
+      "country": "BD",
+      "source_credibility": 0.77,
+      "domain_age": 9
+    }
+  },
+  {
+    "text": "Sources say the government is hiding the truth about the election. Share before it gets deleted!",
+    "label": 1,
+    "metadata": {
+      "political_party": "BJP",
+      "speaker_role": "unknown",
+      "country": "IN",
+      "source_credibility": 0.47,
+      "domain_age": 19
+    }
+  },
+  {
+    "text": "ब्रेकिंग: ईंधन की कीमतें के बारे में जो बताया जा रहा है वह सब झूठ है, मीडिया असली सच नहीं दिखा रहा।",
+    "label": 1,
+    "metadata": {
+      "political_party": "BJP",
+      "speaker_role": "official",
+      "country": "IN",
+      "source_credibility": 0.81,
+      "domain_age": 5
+    }
+  },
+  {
+    "text": "सूत्रों के अनुसार टीकाकरण अभियान पर सरकार सच छिपा रही है। तुरंत सबको शेयर करें!",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "official",
+      "country": "IN",
+      "source_credibility": 0.34,
+      "domain_age": 16
+    }
+  },
+  {
+    "text": "Research findings on fuel prices have been published in a peer-reviewed journal.",
+    "label": 0,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "journalist",
+      "country": "UNK",
+      "source_credibility": 0.43,
+      "domain_age": 4
+    }
+  },
+  {
+    "text": "प्रेस कॉन्फ्रेंस में मंत्री ने ईंधन की कीमतें से जुड़े आंकड़े जारी किए, जिन्हें स्वतंत्र संस्था ने भी सत्यापित किया।",
+    "label": 0,
+    "metadata": {
+      "political_party": "Congress",
+      "speaker_role": "official",
+      "country": "IN",
+      "source_credibility": 1.0,
+      "domain_age": 18
+    }
+  },
+  {
+    "text": "ट्रैफिक सुधार पर संसदीय समिति ने बैठक की और सिफारिशों के साथ रिपोर्ट सौंपी।",
+    "label": 0,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "journalist",
+      "country": "BD",
+      "source_credibility": 0.29,
+      "domain_age": 16
+    }
+  },
+  {
+    "text": "An official notice on flood relief states that the new rules take effect next month.",
+    "label": 0,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "unknown",
+      "country": "US",
+      "source_credibility": 0.51,
+      "domain_age": 13
+    }
+  },
+  {
+    "text": "EXPLOSIVE: At a press conference the minister released figures on traffic reforms, which an independent body also verified.",
+    "label": 0,
+    "metadata": {
+      "political_party": "Democrat",
+      "speaker_role": "politician",
+      "country": "US",
+      "source_credibility": 0.52,
+      "domain_age": 20
+    }
+  },
+  {
+    "text": "विस्फोटक: वायरल दावा: बाढ़ की स्थिति को लेकर विपक्ष को विदेश से गुप्त फंडिंग मिली, सबूत लीक।",
+    "label": 1,
+    "metadata": {
+      "political_party": "AAP",
+      "speaker_role": "official",
+      "country": "IN",
+      "source_credibility": 0.71,
+      "domain_age": 3
+    }
+  },
+  {
+    "text": "চালের বাজার বিষয়ে সরকারি বিজ্ঞপ্তিতে বলা হয়েছে, নতুন নিয়ম আগামী মাস থেকে কার্যকর হবে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "Jatiya Party",
+      "speaker_role": "official",
+      "country": "BD",
+      "source_credibility": 0.64,
+      "domain_age": 9
+    }
+  },
+  {
+    "text": "Research findings on the power shortage have been published in a peer-reviewed journal.",
+    "label": 0,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "official",
+      "country": "BD",
+      "source_credibility": 0.76,
+      "domain_age": 6
+    }
+  },
+  {
+    "text": "ब्रेकिंग: वायरल दावा: बाढ़ की स्थिति को लेकर विपक्ष को विदेश से गुप्त फंडिंग मिली, सबूत लीक।",
+    "label": 1,
+    "metadata": {
+      "political_party": "BJP",
+      "speaker_role": "citizen",
+      "country": "IN",
+      "source_credibility": 0.52,
+      "domain_age": 19
+    }
+  },
+  {
+    "text": "ব্রেকিং: জ্বালানির দাম নিয়ে সংসদীয় কমিটি বৈঠক করেছে এবং সুপারিশসহ প্রতিবেদন জমা দিয়েছে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "citizen",
+      "country": "BD",
+      "source_credibility": 0.82,
+      "domain_age": 14
+    }
+  },
+  {
+    "text": "চালের বাজার নিয়ে সংসদীয় কমিটি বৈঠক করেছে এবং সুপারিশসহ প্রতিবেদন জমা দিয়েছে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "AAP",
+      "speaker_role": "citizen",
+      "country": "IN",
+      "source_credibility": 0.62,
+      "domain_age": 5
+    }
+  },
+  {
+    "text": "স্বাস্থ্যসেবা নিয়ে যা বলা হচ্ছে সবই মিথ্যা, আসল ঘটনা মিডিয়া দেখাচ্ছে না।",
+    "label": 1,
+    "metadata": {
+      "political_party": "BNP",
+      "speaker_role": "journalist",
+      "country": "BD",
+      "source_credibility": 0.36,
+      "domain_age": 6
+    }
+  },
+  {
+    "text": "সংবাদ সম্মেলনে মন্ত্রী টিকা কর্মসূচি সংক্রান্ত পরিসংখ্যান প্রকাশ করেছেন, যা স্বাধীন সংস্থাও যাচাই করেছে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "BNP",
+      "speaker_role": "politician",
+      "country": "BD",
+      "source_credibility": 0.59,
+      "domain_age": 10
+    }
+  },
+  {
+    "text": "सूत्रों के अनुसार चुनाव पर सरकार सच छिपा रही है। तुरंत सबको शेयर करें!",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "politician",
+      "country": "IN",
+      "source_credibility": 0.6,
+      "domain_age": 8
+    }
+  },
+  {
+    "text": "Shocking leak: opposition secretly received foreign money over fuel prices, documents exposed.",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "journalist",
+      "country": "UNK",
+      "source_credibility": 0.3,
+      "domain_age": 4
+    }
+  },
+  {
+    "text": "বিস্ফোরক: চালের বাজার নিয়ে যা বলা হচ্ছে সবই মিথ্যা, আসল ঘটনা মিডিয়া দেখাচ্ছে না।",
+    "label": 1,
+    "metadata": {
+      "political_party": "Awami League",
+      "speaker_role": "citizen",
+      "country": "BD",
+      "source_credibility": 0.11,
+      "domain_age": 5
+    }
+  },
+  {
+    "text": "स्वास्थ्य सेवा पर शोध के नतीजे एक समीक्षित जर्नल में प्रकाशित हुए हैं।",
+    "label": 0,
+    "metadata": {
+      "political_party": "BJP",
+      "speaker_role": "politician",
+      "country": "IN",
+      "source_credibility": 0.71,
+      "domain_age": 18
+    }
+  },
+  {
+    "text": "Doctors don't want you to know: this one trick fixes everything about flood relief in a week.",
+    "label": 1,
+    "metadata": {
+      "political_party": "BJP",
+      "speaker_role": "journalist",
+      "country": "IN",
+      "source_credibility": 0.6,
+      "domain_age": 1
+    }
+  },
+  {
+    "text": "ব্রেকিং: সূত্র জানিয়েছে, ডিজিটাল সেবা নিয়ে সরকার সত্য গোপন করছে। সবাইকে শেয়ার করুন!",
+    "label": 1,
+    "metadata": {
+      "political_party": "BNP",
+      "speaker_role": "unknown",
+      "country": "BD",
+      "source_credibility": 0.2,
+      "domain_age": 10
+    }
+  },
+  {
+    "text": "जरूरी: वायरल दावा: चुनाव को लेकर विपक्ष को विदेश से गुप्त फंडिंग मिली, सबूत लीक।",
+    "label": 1,
+    "metadata": {
+      "political_party": "BJP",
+      "speaker_role": "unknown",
+      "country": "IN",
+      "source_credibility": 0.29,
+      "domain_age": 2
+    }
+  },
+  {
+    "text": "Doctors don't want you to know: this one trick fixes everything about the food market in a week.",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "official",
+      "country": "UNK",
+      "source_credibility": 0.59,
+      "domain_age": 8
+    }
+  },
+  {
+    "text": "জরুরি: ভয়ংকর খবর! ডিজিটাল সেবা নিয়ে বিরোধী দল গোপনে বিদেশ থেকে টাকা নিয়েছে, প্রমাণ ফাঁস।",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "unknown",
+      "country": "BD",
+      "source_credibility": 0.54,
+      "domain_age": 2
+    }
+  },
+  {
+    "text": "Shocking leak: opposition secretly received foreign money over the food market, documents exposed.",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "official",
+      "country": "UNK",
+      "source_credibility": 0.45,
+      "domain_age": 8
+    }
+  },
+  {
+    "text": "সূত্র জানিয়েছে, স্বাস্থ্যসেবা নিয়ে সরকার সত্য গোপন করছে। সবাইকে শেয়ার করুন!",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "journalist",
+      "country": "BD",
+      "source_credibility": 0.7,
+      "domain_age": 4
+    }
+  },
+  {
+    "text": "BREAKING: At a press conference the minister released figures on the vaccination drive, which an independent body also verified.",
+    "label": 0,
+    "metadata": {
+      "political_party": "BNP",
+      "speaker_role": "journalist",
+      "country": "BD",
+      "source_credibility": 0.7,
+      "domain_age": 20
+    }
+  },
+  {
+    "text": "শিক্ষা বাজেট নিয়ে সংসদীয় কমিটি বৈঠক করেছে এবং সুপারিশসহ প্রতিবেদন জমা দিয়েছে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "Jatiya Party",
+      "speaker_role": "official",
+      "country": "BD",
+      "source_credibility": 0.72,
+      "domain_age": 8
+    }
+  },
+  {
+    "text": "বিস্ফোরক: বন্যা পরিস্থিতি নিয়ে যা বলা হচ্ছে সবই মিথ্যা, আসল ঘটনা মিডিয়া দেখাচ্ছে না।",
+    "label": 1,
+    "metadata": {
+      "political_party": "Awami League",
+      "speaker_role": "citizen",
+      "country": "BD",
+      "source_credibility": 0.23,
+      "domain_age": 5
+    }
+  },
+  {
+    "text": "অবিশ্বাস্য! যানজট নিরসন নিয়ে এই উপায়ে এক সপ্তাহেই সব সমস্যা শেষ, ডাক্তাররা চান না আপনি জানুন।",
+    "label": 1,
+    "metadata": {
+      "political_party": "Jatiya Party",
+      "speaker_role": "politician",
+      "country": "BD",
+      "source_credibility": 0.58,
+      "domain_age": 6
+    }
+  },
+  {
+    "text": "जरूरी: डॉक्टर नहीं चाहते कि आप जानें: डिजिटल सेवाएँ का यह उपाय एक हफ्ते में सब ठीक कर देगा।",
+    "label": 1,
+    "metadata": {
+      "political_party": "AAP",
+      "speaker_role": "politician",
+      "country": "IN",
+      "source_credibility": 0.0,
+      "domain_age": 5
+    }
+  },
+  {
+    "text": "ডিজিটাল সেবা নিয়ে সংসদীয় কমিটি বৈঠক করেছে এবং সুপারিশসহ প্রতিবেদন জমা দিয়েছে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "Jatiya Party",
+      "speaker_role": "journalist",
+      "country": "BD",
+      "source_credibility": 0.81,
+      "domain_age": 15
+    }
+  },
+  {
+    "text": "ट्रैफिक सुधार के बारे में जो बताया जा रहा है वह सब झूठ है, मीडिया असली सच नहीं दिखा रहा।",
+    "label": 1,
+    "metadata": {
+      "political_party": "BJP",
+      "speaker_role": "citizen",
+      "country": "IN",
+      "source_credibility": 0.18,
+      "domain_age": 10
+    }
+  },
+  {
+    "text": "Shocking leak: opposition secretly received foreign money over traffic reforms, documents exposed.",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "journalist",
+      "country": "IN",
+      "source_credibility": 0.04,
+      "domain_age": 6
+    }
+  },
+  {
+    "text": "At a press conference the minister released figures on the vaccination drive, which an independent body also verified.",
+    "label": 0,
+    "metadata": {
+      "political_party": "AAP",
+      "speaker_role": "politician",
+      "country": "IN",
+      "source_credibility": 0.31,
+      "domain_age": 16
+    }
+  },
+  {
+    "text": "अनाज का बाज़ार के बारे में सरकारी अधिसूचना में कहा गया है कि नए नियम अगले महीने से लागू होंगे।",
+    "label": 0,
+    "metadata": {
+      "political_party": "Congress",
+      "speaker_role": "unknown",
+      "country": "IN",
+      "source_credibility": 0.52,
+      "domain_age": 1
+    }
+  },
+  {
+    "text": "Research findings on the education budget have been published in a peer-reviewed journal.",
+    "label": 0,
+    "metadata": {
+      "political_party": "Republican",
+      "speaker_role": "citizen",
+      "country": "US",
+      "source_credibility": 0.84,
+      "domain_age": 17
+    }
+  },
+  {
+    "text": "ब्रेकिंग: वायरल दावा: ईंधन की कीमतें को लेकर विपक्ष को विदेश से गुप्त फंडिंग मिली, सबूत लीक।",
+    "label": 1,
+    "metadata": {
+      "political_party": "Jatiya Party",
+      "speaker_role": "journalist",
+      "country": "BD",
+      "source_credibility": 0.26,
+      "domain_age": 12
+    }
+  },
+  {
+    "text": "সূত্র জানিয়েছে, জ্বালানির দাম নিয়ে সরকার সত্য গোপন করছে। সবাইকে শেয়ার করুন!",
+    "label": 1,
+    "metadata": {
+      "political_party": "Jatiya Party",
+      "speaker_role": "official",
+      "country": "BD",
+      "source_credibility": 0.39,
+      "domain_age": 2
+    }
+  },
+  {
+    "text": "सूत्रों के अनुसार चुनाव पर सरकार सच छिपा रही है। तुरंत सबको शेयर करें!",
+    "label": 1,
+    "metadata": {
+      "political_party": "BJP",
+      "speaker_role": "politician",
+      "country": "IN",
+      "source_credibility": 0.34,
+      "domain_age": 6
+    }
+  },
+  {
+    "text": "ट्रैफिक सुधार के बारे में सरकारी अधिसूचना में कहा गया है कि नए नियम अगले महीने से लागू होंगे।",
+    "label": 0,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "journalist",
+      "country": "BD",
+      "source_credibility": 0.55,
+      "domain_age": 1
+    }
+  },
+  {
+    "text": "बिजली संकट के बारे में जो बताया जा रहा है वह सब झूठ है, मीडिया असली सच नहीं दिखा रहा।",
+    "label": 1,
+    "metadata": {
+      "political_party": "BNP",
+      "speaker_role": "unknown",
+      "country": "BD",
+      "source_credibility": 0.07,
+      "domain_age": 5
+    }
+  },
+  {
+    "text": "সূত্র জানিয়েছে, বিদ্যুৎ সংকট নিয়ে সরকার সত্য গোপন করছে। সবাইকে শেয়ার করুন!",
+    "label": 1,
+    "metadata": {
+      "political_party": "BNP",
+      "speaker_role": "unknown",
+      "country": "BD",
+      "source_credibility": 0.91,
+      "domain_age": 2
+    }
+  },
+  {
+    "text": "শিক্ষা বাজেট বিষয়ে সরকারি বিজ্ঞপ্তিতে বলা হয়েছে, নতুন নিয়ম আগামী মাস থেকে কার্যকর হবে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "citizen",
+      "country": "BD",
+      "source_credibility": 0.55,
+      "domain_age": 10
+    }
+  },
+  {
+    "text": "স্বাস্থ্যসেবা নিয়ে যা বলা হচ্ছে সবই মিথ্যা, আসল ঘটনা মিডিয়া দেখাচ্ছে না।",
+    "label": 1,
+    "metadata": {
+      "political_party": "Jatiya Party",
+      "speaker_role": "politician",
+      "country": "BD",
+      "source_credibility": 0.4,
+      "domain_age": 11
+    }
+  },
+  {
+    "text": "অবিশ্বাস্য! চালের বাজার নিয়ে এই উপায়ে এক সপ্তাহেই সব সমস্যা শেষ, ডাক্তাররা চান না আপনি জানুন।",
+    "label": 1,
+    "metadata": {
+      "political_party": "BNP",
+      "speaker_role": "politician",
+      "country": "BD",
+      "source_credibility": 0.32,
+      "domain_age": 1
+    }
+  },
+  {
+    "text": "জরুরি: সূত্র জানিয়েছে, বন্যা পরিস্থিতি নিয়ে সরকার সত্য গোপন করছে। সবাইকে শেয়ার করুন!",
+    "label": 1,
+    "metadata": {
+      "political_party": "Awami League",
+      "speaker_role": "unknown",
+      "country": "BD",
+      "source_credibility": 0.42,
+      "domain_age": 3
+    }
+  },
+  {
+    "text": "সংবাদ সম্মেলনে মন্ত্রী টিকা কর্মসূচি সংক্রান্ত পরিসংখ্যান প্রকাশ করেছেন, যা স্বাধীন সংস্থাও যাচাই করেছে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "Awami League",
+      "speaker_role": "unknown",
+      "country": "BD",
+      "source_credibility": 0.56,
+      "domain_age": 5
+    }
+  },
+  {
+    "text": "Everything you were told about the food market is a lie, and the media will not show you the real story.",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "unknown",
+      "country": "UNK",
+      "source_credibility": 0.29,
+      "domain_age": 1
+    }
+  },
+  {
+    "text": "ব্রেকিং: ভয়ংকর খবর! ডিজিটাল সেবা নিয়ে বিরোধী দল গোপনে বিদেশ থেকে টাকা নিয়েছে, প্রমাণ ফাঁস।",
+    "label": 1,
+    "metadata": {
+      "political_party": "BNP",
+      "speaker_role": "official",
+      "country": "BD",
+      "source_credibility": 0.34,
+      "domain_age": 7
+    }
+  },
+  {
+    "text": "শিক্ষা বাজেট নিয়ে গবেষণার ফল একটি পিয়ার-রিভিউড জার্নালে প্রকাশিত হয়েছে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "BNP",
+      "speaker_role": "citizen",
+      "country": "BD",
+      "source_credibility": 0.56,
+      "domain_age": 6
+    }
+  },
+  {
+    "text": "Research findings on fuel prices have been published in a peer-reviewed journal.",
+    "label": 0,
+    "metadata": {
+      "political_party": "Republican",
+      "speaker_role": "citizen",
+      "country": "US",
+      "source_credibility": 0.34,
+      "domain_age": 7
+    }
+  },
+  {
+    "text": "নির্বাচন বিষয়ে সরকারি বিজ্ঞপ্তিতে বলা হয়েছে, নতুন নিয়ম আগামী মাস থেকে কার্যকর হবে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "Jatiya Party",
+      "speaker_role": "official",
+      "country": "BD",
+      "source_credibility": 0.82,
+      "domain_age": 1
+    }
+  },
+  {
+    "text": "ईंधन की कीमतें पर शोध के नतीजे एक समीक्षित जर्नल में प्रकाशित हुए हैं।",
+    "label": 0,
+    "metadata": {
+      "political_party": "AAP",
+      "speaker_role": "journalist",
+      "country": "IN",
+      "source_credibility": 0.43,
+      "domain_age": 6
+    }
+  },
+  {
+    "text": "Doctors don't want you to know: this one trick fixes everything about the education budget in a week.",
+    "label": 1,
+    "metadata": {
+      "political_party": "Democrat",
+      "speaker_role": "unknown",
+      "country": "US",
+      "source_credibility": 0.62,
+      "domain_age": 3
+    }
+  },
+  {
+    "text": "Research findings on flood relief have been published in a peer-reviewed journal.",
+    "label": 0,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "official",
+      "country": "UNK",
+      "source_credibility": 0.55,
+      "domain_age": 1
+    }
+  },
+  {
+    "text": "Shocking leak: opposition secretly received foreign money over public healthcare, documents exposed.",
+    "label": 1,
+    "metadata": {
+      "political_party": "BJP",
+      "speaker_role": "official",
+      "country": "IN",
+      "source_credibility": 0.24,
+      "domain_age": 7
+    }
+  },
+  {
+    "text": "বিদ্যুৎ সংকট বিষয়ে সরকারি বিজ্ঞপ্তিতে বলা হয়েছে, নতুন নিয়ম আগামী মাস থেকে কার্যকর হবে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "BNP",
+      "speaker_role": "official",
+      "country": "BD",
+      "source_credibility": 0.55,
+      "domain_age": 3
+    }
+  },
+  {
+    "text": "শিক্ষা বাজেট নিয়ে সংসদীয় কমিটি বৈঠক করেছে এবং সুপারিশসহ প্রতিবেদন জমা দিয়েছে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "BNP",
+      "speaker_role": "journalist",
+      "country": "BD",
+      "source_credibility": 0.67,
+      "domain_age": 3
+    }
+  },
+  {
+    "text": "সংবাদ সম্মেলনে মন্ত্রী ডিজিটাল সেবা সংক্রান্ত পরিসংখ্যান প্রকাশ করেছেন, যা স্বাধীন সংস্থাও যাচাই করেছে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "BNP",
+      "speaker_role": "unknown",
+      "country": "BD",
+      "source_credibility": 0.82,
+      "domain_age": 9
+    }
+  },
+  {
+    "text": "बिजली संकट पर शोध के नतीजे एक समीक्षित जर्नल में प्रकाशित हुए हैं।",
+    "label": 0,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "journalist",
+      "country": "BD",
+      "source_credibility": 0.76,
+      "domain_age": 16
+    }
+  },
+  {
+    "text": "ব্রেকিং: অবিশ্বাস্য! বিদ্যুৎ সংকট নিয়ে এই উপায়ে এক সপ্তাহেই সব সমস্যা শেষ, ডাক্তাররা চান না আপনি জানুন।",
+    "label": 1,
+    "metadata": {
+      "political_party": "Awami League",
+      "speaker_role": "politician",
+      "country": "BD",
+      "source_credibility": 0.24,
+      "domain_age": 8
+    }
+  },
+  {
+    "text": "জরুরি: বন্যা পরিস্থিতি নিয়ে সংসদীয় কমিটি বৈঠক করেছে এবং সুপারিশসহ প্রতিবেদন জমা দিয়েছে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "politician",
+      "country": "BD",
+      "source_credibility": 0.29,
+      "domain_age": 14
+    }
+  },
+  {
+    "text": "डॉक्टर नहीं चाहते कि आप जानें: चुनाव का यह उपाय एक हफ्ते में सब ठीक कर देगा।",
+    "label": 1,
+    "metadata": {
+      "political_party": "Congress",
+      "speaker_role": "official",
+      "country": "IN",
+      "source_credibility": 0.2,
+      "domain_age": 7
+    }
+  },
+  {
+    "text": "স্বাস্থ্যসেবা নিয়ে গবেষণার ফল একটি পিয়ার-রিভিউড জার্নালে প্রকাশিত হয়েছে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "Jatiya Party",
+      "speaker_role": "citizen",
+      "country": "BD",
+      "source_credibility": 0.42,
+      "domain_age": 14
+    }
+  },
+  {
+    "text": "ट्रैफिक सुधार पर संसदीय समिति ने बैठक की और सिफारिशों के साथ रिपोर्ट सौंपी।",
+    "label": 0,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "politician",
+      "country": "IN",
+      "source_credibility": 0.77,
+      "domain_age": 18
+    }
+  },
+  {
+    "text": "बिजली संकट पर शोध के नतीजे एक समीक्षित जर्नल में प्रकाशित हुए हैं।",
+    "label": 0,
+    "metadata": {
+      "political_party": "Congress",
+      "speaker_role": "journalist",
+      "country": "IN",
+      "source_credibility": 0.5,
+      "domain_age": 4
+    }
+  },
+  {
+    "text": "ডিজিটাল সেবা বিষয়ে সরকারি বিজ্ঞপ্তিতে বলা হয়েছে, নতুন নিয়ম আগামী মাস থেকে কার্যকর হবে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "Awami League",
+      "speaker_role": "politician",
+      "country": "BD",
+      "source_credibility": 0.94,
+      "domain_age": 14
+    }
+  },
+  {
+    "text": "সংবাদ সম্মেলনে মন্ত্রী ডিজিটাল সেবা সংক্রান্ত পরিসংখ্যান প্রকাশ করেছেন, যা স্বাধীন সংস্থাও যাচাই করেছে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "Jatiya Party",
+      "speaker_role": "unknown",
+      "country": "BD",
+      "source_credibility": 0.52,
+      "domain_age": 11
+    }
+  },
+  {
+    "text": "বিস্ফোরক: শিক্ষা বাজেট নিয়ে যা বলা হচ্ছে সবই মিথ্যা, আসল ঘটনা মিডিয়া দেখাচ্ছে না।",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "unknown",
+      "country": "BD",
+      "source_credibility": 0.71,
+      "domain_age": 7
+    }
+  },
+  {
+    "text": "ईंधन की कीमतें पर शोध के नतीजे एक समीक्षित जर्नल में प्रकाशित हुए हैं।",
+    "label": 0,
+    "metadata": {
+      "political_party": "Congress",
+      "speaker_role": "official",
+      "country": "IN",
+      "source_credibility": 0.69,
+      "domain_age": 2
+    }
+  },
+  {
+    "text": "डिजिटल सेवाएँ के बारे में सरकारी अधिसूचना में कहा गया है कि नए नियम अगले महीने से लागू होंगे।",
+    "label": 0,
+    "metadata": {
+      "political_party": "Congress",
+      "speaker_role": "citizen",
+      "country": "IN",
+      "source_credibility": 0.68,
+      "domain_age": 12
+    }
+  },
+  {
+    "text": "শিক্ষা বাজেট নিয়ে যা বলা হচ্ছে সবই মিথ্যা, আসল ঘটনা মিডিয়া দেখাচ্ছে না।",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "official",
+      "country": "BD",
+      "source_credibility": 0.62,
+      "domain_age": 13
+    }
+  },
+  {
+    "text": "সূত্র জানিয়েছে, বিদ্যুৎ সংকট নিয়ে সরকার সত্য গোপন করছে। সবাইকে শেয়ার করুন!",
+    "label": 1,
+    "metadata": {
+      "political_party": "BNP",
+      "speaker_role": "citizen",
+      "country": "BD",
+      "source_credibility": 0.09,
+      "domain_age": 6
+    }
+  },
+  {
+    "text": "শিক্ষা বাজেট নিয়ে গবেষণার ফল একটি পিয়ার-রিভিউড জার্নালে প্রকাশিত হয়েছে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "BNP",
+      "speaker_role": "politician",
+      "country": "BD",
+      "source_credibility": 0.6,
+      "domain_age": 12
+    }
+  },
+  {
+    "text": "विस्फोटक: सूत्रों के अनुसार बाढ़ की स्थिति पर सरकार सच छिपा रही है। तुरंत सबको शेयर करें!",
+    "label": 1,
+    "metadata": {
+      "political_party": "BJP",
+      "speaker_role": "unknown",
+      "country": "IN",
+      "source_credibility": 0.44,
+      "domain_age": 3
+    }
+  },
+  {
+    "text": "নির্বাচন নিয়ে গবেষণার ফল একটি পিয়ার-রিভিউড জার্নালে প্রকাশিত হয়েছে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "Jatiya Party",
+      "speaker_role": "citizen",
+      "country": "BD",
+      "source_credibility": 0.94,
+      "domain_age": 15
+    }
+  },
+  {
+    "text": "A parliamentary committee met on traffic reforms and submitted a report with recommendations.",
+    "label": 0,
+    "metadata": {
+      "political_party": "Democrat",
+      "speaker_role": "citizen",
+      "country": "US",
+      "source_credibility": 0.72,
+      "domain_age": 7
+    }
+  },
+  {
+    "text": "टीकाकरण अभियान पर संसदीय समिति ने बैठक की और सिफारिशों के साथ रिपोर्ट सौंपी।",
+    "label": 0,
+    "metadata": {
+      "political_party": "Congress",
+      "speaker_role": "journalist",
+      "country": "IN",
+      "source_credibility": 0.38,
+      "domain_age": 10
+    }
+  },
+  {
+    "text": "स्वास्थ्य सेवा के बारे में सरकारी अधिसूचना में कहा गया है कि नए नियम अगले महीने से लागू होंगे।",
+    "label": 0,
+    "metadata": {
+      "political_party": "AAP",
+      "speaker_role": "journalist",
+      "country": "IN",
+      "source_credibility": 0.48,
+      "domain_age": 20
+    }
+  },
+  {
+    "text": "डिजिटल सेवाएँ के बारे में सरकारी अधिसूचना में कहा गया है कि नए नियम अगले महीने से लागू होंगे।",
+    "label": 0,
+    "metadata": {
+      "political_party": "BJP",
+      "speaker_role": "citizen",
+      "country": "IN",
+      "source_credibility": 0.17,
+      "domain_age": 15
+    }
+  },
+  {
+    "text": "Shocking leak: opposition secretly received foreign money over traffic reforms, documents exposed.",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "journalist",
+      "country": "US",
+      "source_credibility": 0.15,
+      "domain_age": 6
+    }
+  },
+  {
+    "text": "ব্রেকিং: বন্যা পরিস্থিতি নিয়ে যা বলা হচ্ছে সবই মিথ্যা, আসল ঘটনা মিডিয়া দেখাচ্ছে না।",
+    "label": 1,
+    "metadata": {
+      "political_party": "BNP",
+      "speaker_role": "journalist",
+      "country": "BD",
+      "source_credibility": 0.38,
+      "domain_age": 5
+    }
+  },
+  {
+    "text": "ডিজিটাল সেবা নিয়ে সংসদীয় কমিটি বৈঠক করেছে এবং সুপারিশসহ প্রতিবেদন জমা দিয়েছে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "BNP",
+      "speaker_role": "official",
+      "country": "BD",
+      "source_credibility": 0.93,
+      "domain_age": 16
+    }
+  },
+  {
+    "text": "EXPLOSIVE: Everything you were told about the power shortage is a lie, and the media will not show you the real story.",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "unknown",
+      "country": "UNK",
+      "source_credibility": 0.35,
+      "domain_age": 5
+    }
+  },
+  {
+    "text": "URGENT: Shocking leak: opposition secretly received foreign money over the election, documents exposed.",
+    "label": 1,
+    "metadata": {
+      "political_party": "Democrat",
+      "speaker_role": "politician",
+      "country": "US",
+      "source_credibility": 0.0,
+      "domain_age": 9
+    }
+  },
+  {
+    "text": "Doctors don't want you to know: this one trick fixes everything about the education budget in a week.",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "citizen",
+      "country": "UNK",
+      "source_credibility": 0.64,
+      "domain_age": 6
+    }
+  },
+  {
+    "text": "ভয়ংকর খবর! চালের বাজার নিয়ে বিরোধী দল গোপনে বিদেশ থেকে টাকা নিয়েছে, প্রমাণ ফাঁস।",
+    "label": 1,
+    "metadata": {
+      "political_party": "Congress",
+      "speaker_role": "citizen",
+      "country": "IN",
+      "source_credibility": 0.2,
+      "domain_age": 8
+    }
+  },
+  {
+    "text": "URGENT: At a press conference the minister released figures on the election, which an independent body also verified.",
+    "label": 0,
+    "metadata": {
+      "political_party": "Awami League",
+      "speaker_role": "journalist",
+      "country": "BD",
+      "source_credibility": 0.58,
+      "domain_age": 9
+    }
+  },
+  {
+    "text": "An official notice on the education budget states that the new rules take effect next month.",
+    "label": 0,
+    "metadata": {
+      "political_party": "Democrat",
+      "speaker_role": "citizen",
+      "country": "US",
+      "source_credibility": 0.35,
+      "domain_age": 16
+    }
+  },
+  {
+    "text": "At a press conference the minister released figures on public healthcare, which an independent body also verified.",
+    "label": 0,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "unknown",
+      "country": "UNK",
+      "source_credibility": 0.47,
+      "domain_age": 3
+    }
+  },
+  {
+    "text": "সূত্র জানিয়েছে, জ্বালানির দাম নিয়ে সরকার সত্য গোপন করছে। সবাইকে শেয়ার করুন!",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "unknown",
+      "country": "BD",
+      "source_credibility": 0.31,
+      "domain_age": 4
+    }
+  },
+  {
+    "text": "Everything you were told about digital services is a lie, and the media will not show you the real story.",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "citizen",
+      "country": "IN",
+      "source_credibility": 0.44,
+      "domain_age": 8
+    }
+  },
+  {
+    "text": "At a press conference the minister released figures on the vaccination drive, which an independent body also verified.",
+    "label": 0,
+    "metadata": {
+      "political_party": "Jatiya Party",
+      "speaker_role": "journalist",
+      "country": "BD",
+      "source_credibility": 0.51,
+      "domain_age": 10
+    }
+  },
+  {
+    "text": "सूत्रों के अनुसार ईंधन की कीमतें पर सरकार सच छिपा रही है। तुरंत सबको शेयर करें!",
+    "label": 1,
+    "metadata": {
+      "political_party": "BJP",
+      "speaker_role": "politician",
+      "country": "IN",
+      "source_credibility": 0.01,
+      "domain_age": 7
+    }
+  },
+  {
+    "text": "जरूरी: डॉक्टर नहीं चाहते कि आप जानें: अनाज का बाज़ार का यह उपाय एक हफ्ते में सब ठीक कर देगा।",
+    "label": 1,
+    "metadata": {
+      "political_party": "BJP",
+      "speaker_role": "citizen",
+      "country": "IN",
+      "source_credibility": 0.48,
+      "domain_age": 5
+    }
+  },
+  {
+    "text": "Doctors don't want you to know: this one trick fixes everything about digital services in a week.",
+    "label": 1,
+    "metadata": {
+      "political_party": "Awami League",
+      "speaker_role": "official",
+      "country": "BD",
+      "source_credibility": 0.0,
+      "domain_age": 6
+    }
+  },
+  {
+    "text": "অবিশ্বাস্য! স্বাস্থ্যসেবা নিয়ে এই উপায়ে এক সপ্তাহেই সব সমস্যা শেষ, ডাক্তাররা চান না আপনি জানুন।",
+    "label": 1,
+    "metadata": {
+      "political_party": "BNP",
+      "speaker_role": "citizen",
+      "country": "BD",
+      "source_credibility": 0.51,
+      "domain_age": 1
+    }
+  },
+  {
+    "text": "URGENT: An official notice on the power shortage states that the new rules take effect next month.",
+    "label": 0,
+    "metadata": {
+      "political_party": "BJP",
+      "speaker_role": "unknown",
+      "country": "IN",
+      "source_credibility": 0.27,
+      "domain_age": 7
+    }
+  },
+  {
+    "text": "জরুরি: ভয়ংকর খবর! টিকা কর্মসূচি নিয়ে বিরোধী দল গোপনে বিদেশ থেকে টাকা নিয়েছে, প্রমাণ ফাঁস।",
+    "label": 1,
+    "metadata": {
+      "political_party": "Jatiya Party",
+      "speaker_role": "unknown",
+      "country": "BD",
+      "source_credibility": 0.42,
+      "domain_age": 3
+    }
+  },
+  {
+    "text": "ব্রেকিং: সূত্র জানিয়েছে, টিকা কর্মসূচি নিয়ে সরকার সত্য গোপন করছে। সবাইকে শেয়ার করুন!",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "journalist",
+      "country": "BD",
+      "source_credibility": 0.48,
+      "domain_age": 9
+    }
+  },
+  {
+    "text": "EXPLOSIVE: Sources say the government is hiding the truth about fuel prices. Share before it gets deleted!",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "journalist",
+      "country": "UNK",
+      "source_credibility": 0.75,
+      "domain_age": 7
+    }
+  },
+  {
+    "text": "অবিশ্বাস্য! যানজট নিরসন নিয়ে এই উপায়ে এক সপ্তাহেই সব সমস্যা শেষ, ডাক্তাররা চান না আপনি জানুন।",
+    "label": 1,
+    "metadata": {
+      "political_party": "Awami League",
+      "speaker_role": "politician",
+      "country": "BD",
+      "source_credibility": 0.08,
+      "domain_age": 12
+    }
+  },
+  {
+    "text": "নির্বাচন নিয়ে সংসদীয় কমিটি বৈঠক করেছে এবং সুপারিশসহ প্রতিবেদন জমা দিয়েছে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "Jatiya Party",
+      "speaker_role": "politician",
+      "country": "BD",
+      "source_credibility": 0.69,
+      "domain_age": 8
+    }
+  },
+  {
+    "text": "সূত্র জানিয়েছে, ডিজিটাল সেবা নিয়ে সরকার সত্য গোপন করছে। সবাইকে শেয়ার করুন!",
+    "label": 1,
+    "metadata": {
+      "political_party": "Jatiya Party",
+      "speaker_role": "citizen",
+      "country": "BD",
+      "source_credibility": 0.34,
+      "domain_age": 8
+    }
+  },
+  {
+    "text": "बिजली संकट पर संसदीय समिति ने बैठक की और सिफारिशों के साथ रिपोर्ट सौंपी।",
+    "label": 0,
+    "metadata": {
+      "political_party": "Congress",
+      "speaker_role": "unknown",
+      "country": "IN",
+      "source_credibility": 0.86,
+      "domain_age": 1
+    }
+  },
+  {
+    "text": "জরুরি: টিকা কর্মসূচি নিয়ে যা বলা হচ্ছে সবই মিথ্যা, আসল ঘটনা মিডিয়া দেখাচ্ছে না।",
+    "label": 1,
+    "metadata": {
+      "political_party": "Awami League",
+      "speaker_role": "journalist",
+      "country": "BD",
+      "source_credibility": 0.4,
+      "domain_age": 6
+    }
+  },
+  {
+    "text": "A parliamentary committee met on public healthcare and submitted a report with recommendations.",
+    "label": 0,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "journalist",
+      "country": "UNK",
+      "source_credibility": 0.93,
+      "domain_age": 4
+    }
+  },
+  {
+    "text": "Sources say the government is hiding the truth about flood relief. Share before it gets deleted!",
+    "label": 1,
+    "metadata": {
+      "political_party": "Congress",
+      "speaker_role": "journalist",
+      "country": "IN",
+      "source_credibility": 0.37,
+      "domain_age": 3
+    }
+  },
+  {
+    "text": "A parliamentary committee met on the election and submitted a report with recommendations.",
+    "label": 0,
+    "metadata": {
+      "political_party": "Republican",
+      "speaker_role": "journalist",
+      "country": "US",
+      "source_credibility": 0.04,
+      "domain_age": 8
+    }
+  },
+  {
+    "text": "ব্রেকিং: অবিশ্বাস্য! নির্বাচন নিয়ে এই উপায়ে এক সপ্তাহেই সব সমস্যা শেষ, ডাক্তাররা চান না আপনি জানুন।",
+    "label": 1,
+    "metadata": {
+      "political_party": "Awami League",
+      "speaker_role": "citizen",
+      "country": "BD",
+      "source_credibility": 0.5,
+      "domain_age": 18
+    }
+  },
+  {
+    "text": "सूत्रों के अनुसार स्वास्थ्य सेवा पर सरकार सच छिपा रही है। तुरंत सबको शेयर करें!",
+    "label": 1,
+    "metadata": {
+      "political_party": "Congress",
+      "speaker_role": "journalist",
+      "country": "IN",
+      "source_credibility": 0.39,
+      "domain_age": 2
+    }
+  },
+  {
+    "text": "BREAKING: Everything you were told about the education budget is a lie, and the media will not show you the real story.",
+    "label": 1,
+    "metadata": {
+      "political_party": "Jatiya Party",
+      "speaker_role": "official",
+      "country": "BD",
+      "source_credibility": 0.78,
+      "domain_age": 5
+    }
+  },
+  {
+    "text": "A parliamentary committee met on public healthcare and submitted a report with recommendations.",
+    "label": 0,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "journalist",
+      "country": "UNK",
+      "source_credibility": 0.76,
+      "domain_age": 5
+    }
+  },
+  {
+    "text": "জরুরি: ভয়ংকর খবর! নির্বাচন নিয়ে বিরোধী দল গোপনে বিদেশ থেকে টাকা নিয়েছে, প্রমাণ ফাঁস।",
+    "label": 1,
+    "metadata": {
+      "political_party": "Awami League",
+      "speaker_role": "unknown",
+      "country": "BD",
+      "source_credibility": 0.26,
+      "domain_age": 5
+    }
+  },
+  {
+    "text": "सूत्रों के अनुसार अनाज का बाज़ार पर सरकार सच छिपा रही है। तुरंत सबको शेयर करें!",
+    "label": 1,
+    "metadata": {
+      "political_party": "Congress",
+      "speaker_role": "official",
+      "country": "IN",
+      "source_credibility": 0.45,
+      "domain_age": 2
+    }
+  },
+  {
+    "text": "ट्रैफिक सुधार पर शोध के नतीजे एक समीक्षित जर्नल में प्रकाशित हुए हैं।",
+    "label": 0,
+    "metadata": {
+      "political_party": "Congress",
+      "speaker_role": "unknown",
+      "country": "IN",
+      "source_credibility": 0.41,
+      "domain_age": 6
+    }
+  },
+  {
+    "text": "বন্যা পরিস্থিতি নিয়ে যা বলা হচ্ছে সবই মিথ্যা, আসল ঘটনা মিডিয়া দেখাচ্ছে না।",
+    "label": 1,
+    "metadata": {
+      "political_party": "BNP",
+      "speaker_role": "politician",
+      "country": "BD",
+      "source_credibility": 0.48,
+      "domain_age": 6
+    }
+  },
+  {
+    "text": "ব্রেকিং: যানজট নিরসন নিয়ে যা বলা হচ্ছে সবই মিথ্যা, আসল ঘটনা মিডিয়া দেখাচ্ছে না।",
+    "label": 1,
+    "metadata": {
+      "political_party": "Awami League",
+      "speaker_role": "citizen",
+      "country": "BD",
+      "source_credibility": 0.51,
+      "domain_age": 19
+    }
+  },
+  {
+    "text": "वायरल दावा: चुनाव को लेकर विपक्ष को विदेश से गुप्त फंडिंग मिली, सबूत लीक।",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "journalist",
+      "country": "IN",
+      "source_credibility": 0.36,
+      "domain_age": 1
+    }
+  },
+  {
+    "text": "EXPLOSIVE: Doctors don't want you to know: this one trick fixes everything about the power shortage in a week.",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "unknown",
+      "country": "US",
+      "source_credibility": 0.42,
+      "domain_age": 11
+    }
+  },
+  {
+    "text": "An official notice on the election states that the new rules take effect next month.",
+    "label": 0,
+    "metadata": {
+      "political_party": "BJP",
+      "speaker_role": "journalist",
+      "country": "IN",
+      "source_credibility": 0.86,
+      "domain_age": 16
+    }
+  },
+  {
+    "text": "বিদ্যুৎ সংকট নিয়ে যা বলা হচ্ছে সবই মিথ্যা, আসল ঘটনা মিডিয়া দেখাচ্ছে না।",
+    "label": 1,
+    "metadata": {
+      "political_party": "BNP",
+      "speaker_role": "official",
+      "country": "BD",
+      "source_credibility": 0.12,
+      "domain_age": 6
+    }
+  },
+  {
+    "text": "বিস্ফোরক: ভয়ংকর খবর! স্বাস্থ্যসেবা নিয়ে বিরোধী দল গোপনে বিদেশ থেকে টাকা নিয়েছে, প্রমাণ ফাঁস।",
+    "label": 1,
+    "metadata": {
+      "political_party": "BNP",
+      "speaker_role": "politician",
+      "country": "BD",
+      "source_credibility": 0.65,
+      "domain_age": 7
+    }
+  },
+  {
+    "text": "URGENT: Sources say the government is hiding the truth about public healthcare. Share before it gets deleted!",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "official",
+      "country": "US",
+      "source_credibility": 0.18,
+      "domain_age": 5
+    }
+  },
+  {
+    "text": "विस्फोटक: वायरल दावा: शिक्षा बजट को लेकर विपक्ष को विदेश से गुप्त फंडिंग मिली, सबूत लीक।",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "politician",
+      "country": "IN",
+      "source_credibility": 0.0,
+      "domain_age": 3
+    }
+  },
+  {
+    "text": "BREAKING: Shocking leak: opposition secretly received foreign money over digital services, documents exposed.",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "politician",
+      "country": "UNK",
+      "source_credibility": 0.15,
+      "domain_age": 6
+    }
+  },
+  {
+    "text": "জ্বালানির দাম বিষয়ে সরকারি বিজ্ঞপ্তিতে বলা হয়েছে, নতুন নিয়ম আগামী মাস থেকে কার্যকর হবে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "Awami League",
+      "speaker_role": "journalist",
+      "country": "BD",
+      "source_credibility": 0.4,
+      "domain_age": 20
+    }
+  },
+  {
+    "text": "জরুরি: সূত্র জানিয়েছে, জ্বালানির দাম নিয়ে সরকার সত্য গোপন করছে। সবাইকে শেয়ার করুন!",
+    "label": 1,
+    "metadata": {
+      "political_party": "BNP",
+      "speaker_role": "official",
+      "country": "BD",
+      "source_credibility": 0.18,
+      "domain_age": 19
+    }
+  },
+  {
+    "text": "डिजिटल सेवाएँ पर शोध के नतीजे एक समीक्षित जर्नल में प्रकाशित हुए हैं।",
+    "label": 0,
+    "metadata": {
+      "political_party": "Congress",
+      "speaker_role": "journalist",
+      "country": "IN",
+      "source_credibility": 0.83,
+      "domain_age": 10
+    }
+  },
+  {
+    "text": "BREAKING: Shocking leak: opposition secretly received foreign money over the power shortage, documents exposed.",
+    "label": 1,
+    "metadata": {
+      "political_party": "AAP",
+      "speaker_role": "journalist",
+      "country": "IN",
+      "source_credibility": 0.73,
+      "domain_age": 7
+    }
+  },
+  {
+    "text": "ব্রেকিং: অবিশ্বাস্য! ডিজিটাল সেবা নিয়ে এই উপায়ে এক সপ্তাহেই সব সমস্যা শেষ, ডাক্তাররা চান না আপনি জানুন।",
+    "label": 1,
+    "metadata": {
+      "political_party": "Jatiya Party",
+      "speaker_role": "journalist",
+      "country": "BD",
+      "source_credibility": 0.25,
+      "domain_age": 12
+    }
+  },
+  {
+    "text": "বিস্ফোরক: অবিশ্বাস্য! শিক্ষা বাজেট নিয়ে এই উপায়ে এক সপ্তাহেই সব সমস্যা শেষ, ডাক্তাররা চান না আপনি জানুন।",
+    "label": 1,
+    "metadata": {
+      "political_party": "Awami League",
+      "speaker_role": "politician",
+      "country": "BD",
+      "source_credibility": 0.41,
+      "domain_age": 5
+    }
+  },
+  {
+    "text": "ईंधन की कीमतें के बारे में सरकारी अधिसूचना में कहा गया है कि नए नियम अगले महीने से लागू होंगे।",
+    "label": 0,
+    "metadata": {
+      "political_party": "BJP",
+      "speaker_role": "politician",
+      "country": "IN",
+      "source_credibility": 0.39,
+      "domain_age": 13
+    }
+  },
+  {
+    "text": "URGENT: Everything you were told about traffic reforms is a lie, and the media will not show you the real story.",
+    "label": 1,
+    "metadata": {
+      "political_party": "Democrat",
+      "speaker_role": "unknown",
+      "country": "US",
+      "source_credibility": 0.35,
+      "domain_age": 7
+    }
+  },
+  {
+    "text": "सूत्रों के अनुसार चुनाव पर सरकार सच छिपा रही है। तुरंत सबको शेयर करें!",
+    "label": 1,
+    "metadata": {
+      "political_party": "BJP",
+      "speaker_role": "unknown",
+      "country": "IN",
+      "source_credibility": 0.28,
+      "domain_age": 19
+    }
+  },
+  {
+    "text": "वायरल दावा: स्वास्थ्य सेवा को लेकर विपक्ष को विदेश से गुप्त फंडिंग मिली, सबूत लीक।",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "journalist",
+      "country": "IN",
+      "source_credibility": 0.36,
+      "domain_age": 6
+    }
+  },
+  {
+    "text": "সংবাদ সম্মেলনে মন্ত্রী ডিজিটাল সেবা সংক্রান্ত পরিসংখ্যান প্রকাশ করেছেন, যা স্বাধীন সংস্থাও যাচাই করেছে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "Awami League",
+      "speaker_role": "unknown",
+      "country": "BD",
+      "source_credibility": 0.42,
+      "domain_age": 9
+    }
+  },
+  {
+    "text": "সংবাদ সম্মেলনে মন্ত্রী বন্যা পরিস্থিতি সংক্রান্ত পরিসংখ্যান প্রকাশ করেছেন, যা স্বাধীন সংস্থাও যাচাই করেছে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "Congress",
+      "speaker_role": "journalist",
+      "country": "IN",
+      "source_credibility": 0.86,
+      "domain_age": 2
+    }
+  },
+  {
+    "text": "ব্রেকিং: সূত্র জানিয়েছে, টিকা কর্মসূচি নিয়ে সরকার সত্য গোপন করছে। সবাইকে শেয়ার করুন!",
+    "label": 1,
+    "metadata": {
+      "political_party": "Awami League",
+      "speaker_role": "journalist",
+      "country": "BD",
+      "source_credibility": 0.62,
+      "domain_age": 5
+    }
+  },
+  {
+    "text": "Shocking leak: opposition secretly received foreign money over the food market, documents exposed.",
+    "label": 1,
+    "metadata": {
+      "political_party": "BNP",
+      "speaker_role": "politician",
+      "country": "BD",
+      "source_credibility": 0.66,
+      "domain_age": 8
+    }
+  },
+  {
+    "text": "टीकाकरण अभियान पर संसदीय समिति ने बैठक की और सिफारिशों के साथ रिपोर्ट सौंपी।",
+    "label": 0,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "citizen",
+      "country": "IN",
+      "source_credibility": 0.56,
+      "domain_age": 14
+    }
+  },
+  {
+    "text": "डिजिटल सेवाएँ पर संसदीय समिति ने बैठक की और सिफारिशों के साथ रिपोर्ट सौंपी।",
+    "label": 0,
+    "metadata": {
+      "political_party": "Congress",
+      "speaker_role": "journalist",
+      "country": "IN",
+      "source_credibility": 0.51,
+      "domain_age": 6
+    }
+  },
+  {
+    "text": "A parliamentary committee met on the food market and submitted a report with recommendations.",
+    "label": 0,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "journalist",
+      "country": "BD",
+      "source_credibility": 0.58,
+      "domain_age": 18
+    }
+  },
+  {
+    "text": "प्रेस कॉन्फ्रेंस में मंत्री ने अनाज का बाज़ार से जुड़े आंकड़े जारी किए, जिन्हें स्वतंत्र संस्था ने भी सत्यापित किया।",
+    "label": 0,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "journalist",
+      "country": "IN",
+      "source_credibility": 0.55,
+      "domain_age": 14
+    }
+  },
+  {
+    "text": "स्वास्थ्य सेवा पर संसदीय समिति ने बैठक की और सिफारिशों के साथ रिपोर्ट सौंपी।",
+    "label": 0,
+    "metadata": {
+      "political_party": "Congress",
+      "speaker_role": "official",
+      "country": "IN",
+      "source_credibility": 0.57,
+      "domain_age": 13
+    }
+  },
+  {
+    "text": "जरूरी: सूत्रों के अनुसार अनाज का बाज़ार पर सरकार सच छिपा रही है। तुरंत सबको शेयर करें!",
+    "label": 1,
+    "metadata": {
+      "political_party": "AAP",
+      "speaker_role": "unknown",
+      "country": "IN",
+      "source_credibility": 0.77,
+      "domain_age": 14
+    }
+  },
+  {
+    "text": "জ্বালানির দাম নিয়ে যা বলা হচ্ছে সবই মিথ্যা, আসল ঘটনা মিডিয়া দেখাচ্ছে না।",
+    "label": 1,
+    "metadata": {
+      "political_party": "Jatiya Party",
+      "speaker_role": "politician",
+      "country": "BD",
+      "source_credibility": 0.11,
+      "domain_age": 8
+    }
+  },
+  {
+    "text": "অবিশ্বাস্য! ডিজিটাল সেবা নিয়ে এই উপায়ে এক সপ্তাহেই সব সমস্যা শেষ, ডাক্তাররা চান না আপনি জানুন।",
+    "label": 1,
+    "metadata": {
+      "political_party": "BNP",
+      "speaker_role": "citizen",
+      "country": "BD",
+      "source_credibility": 0.48,
+      "domain_age": 5
+    }
+  },
+  {
+    "text": "EXPLOSIVE: Doctors don't want you to know: this one trick fixes everything about fuel prices in a week.",
+    "label": 1,
+    "metadata": {
+      "political_party": "BNP",
+      "speaker_role": "politician",
+      "country": "BD",
+      "source_credibility": 0.54,
+      "domain_age": 2
+    }
+  },
+  {
+    "text": "অবিশ্বাস্য! টিকা কর্মসূচি নিয়ে এই উপায়ে এক সপ্তাহেই সব সমস্যা শেষ, ডাক্তাররা চান না আপনি জানুন।",
+    "label": 1,
+    "metadata": {
+      "political_party": "Jatiya Party",
+      "speaker_role": "official",
+      "country": "BD",
+      "source_credibility": 0.1,
+      "domain_age": 9
+    }
+  },
+  {
+    "text": "ईंधन की कीमतें पर संसदीय समिति ने बैठक की और सिफारिशों के साथ रिपोर्ट सौंपी।",
+    "label": 0,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "politician",
+      "country": "IN",
+      "source_credibility": 0.57,
+      "domain_age": 5
+    }
+  },
+  {
+    "text": "प्रेस कॉन्फ्रेंस में मंत्री ने स्वास्थ्य सेवा से जुड़े आंकड़े जारी किए, जिन्हें स्वतंत्र संस्था ने भी सत्यापित किया।",
+    "label": 0,
+    "metadata": {
+      "political_party": "AAP",
+      "speaker_role": "unknown",
+      "country": "IN",
+      "source_credibility": 0.67,
+      "domain_age": 16
+    }
+  },
+  {
+    "text": "चुनाव के बारे में सरकारी अधिसूचना में कहा गया है कि नए नियम अगले महीने से लागू होंगे।",
+    "label": 0,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "unknown",
+      "country": "IN",
+      "source_credibility": 0.92,
+      "domain_age": 6
+    }
+  },
+  {
+    "text": "At a press conference the minister released figures on the vaccination drive, which an independent body also verified.",
+    "label": 0,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "politician",
+      "country": "UNK",
+      "source_credibility": 0.28,
+      "domain_age": 13
+    }
+  },
+  {
+    "text": "प्रेस कॉन्फ्रेंस में मंत्री ने शिक्षा बजट से जुड़े आंकड़े जारी किए, जिन्हें स्वतंत्र संस्था ने भी सत्यापित किया।",
+    "label": 0,
+    "metadata": {
+      "political_party": "AAP",
+      "speaker_role": "citizen",
+      "country": "IN",
+      "source_credibility": 0.98,
+      "domain_age": 8
+    }
+  },
+  {
+    "text": "जरूरी: वायरल दावा: ईंधन की कीमतें को लेकर विपक्ष को विदेश से गुप्त फंडिंग मिली, सबूत लीक।",
+    "label": 1,
+    "metadata": {
+      "political_party": "BJP",
+      "speaker_role": "citizen",
+      "country": "IN",
+      "source_credibility": 0.55,
+      "domain_age": 7
+    }
+  },
+  {
+    "text": "জ্বালানির দাম নিয়ে যা বলা হচ্ছে সবই মিথ্যা, আসল ঘটনা মিডিয়া দেখাচ্ছে না।",
+    "label": 1,
+    "metadata": {
+      "political_party": "Jatiya Party",
+      "speaker_role": "journalist",
+      "country": "BD",
+      "source_credibility": 0.64,
+      "domain_age": 3
+    }
+  },
+  {
+    "text": "জ্বালানির দাম নিয়ে গবেষণার ফল একটি পিয়ার-রিভিউড জার্নালে প্রকাশিত হয়েছে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "Awami League",
+      "speaker_role": "official",
+      "country": "BD",
+      "source_credibility": 0.78,
+      "domain_age": 14
+    }
+  },
+  {
+    "text": "विस्फोटक: बाढ़ की स्थिति पर संसदीय समिति ने बैठक की और सिफारिशों के साथ रिपोर्ट सौंपी।",
+    "label": 0,
+    "metadata": {
+      "political_party": "AAP",
+      "speaker_role": "citizen",
+      "country": "IN",
+      "source_credibility": 0.61,
+      "domain_age": 4
+    }
+  },
+  {
+    "text": "বিদ্যুৎ সংকট নিয়ে যা বলা হচ্ছে সবই মিথ্যা, আসল ঘটনা মিডিয়া দেখাচ্ছে না।",
+    "label": 1,
+    "metadata": {
+      "political_party": "AAP",
+      "speaker_role": "unknown",
+      "country": "IN",
+      "source_credibility": 0.75,
+      "domain_age": 8
+    }
+  },
+  {
+    "text": "EXPLOSIVE: Sources say the government is hiding the truth about the education budget. Share before it gets deleted!",
+    "label": 1,
+    "metadata": {
+      "political_party": "Jatiya Party",
+      "speaker_role": "politician",
+      "country": "BD",
+      "source_credibility": 0.53,
+      "domain_age": 7
+    }
+  },
+  {
+    "text": "At a press conference the minister released figures on the power shortage, which an independent body also verified.",
+    "label": 0,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "unknown",
+      "country": "UNK",
+      "source_credibility": 0.27,
+      "domain_age": 16
+    }
+  },
+  {
+    "text": "ब्रेकिंग: स्वास्थ्य सेवा के बारे में जो बताया जा रहा है वह सब झूठ है, मीडिया असली सच नहीं दिखा रहा।",
+    "label": 1,
+    "metadata": {
+      "political_party": "Jatiya Party",
+      "speaker_role": "citizen",
+      "country": "BD",
+      "source_credibility": 0.64,
+      "domain_age": 3
+    }
+  },
+  {
+    "text": "विस्फोटक: ट्रैफिक सुधार के बारे में जो बताया जा रहा है वह सब झूठ है, मीडिया असली सच नहीं दिखा रहा।",
+    "label": 1,
+    "metadata": {
+      "political_party": "BNP",
+      "speaker_role": "citizen",
+      "country": "BD",
+      "source_credibility": 0.91,
+      "domain_age": 3
+    }
+  },
+  {
+    "text": "अनाज का बाज़ार पर संसदीय समिति ने बैठक की और सिफारिशों के साथ रिपोर्ट सौंपी।",
+    "label": 0,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "politician",
+      "country": "IN",
+      "source_credibility": 0.54,
+      "domain_age": 4
+    }
+  },
+  {
+    "text": "प्रेस कॉन्फ्रेंस में मंत्री ने स्वास्थ्य सेवा से जुड़े आंकड़े जारी किए, जिन्हें स्वतंत्र संस्था ने भी सत्यापित किया।",
+    "label": 0,
+    "metadata": {
+      "political_party": "Congress",
+      "speaker_role": "politician",
+      "country": "IN",
+      "source_credibility": 0.34,
+      "domain_age": 15
+    }
+  },
+  {
+    "text": "जरूरी: डॉक्टर नहीं चाहते कि आप जानें: शिक्षा बजट का यह उपाय एक हफ्ते में सब ठीक कर देगा।",
+    "label": 1,
+    "metadata": {
+      "political_party": "Congress",
+      "speaker_role": "politician",
+      "country": "IN",
+      "source_credibility": 0.37,
+      "domain_age": 7
+    }
+  },
+  {
+    "text": "Research findings on flood relief have been published in a peer-reviewed journal.",
+    "label": 0,
+    "metadata": {
+      "political_party": "Congress",
+      "speaker_role": "official",
+      "country": "IN",
+      "source_credibility": 0.17,
+      "domain_age": 16
+    }
+  },
+  {
+    "text": "ব্রেকিং: ভয়ংকর খবর! নির্বাচন নিয়ে বিরোধী দল গোপনে বিদেশ থেকে টাকা নিয়েছে, প্রমাণ ফাঁস।",
+    "label": 1,
+    "metadata": {
+      "political_party": "Jatiya Party",
+      "speaker_role": "citizen",
+      "country": "BD",
+      "source_credibility": 0.26,
+      "domain_age": 18
+    }
+  },
+  {
+    "text": "ভয়ংকর খবর! শিক্ষা বাজেট নিয়ে বিরোধী দল গোপনে বিদেশ থেকে টাকা নিয়েছে, প্রমাণ ফাঁস।",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "politician",
+      "country": "BD",
+      "source_credibility": 0.32,
+      "domain_age": 5
+    }
+  },
+  {
+    "text": "বিদ্যুৎ সংকট নিয়ে যা বলা হচ্ছে সবই মিথ্যা, আসল ঘটনা মিডিয়া দেখাচ্ছে না।",
+    "label": 1,
+    "metadata": {
+      "political_party": "Jatiya Party",
+      "speaker_role": "official",
+      "country": "BD",
+      "source_credibility": 0.12,
+      "domain_age": 1
+    }
+  },
+  {
+    "text": "ब्रेकिंग: स्वास्थ्य सेवा के बारे में जो बताया जा रहा है वह सब झूठ है, मीडिया असली सच नहीं दिखा रहा।",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "journalist",
+      "country": "IN",
+      "source_credibility": 0.56,
+      "domain_age": 5
+    }
+  },
+  {
+    "text": "Everything you were told about the vaccination drive is a lie, and the media will not show you the real story.",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "journalist",
+      "country": "UNK",
+      "source_credibility": 0.32,
+      "domain_age": 5
+    }
+  },
+  {
+    "text": "बिजली संकट पर शोध के नतीजे एक समीक्षित जर्नल में प्रकाशित हुए हैं।",
+    "label": 0,
+    "metadata": {
+      "political_party": "Congress",
+      "speaker_role": "politician",
+      "country": "IN",
+      "source_credibility": 0.6,
+      "domain_age": 9
+    }
+  },
+  {
+    "text": "सूत्रों के अनुसार बिजली संकट पर सरकार सच छिपा रही है। तुरंत सबको शेयर करें!",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "journalist",
+      "country": "IN",
+      "source_credibility": 0.22,
+      "domain_age": 5
+    }
+  },
+  {
+    "text": "ब्रेकिंग: सूत्रों के अनुसार ईंधन की कीमतें पर सरकार सच छिपा रही है। तुरंत सबको शेयर करें!",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "citizen",
+      "country": "IN",
+      "source_credibility": 0.16,
+      "domain_age": 7
+    }
+  },
+  {
+    "text": "BREAKING: Doctors don't want you to know: this one trick fixes everything about the vaccination drive in a week.",
+    "label": 1,
+    "metadata": {
+      "political_party": "Congress",
+      "speaker_role": "official",
+      "country": "IN",
+      "source_credibility": 0.66,
+      "domain_age": 7
+    }
+  },
+  {
+    "text": "BREAKING: Sources say the government is hiding the truth about fuel prices. Share before it gets deleted!",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "politician",
+      "country": "BD",
+      "source_credibility": 0.66,
+      "domain_age": 13
+    }
+  },
+  {
+    "text": "Research findings on the food market have been published in a peer-reviewed journal.",
+    "label": 0,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "unknown",
+      "country": "IN",
+      "source_credibility": 0.58,
+      "domain_age": 1
+    }
+  },
+  {
+    "text": "At a press conference the minister released figures on the education budget, which an independent body also verified.",
+    "label": 0,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "politician",
+      "country": "UNK",
+      "source_credibility": 0.48,
+      "domain_age": 4
+    }
+  },
+  {
+    "text": "বন্যা পরিস্থিতি নিয়ে গবেষণার ফল একটি পিয়ার-রিভিউড জার্নালে প্রকাশিত হয়েছে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "BNP",
+      "speaker_role": "journalist",
+      "country": "BD",
+      "source_credibility": 0.68,
+      "domain_age": 3
+    }
+  },
+  {
+    "text": "Doctors don't want you to know: this one trick fixes everything about public healthcare in a week.",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "journalist",
+      "country": "UNK",
+      "source_credibility": 0.43,
+      "domain_age": 8
+    }
+  },
+  {
+    "text": "Doctors don't want you to know: this one trick fixes everything about the food market in a week.",
+    "label": 1,
+    "metadata": {
+      "political_party": "AAP",
+      "speaker_role": "politician",
+      "country": "IN",
+      "source_credibility": 0.08,
+      "domain_age": 1
+    }
+  },
+  {
+    "text": "ব্রেকিং: নির্বাচন নিয়ে যা বলা হচ্ছে সবই মিথ্যা, আসল ঘটনা মিডিয়া দেখাচ্ছে না।",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "citizen",
+      "country": "BD",
+      "source_credibility": 0.02,
+      "domain_age": 3
+    }
+  },
+  {
+    "text": "Doctors don't want you to know: this one trick fixes everything about the vaccination drive in a week.",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "official",
+      "country": "UNK",
+      "source_credibility": 0.48,
+      "domain_age": 14
+    }
+  },
+  {
+    "text": "डॉक्टर नहीं चाहते कि आप जानें: अनाज का बाज़ार का यह उपाय एक हफ्ते में सब ठीक कर देगा।",
+    "label": 1,
+    "metadata": {
+      "political_party": "BJP",
+      "speaker_role": "unknown",
+      "country": "IN",
+      "source_credibility": 0.49,
+      "domain_age": 16
+    }
+  },
+  {
+    "text": "टीकाकरण अभियान पर शोध के नतीजे एक समीक्षित जर्नल में प्रकाशित हुए हैं।",
+    "label": 0,
+    "metadata": {
+      "political_party": "AAP",
+      "speaker_role": "citizen",
+      "country": "IN",
+      "source_credibility": 0.5,
+      "domain_age": 15
+    }
+  },
+  {
+    "text": "বিস্ফোরক: ভয়ংকর খবর! জ্বালানির দাম নিয়ে বিরোধী দল গোপনে বিদেশ থেকে টাকা নিয়েছে, প্রমাণ ফাঁস।",
+    "label": 1,
+    "metadata": {
+      "political_party": "BNP",
+      "speaker_role": "official",
+      "country": "BD",
+      "source_credibility": 0.53,
+      "domain_age": 8
+    }
+  },
+  {
+    "text": "ब्रेकिंग: डॉक्टर नहीं चाहते कि आप जानें: स्वास्थ्य सेवा का यह उपाय एक हफ्ते में सब ठीक कर देगा।",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "journalist",
+      "country": "IN",
+      "source_credibility": 0.3,
+      "domain_age": 20
+    }
+  },
+  {
+    "text": "An official notice on the vaccination drive states that the new rules take effect next month.",
+    "label": 0,
+    "metadata": {
+      "political_party": "Republican",
+      "speaker_role": "unknown",
+      "country": "US",
+      "source_credibility": 0.75,
+      "domain_age": 14
+    }
+  },
+  {
+    "text": "चुनाव के बारे में जो बताया जा रहा है वह सब झूठ है, मीडिया असली सच नहीं दिखा रहा।",
+    "label": 1,
+    "metadata": {
+      "political_party": "BJP",
+      "speaker_role": "official",
+      "country": "IN",
+      "source_credibility": 0.23,
+      "domain_age": 12
+    }
+  },
+  {
+    "text": "अनाज का बाज़ार पर शोध के नतीजे एक समीक्षित जर्नल में प्रकाशित हुए हैं।",
+    "label": 0,
+    "metadata": {
+      "political_party": "AAP",
+      "speaker_role": "unknown",
+      "country": "IN",
+      "source_credibility": 0.74,
+      "domain_age": 9
+    }
+  },
+  {
+    "text": "विस्फोटक: सूत्रों के अनुसार चुनाव पर सरकार सच छिपा रही है। तुरंत सबको शेयर करें!",
+    "label": 1,
+    "metadata": {
+      "political_party": "BJP",
+      "speaker_role": "unknown",
+      "country": "IN",
+      "source_credibility": 0.76,
+      "domain_age": 7
+    }
+  },
+  {
+    "text": "विस्फोटक: डॉक्टर नहीं चाहते कि आप जानें: चुनाव का यह उपाय एक हफ्ते में सब ठीक कर देगा।",
+    "label": 1,
+    "metadata": {
+      "political_party": "AAP",
+      "speaker_role": "politician",
+      "country": "IN",
+      "source_credibility": 0.57,
+      "domain_age": 1
+    }
+  },
+  {
+    "text": "सूत्रों के अनुसार चुनाव पर सरकार सच छिपा रही है। तुरंत सबको शेयर करें!",
+    "label": 1,
+    "metadata": {
+      "political_party": "AAP",
+      "speaker_role": "citizen",
+      "country": "IN",
+      "source_credibility": 0.37,
+      "domain_age": 16
+    }
+  },
+  {
+    "text": "সংবাদ সম্মেলনে মন্ত্রী চালের বাজার সংক্রান্ত পরিসংখ্যান প্রকাশ করেছেন, যা স্বাধীন সংস্থাও যাচাই করেছে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "Jatiya Party",
+      "speaker_role": "politician",
+      "country": "BD",
+      "source_credibility": 0.34,
+      "domain_age": 12
+    }
+  },
+  {
+    "text": "Research findings on the power shortage have been published in a peer-reviewed journal.",
+    "label": 0,
+    "metadata": {
+      "political_party": "AAP",
+      "speaker_role": "official",
+      "country": "IN",
+      "source_credibility": 0.57,
+      "domain_age": 15
+    }
+  },
+  {
+    "text": "স্বাস্থ্যসেবা বিষয়ে সরকারি বিজ্ঞপ্তিতে বলা হয়েছে, নতুন নিয়ম আগামী মাস থেকে কার্যকর হবে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "Jatiya Party",
+      "speaker_role": "citizen",
+      "country": "BD",
+      "source_credibility": 0.45,
+      "domain_age": 5
+    }
+  },
+  {
+    "text": "জরুরি: সূত্র জানিয়েছে, নির্বাচন নিয়ে সরকার সত্য গোপন করছে। সবাইকে শেয়ার করুন!",
+    "label": 1,
+    "metadata": {
+      "political_party": "Jatiya Party",
+      "speaker_role": "citizen",
+      "country": "BD",
+      "source_credibility": 0.37,
+      "domain_age": 8
+    }
+  },
+  {
+    "text": "जरूरी: बाढ़ की स्थिति के बारे में जो बताया जा रहा है वह सब झूठ है, मीडिया असली सच नहीं दिखा रहा।",
+    "label": 1,
+    "metadata": {
+      "political_party": "AAP",
+      "speaker_role": "unknown",
+      "country": "IN",
+      "source_credibility": 0.41,
+      "domain_age": 7
+    }
+  },
+  {
+    "text": "ভয়ংকর খবর! নির্বাচন নিয়ে বিরোধী দল গোপনে বিদেশ থেকে টাকা নিয়েছে, প্রমাণ ফাঁস।",
+    "label": 1,
+    "metadata": {
+      "political_party": "Awami League",
+      "speaker_role": "journalist",
+      "country": "BD",
+      "source_credibility": 0.45,
+      "domain_age": 8
+    }
+  },
+  {
+    "text": "চালের বাজার নিয়ে গবেষণার ফল একটি পিয়ার-রিভিউড জার্নালে প্রকাশিত হয়েছে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "AAP",
+      "speaker_role": "unknown",
+      "country": "IN",
+      "source_credibility": 0.77,
+      "domain_age": 17
+    }
+  },
+  {
+    "text": "प्रेस कॉन्फ्रेंस में मंत्री ने बिजली संकट से जुड़े आंकड़े जारी किए, जिन्हें स्वतंत्र संस्था ने भी सत्यापित किया।",
+    "label": 0,
+    "metadata": {
+      "political_party": "BJP",
+      "speaker_role": "official",
+      "country": "IN",
+      "source_credibility": 0.41,
+      "domain_age": 8
+    }
+  },
+  {
+    "text": "At a press conference the minister released figures on the power shortage, which an independent body also verified.",
+    "label": 0,
+    "metadata": {
+      "political_party": "AAP",
+      "speaker_role": "citizen",
+      "country": "IN",
+      "source_credibility": 0.74,
+      "domain_age": 15
+    }
+  },
+  {
+    "text": "Shocking leak: opposition secretly received foreign money over the food market, documents exposed.",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "citizen",
+      "country": "UNK",
+      "source_credibility": 0.0,
+      "domain_age": 14
+    }
+  },
+  {
+    "text": "জরুরি: সংবাদ সম্মেলনে মন্ত্রী শিক্ষা বাজেট সংক্রান্ত পরিসংখ্যান প্রকাশ করেছেন, যা স্বাধীন সংস্থাও যাচাই করেছে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "Congress",
+      "speaker_role": "unknown",
+      "country": "IN",
+      "source_credibility": 0.59,
+      "domain_age": 8
+    }
+  },
+  {
+    "text": "EXPLOSIVE: Shocking leak: opposition secretly received foreign money over the power shortage, documents exposed.",
+    "label": 1,
+    "metadata": {
+      "political_party": "Congress",
+      "speaker_role": "official",
+      "country": "IN",
+      "source_credibility": 0.24,
+      "domain_age": 15
+    }
+  },
+  {
+    "text": "EXPLOSIVE: Sources say the government is hiding the truth about flood relief. Share before it gets deleted!",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "politician",
+      "country": "US",
+      "source_credibility": 0.36,
+      "domain_age": 8
+    }
+  },
+  {
+    "text": "স্বাস্থ্যসেবা বিষয়ে সরকারি বিজ্ঞপ্তিতে বলা হয়েছে, নতুন নিয়ম আগামী মাস থেকে কার্যকর হবে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "Jatiya Party",
+      "speaker_role": "journalist",
+      "country": "BD",
+      "source_credibility": 0.54,
+      "domain_age": 17
+    }
+  },
+  {
+    "text": "An official notice on the education budget states that the new rules take effect next month.",
+    "label": 0,
+    "metadata": {
+      "political_party": "Congress",
+      "speaker_role": "citizen",
+      "country": "IN",
+      "source_credibility": 0.52,
+      "domain_age": 10
+    }
+  },
+  {
+    "text": "URGENT: Sources say the government is hiding the truth about the food market. Share before it gets deleted!",
+    "label": 1,
+    "metadata": {
+      "political_party": "Republican",
+      "speaker_role": "politician",
+      "country": "US",
+      "source_credibility": 0.24,
+      "domain_age": 1
+    }
+  },
+  {
+    "text": "ट्रैफिक सुधार के बारे में सरकारी अधिसूचना में कहा गया है कि नए नियम अगले महीने से लागू होंगे।",
+    "label": 0,
+    "metadata": {
+      "political_party": "BJP",
+      "speaker_role": "unknown",
+      "country": "IN",
+      "source_credibility": 0.73,
+      "domain_age": 10
+    }
+  },
+  {
+    "text": "EXPLOSIVE: Sources say the government is hiding the truth about the education budget. Share before it gets deleted!",
+    "label": 1,
+    "metadata": {
+      "political_party": "Democrat",
+      "speaker_role": "journalist",
+      "country": "US",
+      "source_credibility": 0.5,
+      "domain_age": 7
+    }
+  },
+  {
+    "text": "BREAKING: Doctors don't want you to know: this one trick fixes everything about traffic reforms in a week.",
+    "label": 1,
+    "metadata": {
+      "political_party": "Democrat",
+      "speaker_role": "official",
+      "country": "US",
+      "source_credibility": 0.5,
+      "domain_age": 17
+    }
+  },
+  {
+    "text": "At a press conference the minister released figures on fuel prices, which an independent body also verified.",
+    "label": 0,
+    "metadata": {
+      "political_party": "BJP",
+      "speaker_role": "official",
+      "country": "IN",
+      "source_credibility": 0.58,
+      "domain_age": 10
+    }
+  },
+  {
+    "text": "চালের বাজার নিয়ে যা বলা হচ্ছে সবই মিথ্যা, আসল ঘটনা মিডিয়া দেখাচ্ছে না।",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "journalist",
+      "country": "BD",
+      "source_credibility": 0.04,
+      "domain_age": 11
+    }
+  },
+  {
+    "text": "वायरल दावा: टीकाकरण अभियान को लेकर विपक्ष को विदेश से गुप्त फंडिंग मिली, सबूत लीक।",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "journalist",
+      "country": "IN",
+      "source_credibility": 0.39,
+      "domain_age": 5
+    }
+  },
+  {
+    "text": "সংবাদ সম্মেলনে মন্ত্রী ডিজিটাল সেবা সংক্রান্ত পরিসংখ্যান প্রকাশ করেছেন, যা স্বাধীন সংস্থাও যাচাই করেছে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "unknown",
+      "country": "BD",
+      "source_credibility": 1.0,
+      "domain_age": 18
+    }
+  },
+  {
+    "text": "At a press conference the minister released figures on fuel prices, which an independent body also verified.",
+    "label": 0,
+    "metadata": {
+      "political_party": "BNP",
+      "speaker_role": "official",
+      "country": "BD",
+      "source_credibility": 0.49,
+      "domain_age": 5
+    }
+  },
+  {
+    "text": "अनाज का बाज़ार पर संसदीय समिति ने बैठक की और सिफारिशों के साथ रिपोर्ट सौंपी।",
+    "label": 0,
+    "metadata": {
+      "political_party": "Congress",
+      "speaker_role": "politician",
+      "country": "IN",
+      "source_credibility": 0.53,
+      "domain_age": 7
+    }
+  },
+  {
+    "text": "ব্রেকিং: অবিশ্বাস্য! শিক্ষা বাজেট নিয়ে এই উপায়ে এক সপ্তাহেই সব সমস্যা শেষ, ডাক্তাররা চান না আপনি জানুন।",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "journalist",
+      "country": "BD",
+      "source_credibility": 0.38,
+      "domain_age": 5
+    }
+  },
+  {
+    "text": "Sources say the government is hiding the truth about traffic reforms. Share before it gets deleted!",
+    "label": 1,
+    "metadata": {
+      "political_party": "Democrat",
+      "speaker_role": "journalist",
+      "country": "US",
+      "source_credibility": 0.46,
+      "domain_age": 7
+    }
+  },
+  {
+    "text": "विस्फोटक: डिजिटल सेवाएँ के बारे में जो बताया जा रहा है वह सब झूठ है, मीडिया असली सच नहीं दिखा रहा।",
+    "label": 1,
+    "metadata": {
+      "political_party": "Jatiya Party",
+      "speaker_role": "official",
+      "country": "BD",
+      "source_credibility": 0.39,
+      "domain_age": 1
+    }
+  },
+  {
+    "text": "ব্রেকিং: সূত্র জানিয়েছে, জ্বালানির দাম নিয়ে সরকার সত্য গোপন করছে। সবাইকে শেয়ার করুন!",
+    "label": 1,
+    "metadata": {
+      "political_party": "BNP",
+      "speaker_role": "journalist",
+      "country": "BD",
+      "source_credibility": 0.6,
+      "domain_age": 7
+    }
+  },
+  {
+    "text": "বিদ্যুৎ সংকট নিয়ে সংসদীয় কমিটি বৈঠক করেছে এবং সুপারিশসহ প্রতিবেদন জমা দিয়েছে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "politician",
+      "country": "BD",
+      "source_credibility": 0.45,
+      "domain_age": 20
+    }
+  },
+  {
+    "text": "बाढ़ की स्थिति पर संसदीय समिति ने बैठक की और सिफारिशों के साथ रिपोर्ट सौंपी।",
+    "label": 0,
+    "metadata": {
+      "political_party": "AAP",
+      "speaker_role": "journalist",
+      "country": "IN",
+      "source_credibility": 1.0,
+      "domain_age": 10
+    }
+  },
+  {
+    "text": "সংবাদ সম্মেলনে মন্ত্রী বিদ্যুৎ সংকট সংক্রান্ত পরিসংখ্যান প্রকাশ করেছেন, যা স্বাধীন সংস্থাও যাচাই করেছে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "Jatiya Party",
+      "speaker_role": "politician",
+      "country": "BD",
+      "source_credibility": 0.76,
+      "domain_age": 3
+    }
+  },
+  {
+    "text": "ডিজিটাল সেবা নিয়ে যা বলা হচ্ছে সবই মিথ্যা, আসল ঘটনা মিডিয়া দেখাচ্ছে না।",
+    "label": 1,
+    "metadata": {
+      "political_party": "BNP",
+      "speaker_role": "journalist",
+      "country": "BD",
+      "source_credibility": 0.37,
+      "domain_age": 3
+    }
+  },
+  {
+    "text": "অবিশ্বাস্য! বিদ্যুৎ সংকট নিয়ে এই উপায়ে এক সপ্তাহেই সব সমস্যা শেষ, ডাক্তাররা চান না আপনি জানুন।",
+    "label": 1,
+    "metadata": {
+      "political_party": "AAP",
+      "speaker_role": "unknown",
+      "country": "IN",
+      "source_credibility": 0.3,
+      "domain_age": 10
+    }
+  },
+  {
+    "text": "জ্বালানির দাম নিয়ে গবেষণার ফল একটি পিয়ার-রিভিউড জার্নালে প্রকাশিত হয়েছে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "BNP",
+      "speaker_role": "unknown",
+      "country": "BD",
+      "source_credibility": 0.6,
+      "domain_age": 16
+    }
+  },
+  {
+    "text": "शिक्षा बजट के बारे में जो बताया जा रहा है वह सब झूठ है, मीडिया असली सच नहीं दिखा रहा।",
+    "label": 1,
+    "metadata": {
+      "political_party": "Congress",
+      "speaker_role": "official",
+      "country": "IN",
+      "source_credibility": 0.14,
+      "domain_age": 10
+    }
+  },
+  {
+    "text": "An official notice on traffic reforms states that the new rules take effect next month.",
+    "label": 0,
+    "metadata": {
+      "political_party": "Jatiya Party",
+      "speaker_role": "unknown",
+      "country": "BD",
+      "source_credibility": 0.63,
+      "domain_age": 2
+    }
+  },
+  {
+    "text": "URGENT: Everything you were told about public healthcare is a lie, and the media will not show you the real story.",
+    "label": 1,
+    "metadata": {
+      "political_party": "Congress",
+      "speaker_role": "politician",
+      "country": "IN",
+      "source_credibility": 0.15,
+      "domain_age": 3
+    }
+  },
+  {
+    "text": "বন্যা পরিস্থিতি নিয়ে সংসদীয় কমিটি বৈঠক করেছে এবং সুপারিশসহ প্রতিবেদন জমা দিয়েছে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "BNP",
+      "speaker_role": "journalist",
+      "country": "BD",
+      "source_credibility": 0.37,
+      "domain_age": 5
+    }
+  },
+  {
+    "text": "ईंधन की कीमतें पर शोध के नतीजे एक समीक्षित जर्नल में प्रकाशित हुए हैं।",
+    "label": 0,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "politician",
+      "country": "IN",
+      "source_credibility": 0.2,
+      "domain_age": 3
+    }
+  },
+  {
+    "text": "BREAKING: Everything you were told about traffic reforms is a lie, and the media will not show you the real story.",
+    "label": 1,
+    "metadata": {
+      "political_party": "Congress",
+      "speaker_role": "unknown",
+      "country": "IN",
+      "source_credibility": 0.31,
+      "domain_age": 11
+    }
+  },
+  {
+    "text": "सूत्रों के अनुसार बिजली संकट पर सरकार सच छिपा रही है। तुरंत सबको शेयर करें!",
+    "label": 1,
+    "metadata": {
+      "political_party": "AAP",
+      "speaker_role": "journalist",
+      "country": "IN",
+      "source_credibility": 0.28,
+      "domain_age": 6
+    }
+  },
+  {
+    "text": "ब्रेकिंग: प्रेस कॉन्फ्रेंस में मंत्री ने डिजिटल सेवाएँ से जुड़े आंकड़े जारी किए, जिन्हें स्वतंत्र संस्था ने भी सत्यापित किया।",
+    "label": 0,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "citizen",
+      "country": "IN",
+      "source_credibility": 0.41,
+      "domain_age": 15
+    }
+  },
+  {
+    "text": "Doctors don't want you to know: this one trick fixes everything about flood relief in a week.",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "official",
+      "country": "UNK",
+      "source_credibility": 0.31,
+      "domain_age": 7
+    }
+  },
+  {
+    "text": "শিক্ষা বাজেট নিয়ে গবেষণার ফল একটি পিয়ার-রিভিউড জার্নালে প্রকাশিত হয়েছে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "Awami League",
+      "speaker_role": "citizen",
+      "country": "BD",
+      "source_credibility": 0.28,
+      "domain_age": 19
+    }
+  },
+  {
+    "text": "যানজট নিরসন নিয়ে সংসদীয় কমিটি বৈঠক করেছে এবং সুপারিশসহ প্রতিবেদন জমা দিয়েছে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "Awami League",
+      "speaker_role": "politician",
+      "country": "BD",
+      "source_credibility": 0.52,
+      "domain_age": 13
+    }
+  },
+  {
+    "text": "An official notice on flood relief states that the new rules take effect next month.",
+    "label": 0,
+    "metadata": {
+      "political_party": "Awami League",
+      "speaker_role": "unknown",
+      "country": "BD",
+      "source_credibility": 0.48,
+      "domain_age": 9
+    }
+  },
+  {
+    "text": "जरूरी: बाढ़ की स्थिति पर शोध के नतीजे एक समीक्षित जर्नल में प्रकाशित हुए हैं।",
+    "label": 0,
+    "metadata": {
+      "political_party": "AAP",
+      "speaker_role": "official",
+      "country": "IN",
+      "source_credibility": 0.37,
+      "domain_age": 19
+    }
+  },
+  {
+    "text": "जरूरी: सूत्रों के अनुसार अनाज का बाज़ार पर सरकार सच छिपा रही है। तुरंत सबको शेयर करें!",
+    "label": 1,
+    "metadata": {
+      "political_party": "BJP",
+      "speaker_role": "citizen",
+      "country": "IN",
+      "source_credibility": 0.77,
+      "domain_age": 2
+    }
+  },
+  {
+    "text": "An official notice on flood relief states that the new rules take effect next month.",
+    "label": 0,
+    "metadata": {
+      "political_party": "BJP",
+      "speaker_role": "official",
+      "country": "IN",
+      "source_credibility": 0.43,
+      "domain_age": 17
+    }
+  },
+  {
+    "text": "BREAKING: Sources say the government is hiding the truth about the food market. Share before it gets deleted!",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "unknown",
+      "country": "BD",
+      "source_credibility": 0.36,
+      "domain_age": 6
+    }
+  },
+  {
+    "text": "সূত্র জানিয়েছে, টিকা কর্মসূচি নিয়ে সরকার সত্য গোপন করছে। সবাইকে শেয়ার করুন!",
+    "label": 1,
+    "metadata": {
+      "political_party": "Awami League",
+      "speaker_role": "journalist",
+      "country": "BD",
+      "source_credibility": 0.35,
+      "domain_age": 17
+    }
+  },
+  {
+    "text": "An official notice on the education budget states that the new rules take effect next month.",
+    "label": 0,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "citizen",
+      "country": "BD",
+      "source_credibility": 0.39,
+      "domain_age": 5
+    }
+  },
+  {
+    "text": "प्रेस कॉन्फ्रेंस में मंत्री ने स्वास्थ्य सेवा से जुड़े आंकड़े जारी किए, जिन्हें स्वतंत्र संस्था ने भी सत्यापित किया।",
+    "label": 0,
+    "metadata": {
+      "political_party": "AAP",
+      "speaker_role": "official",
+      "country": "IN",
+      "source_credibility": 0.35,
+      "domain_age": 5
+    }
+  },
+  {
+    "text": "EXPLOSIVE: Sources say the government is hiding the truth about public healthcare. Share before it gets deleted!",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "citizen",
+      "country": "IN",
+      "source_credibility": 0.24,
+      "domain_age": 1
+    }
+  },
+  {
+    "text": "ब्रेकिंग: टीकाकरण अभियान पर संसदीय समिति ने बैठक की और सिफारिशों के साथ रिपोर्ट सौंपी।",
+    "label": 0,
+    "metadata": {
+      "political_party": "Congress",
+      "speaker_role": "journalist",
+      "country": "IN",
+      "source_credibility": 0.47,
+      "domain_age": 10
+    }
+  },
+  {
+    "text": "ईंधन की कीमतें पर संसदीय समिति ने बैठक की और सिफारिशों के साथ रिपोर्ट सौंपी।",
+    "label": 0,
+    "metadata": {
+      "political_party": "Congress",
+      "speaker_role": "official",
+      "country": "IN",
+      "source_credibility": 0.77,
+      "domain_age": 15
+    }
+  },
+  {
+    "text": "Sources say the government is hiding the truth about flood relief. Share before it gets deleted!",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "unknown",
+      "country": "UNK",
+      "source_credibility": 0.19,
+      "domain_age": 8
+    }
+  },
+  {
+    "text": "चुनाव पर संसदीय समिति ने बैठक की और सिफारिशों के साथ रिपोर्ट सौंपी।",
+    "label": 0,
+    "metadata": {
+      "political_party": "BJP",
+      "speaker_role": "unknown",
+      "country": "IN",
+      "source_credibility": 0.61,
+      "domain_age": 12
+    }
+  },
+  {
+    "text": "ব্রেকিং: অবিশ্বাস্য! জ্বালানির দাম নিয়ে এই উপায়ে এক সপ্তাহেই সব সমস্যা শেষ, ডাক্তাররা চান না আপনি জানুন।",
+    "label": 1,
+    "metadata": {
+      "political_party": "Awami League",
+      "speaker_role": "journalist",
+      "country": "BD",
+      "source_credibility": 0.67,
+      "domain_age": 20
+    }
+  },
+  {
+    "text": "अनाज का बाज़ार पर शोध के नतीजे एक समीक्षित जर्नल में प्रकाशित हुए हैं।",
+    "label": 0,
+    "metadata": {
+      "political_party": "AAP",
+      "speaker_role": "politician",
+      "country": "IN",
+      "source_credibility": 0.65,
+      "domain_age": 14
+    }
+  },
+  {
+    "text": "स्वास्थ्य सेवा पर शोध के नतीजे एक समीक्षित जर्नल में प्रकाशित हुए हैं।",
+    "label": 0,
+    "metadata": {
+      "political_party": "AAP",
+      "speaker_role": "citizen",
+      "country": "IN",
+      "source_credibility": 0.59,
+      "domain_age": 12
+    }
+  },
+  {
+    "text": "BREAKING: A parliamentary committee met on the power shortage and submitted a report with recommendations.",
+    "label": 0,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "official",
+      "country": "BD",
+      "source_credibility": 0.41,
+      "domain_age": 18
+    }
+  },
+  {
+    "text": "बाढ़ की स्थिति के बारे में जो बताया जा रहा है वह सब झूठ है, मीडिया असली सच नहीं दिखा रहा।",
+    "label": 1,
+    "metadata": {
+      "political_party": "BJP",
+      "speaker_role": "politician",
+      "country": "IN",
+      "source_credibility": 0.35,
+      "domain_age": 6
+    }
+  },
+  {
+    "text": "URGENT: Shocking leak: opposition secretly received foreign money over fuel prices, documents exposed.",
+    "label": 1,
+    "metadata": {
+      "political_party": "AAP",
+      "speaker_role": "official",
+      "country": "IN",
+      "source_credibility": 0.08,
+      "domain_age": 16
+    }
+  },
+  {
+    "text": "ईंधन की कीमतें के बारे में सरकारी अधिसूचना में कहा गया है कि नए नियम अगले महीने से लागू होंगे।",
+    "label": 0,
+    "metadata": {
+      "political_party": "BJP",
+      "speaker_role": "official",
+      "country": "IN",
+      "source_credibility": 0.81,
+      "domain_age": 5
+    }
+  },
+  {
+    "text": "ट्रैफिक सुधार पर संसदीय समिति ने बैठक की और सिफारिशों के साथ रिपोर्ट सौंपी।",
+    "label": 0,
+    "metadata": {
+      "political_party": "BJP",
+      "speaker_role": "journalist",
+      "country": "IN",
+      "source_credibility": 0.73,
+      "domain_age": 12
+    }
+  },
+  {
+    "text": "সংবাদ সম্মেলনে মন্ত্রী যানজট নিরসন সংক্রান্ত পরিসংখ্যান প্রকাশ করেছেন, যা স্বাধীন সংস্থাও যাচাই করেছে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "Awami League",
+      "speaker_role": "unknown",
+      "country": "BD",
+      "source_credibility": 0.35,
+      "domain_age": 15
+    }
+  },
+  {
+    "text": "टीकाकरण अभियान पर संसदीय समिति ने बैठक की और सिफारिशों के साथ रिपोर्ट सौंपी।",
+    "label": 0,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "journalist",
+      "country": "IN",
+      "source_credibility": 0.62,
+      "domain_age": 4
+    }
+  },
+  {
+    "text": "Doctors don't want you to know: this one trick fixes everything about the food market in a week.",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "official",
+      "country": "UNK",
+      "source_credibility": 0.13,
+      "domain_age": 8
+    }
+  },
+  {
+    "text": "বিদ্যুৎ সংকট বিষয়ে সরকারি বিজ্ঞপ্তিতে বলা হয়েছে, নতুন নিয়ম আগামী মাস থেকে কার্যকর হবে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "unknown",
+      "country": "BD",
+      "source_credibility": 0.52,
+      "domain_age": 11
+    }
+  },
+  {
+    "text": "सूत्रों के अनुसार चुनाव पर सरकार सच छिपा रही है। तुरंत सबको शेयर करें!",
+    "label": 1,
+    "metadata": {
+      "political_party": "Congress",
+      "speaker_role": "official",
+      "country": "IN",
+      "source_credibility": 0.6,
+      "domain_age": 4
+    }
+  },
+  {
+    "text": "ভয়ংকর খবর! টিকা কর্মসূচি নিয়ে বিরোধী দল গোপনে বিদেশ থেকে টাকা নিয়েছে, প্রমাণ ফাঁস।",
+    "label": 1,
+    "metadata": {
+      "political_party": "BNP",
+      "speaker_role": "official",
+      "country": "BD",
+      "source_credibility": 0.76,
+      "domain_age": 3
+    }
+  },
+  {
+    "text": "সংবাদ সম্মেলনে মন্ত্রী চালের বাজার সংক্রান্ত পরিসংখ্যান প্রকাশ করেছেন, যা স্বাধীন সংস্থাও যাচাই করেছে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "Awami League",
+      "speaker_role": "journalist",
+      "country": "BD",
+      "source_credibility": 0.43,
+      "domain_age": 16
+    }
+  },
+  {
+    "text": "বন্যা পরিস্থিতি নিয়ে সংসদীয় কমিটি বৈঠক করেছে এবং সুপারিশসহ প্রতিবেদন জমা দিয়েছে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "BNP",
+      "speaker_role": "journalist",
+      "country": "BD",
+      "source_credibility": 0.67,
+      "domain_age": 10
+    }
+  },
+  {
+    "text": "জরুরি: স্বাস্থ্যসেবা নিয়ে যা বলা হচ্ছে সবই মিথ্যা, আসল ঘটনা মিডিয়া দেখাচ্ছে না।",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "politician",
+      "country": "BD",
+      "source_credibility": 0.12,
+      "domain_age": 8
+    }
+  },
+  {
+    "text": "EXPLOSIVE: Sources say the government is hiding the truth about traffic reforms. Share before it gets deleted!",
+    "label": 1,
+    "metadata": {
+      "political_party": "AAP",
+      "speaker_role": "official",
+      "country": "IN",
+      "source_credibility": 0.59,
+      "domain_age": 4
+    }
+  },
+  {
+    "text": "विस्फोटक: प्रेस कॉन्फ्रेंस में मंत्री ने चुनाव से जुड़े आंकड़े जारी किए, जिन्हें स्वतंत्र संस्था ने भी सत्यापित किया।",
+    "label": 0,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "journalist",
+      "country": "BD",
+      "source_credibility": 1.0,
+      "domain_age": 17
+    }
+  },
+  {
+    "text": "A parliamentary committee met on traffic reforms and submitted a report with recommendations.",
+    "label": 0,
+    "metadata": {
+      "political_party": "Democrat",
+      "speaker_role": "journalist",
+      "country": "US",
+      "source_credibility": 0.7,
+      "domain_age": 18
+    }
+  },
+  {
+    "text": "সূত্র জানিয়েছে, জ্বালানির দাম নিয়ে সরকার সত্য গোপন করছে। সবাইকে শেয়ার করুন!",
+    "label": 1,
+    "metadata": {
+      "political_party": "BNP",
+      "speaker_role": "unknown",
+      "country": "BD",
+      "source_credibility": 0.44,
+      "domain_age": 8
+    }
+  },
+  {
+    "text": "যানজট নিরসন নিয়ে সংসদীয় কমিটি বৈঠক করেছে এবং সুপারিশসহ প্রতিবেদন জমা দিয়েছে।",
+    "label": 0,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "politician",
+      "country": "BD",
+      "source_credibility": 0.13,
+      "domain_age": 3
+    }
+  },
+  {
+    "text": "বিস্ফোরক: সূত্র জানিয়েছে, চালের বাজার নিয়ে সরকার সত্য গোপন করছে। সবাইকে শেয়ার করুন!",
+    "label": 1,
+    "metadata": {
+      "political_party": "Awami League",
+      "speaker_role": "citizen",
+      "country": "BD",
+      "source_credibility": 0.51,
+      "domain_age": 13
+    }
+  },
+  {
+    "text": "An official notice on the food market states that the new rules take effect next month.",
+    "label": 0,
+    "metadata": {
+      "political_party": "Democrat",
+      "speaker_role": "journalist",
+      "country": "US",
+      "source_credibility": 0.34,
+      "domain_age": 19
+    }
+  },
+  {
+    "text": "A parliamentary committee met on the power shortage and submitted a report with recommendations.",
+    "label": 0,
+    "metadata": {
+      "political_party": "Jatiya Party",
+      "speaker_role": "official",
+      "country": "BD",
+      "source_credibility": 0.38,
+      "domain_age": 20
+    }
+  },
+  {
+    "text": "At a press conference the minister released figures on public healthcare, which an independent body also verified.",
+    "label": 0,
+    "metadata": {
+      "political_party": "Awami League",
+      "speaker_role": "politician",
+      "country": "BD",
+      "source_credibility": 0.39,
+      "domain_age": 3
+    }
+  },
+  {
+    "text": "URGENT: Sources say the government is hiding the truth about public healthcare. Share before it gets deleted!",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "unknown",
+      "country": "UNK",
+      "source_credibility": 0.45,
+      "domain_age": 4
+    }
+  },
+  {
+    "text": "अनाज का बाज़ार पर संसदीय समिति ने बैठक की और सिफारिशों के साथ रिपोर्ट सौंपी।",
+    "label": 0,
+    "metadata": {
+      "political_party": "BJP",
+      "speaker_role": "politician",
+      "country": "IN",
+      "source_credibility": 0.1,
+      "domain_age": 3
+    }
+  },
+  {
+    "text": "जरूरी: सूत्रों के अनुसार शिक्षा बजट पर सरकार सच छिपा रही है। तुरंत सबको शेयर करें!",
+    "label": 1,
+    "metadata": {
+      "political_party": "Congress",
+      "speaker_role": "journalist",
+      "country": "IN",
+      "source_credibility": 0.88,
+      "domain_age": 3
+    }
+  },
+  {
+    "text": "ভয়ংকর খবর! টিকা কর্মসূচি নিয়ে বিরোধী দল গোপনে বিদেশ থেকে টাকা নিয়েছে, প্রমাণ ফাঁস।",
+    "label": 1,
+    "metadata": {
+      "political_party": "AAP",
+      "speaker_role": "journalist",
+      "country": "IN",
+      "source_credibility": 0.19,
+      "domain_age": 3
+    }
+  },
+  {
+    "text": "URGENT: Shocking leak: opposition secretly received foreign money over the education budget, documents exposed.",
+    "label": 1,
+    "metadata": {
+      "political_party": "Republican",
+      "speaker_role": "journalist",
+      "country": "US",
+      "source_credibility": 0.67,
+      "domain_age": 4
+    }
+  },
+  {
+    "text": "सूत्रों के अनुसार चुनाव पर सरकार सच छिपा रही है। तुरंत सबको शेयर करें!",
+    "label": 1,
+    "metadata": {
+      "political_party": "Congress",
+      "speaker_role": "politician",
+      "country": "IN",
+      "source_credibility": 0.42,
+      "domain_age": 8
+    }
+  },
+  {
+    "text": "At a press conference the minister released figures on flood relief, which an independent body also verified.",
+    "label": 0,
+    "metadata": {
+      "political_party": "Congress",
+      "speaker_role": "unknown",
+      "country": "IN",
+      "source_credibility": 0.98,
+      "domain_age": 6
+    }
+  },
+  {
+    "text": "Research findings on traffic reforms have been published in a peer-reviewed journal.",
+    "label": 0,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "official",
+      "country": "UNK",
+      "source_credibility": 0.61,
+      "domain_age": 7
+    }
+  },
+  {
+    "text": "BREAKING: A parliamentary committee met on fuel prices and submitted a report with recommendations.",
+    "label": 0,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "politician",
+      "country": "US",
+      "source_credibility": 0.61,
+      "domain_age": 4
+    }
+  },
+  {
+    "text": "A parliamentary committee met on flood relief and submitted a report with recommendations.",
+    "label": 0,
+    "metadata": {
+      "political_party": "BNP",
+      "speaker_role": "citizen",
+      "country": "BD",
+      "source_credibility": 0.64,
+      "domain_age": 6
+    }
+  },
+  {
+    "text": "Sources say the government is hiding the truth about the power shortage. Share before it gets deleted!",
+    "label": 1,
+    "metadata": {
+      "political_party": "Awami League",
+      "speaker_role": "politician",
+      "country": "BD",
+      "source_credibility": 0.44,
+      "domain_age": 1
+    }
+  },
+  {
+    "text": "ব্রেকিং: অবিশ্বাস্য! জ্বালানির দাম নিয়ে এই উপায়ে এক সপ্তাহেই সব সমস্যা শেষ, ডাক্তাররা চান না আপনি জানুন।",
+    "label": 1,
+    "metadata": {
+      "political_party": "Jatiya Party",
+      "speaker_role": "citizen",
+      "country": "BD",
+      "source_credibility": 0.68,
+      "domain_age": 2
+    }
+  },
+  {
+    "text": "जरूरी: टीकाकरण अभियान के बारे में जो बताया जा रहा है वह सब झूठ है, मीडिया असली सच नहीं दिखा रहा।",
+    "label": 1,
+    "metadata": {
+      "political_party": "Congress",
+      "speaker_role": "official",
+      "country": "IN",
+      "source_credibility": 0.52,
+      "domain_age": 5
+    }
+  },
+  {
+    "text": "बाढ़ की स्थिति पर संसदीय समिति ने बैठक की और सिफारिशों के साथ रिपोर्ट सौंपी।",
+    "label": 0,
+    "metadata": {
+      "political_party": "BJP",
+      "speaker_role": "citizen",
+      "country": "IN",
+      "source_credibility": 1.0,
+      "domain_age": 16
+    }
+  },
+  {
+    "text": "प्रेस कॉन्फ्रेंस में मंत्री ने टीकाकरण अभियान से जुड़े आंकड़े जारी किए, जिन्हें स्वतंत्र संस्था ने भी सत्यापित किया।",
+    "label": 0,
+    "metadata": {
+      "political_party": "AAP",
+      "speaker_role": "official",
+      "country": "IN",
+      "source_credibility": 0.92,
+      "domain_age": 4
+    }
+  },
+  {
+    "text": "Doctors don't want you to know: this one trick fixes everything about traffic reforms in a week.",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "official",
+      "country": "UNK",
+      "source_credibility": 0.54,
+      "domain_age": 7
+    }
+  },
+  {
+    "text": "টিকা কর্মসূচি নিয়ে যা বলা হচ্ছে সবই মিথ্যা, আসল ঘটনা মিডিয়া দেখাচ্ছে না।",
+    "label": 1,
+    "metadata": {
+      "political_party": "Jatiya Party",
+      "speaker_role": "politician",
+      "country": "BD",
+      "source_credibility": 0.5,
+      "domain_age": 7
+    }
+  },
+  {
+    "text": "प्रेस कॉन्फ्रेंस में मंत्री ने अनाज का बाज़ार से जुड़े आंकड़े जारी किए, जिन्हें स्वतंत्र संस्था ने भी सत्यापित किया।",
+    "label": 0,
+    "metadata": {
+      "political_party": "BJP",
+      "speaker_role": "unknown",
+      "country": "IN",
+      "source_credibility": 0.55,
+      "domain_age": 3
+    }
+  },
+  {
+    "text": "शिक्षा बजट पर शोध के नतीजे एक समीक्षित जर्नल में प्रकाशित हुए हैं।",
+    "label": 0,
+    "metadata": {
+      "political_party": "Congress",
+      "speaker_role": "citizen",
+      "country": "IN",
+      "source_credibility": 0.76,
+      "domain_age": 15
+    }
+  },
+  {
+    "text": "URGENT: Doctors don't want you to know: this one trick fixes everything about digital services in a week.",
+    "label": 1,
+    "metadata": {
+      "political_party": "Awami League",
+      "speaker_role": "politician",
+      "country": "BD",
+      "source_credibility": 0.28,
+      "domain_age": 5
+    }
+  },
+  {
+    "text": "ব্রেকিং: বিদ্যুৎ সংকট নিয়ে যা বলা হচ্ছে সবই মিথ্যা, আসল ঘটনা মিডিয়া দেখাচ্ছে না।",
+    "label": 1,
+    "metadata": {
+      "political_party": "Awami League",
+      "speaker_role": "journalist",
+      "country": "BD",
+      "source_credibility": 0.51,
+      "domain_age": 1
+    }
+  },
+  {
+    "text": "डॉक्टर नहीं चाहते कि आप जानें: ईंधन की कीमतें का यह उपाय एक हफ्ते में सब ठीक कर देगा।",
+    "label": 1,
+    "metadata": {
+      "political_party": "BJP",
+      "speaker_role": "unknown",
+      "country": "IN",
+      "source_credibility": 0.43,
+      "domain_age": 1
+    }
+  },
+  {
+    "text": "प्रेस कॉन्फ्रेंस में मंत्री ने ईंधन की कीमतें से जुड़े आंकड़े जारी किए, जिन्हें स्वतंत्र संस्था ने भी सत्यापित किया।",
+    "label": 0,
+    "metadata": {
+      "political_party": "BNP",
+      "speaker_role": "politician",
+      "country": "BD",
+      "source_credibility": 0.3,
+      "domain_age": 7
+    }
+  },
+  {
+    "text": "শিক্ষা বাজেট নিয়ে যা বলা হচ্ছে সবই মিথ্যা, আসল ঘটনা মিডিয়া দেখাচ্ছে না।",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "journalist",
+      "country": "BD",
+      "source_credibility": 0.29,
+      "domain_age": 1
+    }
+  },
+  {
+    "text": "ভয়ংকর খবর! ডিজিটাল সেবা নিয়ে বিরোধী দল গোপনে বিদেশ থেকে টাকা নিয়েছে, প্রমাণ ফাঁস।",
+    "label": 1,
+    "metadata": {
+      "political_party": "None",
+      "speaker_role": "unknown",
+      "country": "BD",
+      "source_credibility": 0.23,
+      "domain_age": 16
+    }
+  },
+  {
+    "text": "Sources say the government is hiding the truth about the food market. Share before it gets deleted!",
+    "label": 1,
+    "metadata": {
+      "political_party": "Awami League",
+      "speaker_role": "official",
+      "country": "BD",
+      "source_credibility": 0.45,
+      "domain_age": 15
+    }
+  }
+]
